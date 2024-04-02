@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Apple iPhone 6 with and without jailbreak | Dr.fone
-date: 2024-04-01T12:11:15.246Z
-updated: 2024-04-02T12:11:15.246Z
+date: 2024-04-01T12:53:17.664Z
+updated: 2024-04-02T12:53:17.664Z
 tags: 
   - virtual location change
   - location tracker

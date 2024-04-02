@@ -1,7 +1,7 @@
 ---
 title: In 2024, Two Ways to Track My Boyfriends Apple iPhone 6 without Him Knowing | Dr.fone
-date: 2024-04-01T12:11:15.261Z
-updated: 2024-04-02T12:11:15.261Z
+date: 2024-04-01T12:53:17.678Z
+updated: 2024-04-02T12:53:17.678Z
 tags: 
   - virtual location change
   - location tracker
