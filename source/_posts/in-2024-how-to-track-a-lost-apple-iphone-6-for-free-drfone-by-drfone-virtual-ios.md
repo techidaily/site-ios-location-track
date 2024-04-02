@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track a Lost Apple iPhone 6 for Free? | Dr.fone
-date: 2024-03-25 12:33:48
-updated: 2024-03-28 11:52:16
+date: 2024-04-01T06:55:05.739Z
+updated: 2024-04-02T06:55:05.739Z
 tags: 
   - virtual location change
   - location tracker

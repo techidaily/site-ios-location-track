@@ -1,4 +1,4 @@
-Sitemap: https://ios-location-track.techidaily.com/sitemap.txt
+Sitemap: https://ios-location-track.techidaily.com/sitemap.xml
 User-agent: Googlebot
 Disallow:
 
