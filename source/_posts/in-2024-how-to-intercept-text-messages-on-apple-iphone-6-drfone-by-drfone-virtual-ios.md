@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Intercept Text Messages on Apple iPhone 6 | Dr.fone
-date: 2024-04-01T06:55:05.729Z
-updated: 2024-04-02T06:55:05.729Z
+date: 2024-04-01T12:11:15.252Z
+updated: 2024-04-02T12:11:15.252Z
 tags: 
   - virtual location change
   - location tracker

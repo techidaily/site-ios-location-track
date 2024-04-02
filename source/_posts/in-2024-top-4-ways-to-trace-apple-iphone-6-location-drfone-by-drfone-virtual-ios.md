@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 4 Ways to Trace Apple iPhone 6 Location | Dr.fone
-date: 2024-04-01T06:55:05.727Z
-updated: 2024-04-02T06:55:05.727Z
+date: 2024-04-01T12:11:15.249Z
+updated: 2024-04-02T12:11:15.249Z
 tags: 
   - virtual location change
   - location tracker

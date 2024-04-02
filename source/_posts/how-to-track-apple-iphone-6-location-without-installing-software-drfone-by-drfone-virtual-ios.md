@@ -1,7 +1,7 @@
 ---
 title: How to Track Apple iPhone 6 Location without Installing Software? | Dr.fone
-date: 2024-04-01T06:55:05.716Z
-updated: 2024-04-02T06:55:05.716Z
+date: 2024-04-01T12:11:15.231Z
+updated: 2024-04-02T12:11:15.231Z
 tags: 
   - virtual location change
   - location tracker
