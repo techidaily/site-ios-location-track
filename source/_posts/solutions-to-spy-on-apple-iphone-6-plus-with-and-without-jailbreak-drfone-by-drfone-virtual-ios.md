@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Apple iPhone 6 Plus with and without jailbreak | Dr.fone
-date: 2024-04-07T03:09:32.960Z
-updated: 2024-04-08T03:09:32.960Z
+date: 2024-04-07T20:38:41.632Z
+updated: 2024-04-08T20:38:41.632Z
 tags: 
   - virtual location change
   - location tracker

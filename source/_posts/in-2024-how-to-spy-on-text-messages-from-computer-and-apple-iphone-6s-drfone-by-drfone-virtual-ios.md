@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Apple iPhone 6s | Dr.fone
-date: 2024-04-07T03:09:32.989Z
-updated: 2024-04-08T03:09:32.989Z
+date: 2024-04-07T20:38:41.777Z
+updated: 2024-04-08T20:38:41.777Z
 tags: 
   - virtual location change
   - location tracker

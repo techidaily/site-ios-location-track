@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 9 Apple iPhone 6 Plus Monitoring Apps for Parental Controls | Dr.fone
-date: 2024-04-07T03:09:32.976Z
-updated: 2024-04-08T03:09:32.976Z
+date: 2024-04-07T20:38:41.678Z
+updated: 2024-04-08T20:38:41.678Z
 tags: 
   - virtual location change
   - location tracker

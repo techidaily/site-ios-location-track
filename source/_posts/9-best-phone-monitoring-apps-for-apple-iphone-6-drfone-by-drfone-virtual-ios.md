@@ -1,7 +1,7 @@
 ---
 title: 9 Best Phone Monitoring Apps for Apple iPhone 6 | Dr.fone
-date: 2024-04-07T03:09:32.948Z
-updated: 2024-04-08T03:09:32.948Z
+date: 2024-04-07T20:38:41.540Z
+updated: 2024-04-08T20:38:41.540Z
 tags: 
   - virtual location change
   - location tracker

@@ -1,7 +1,7 @@
 ---
 title: In 2024, Top 10 Telegram Spy Tools On Apple iPhone 6 Plus for Parents | Dr.fone
-date: 2024-04-07T03:09:32.977Z
-updated: 2024-04-08T03:09:32.977Z
+date: 2024-04-07T20:38:41.682Z
+updated: 2024-04-08T20:38:41.682Z
 tags: 
   - virtual location change
   - location tracker

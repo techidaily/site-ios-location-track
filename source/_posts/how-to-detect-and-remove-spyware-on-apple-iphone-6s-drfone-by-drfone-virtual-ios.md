@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Remove Spyware on Apple iPhone 6s? | Dr.fone
-date: 2024-04-07T03:09:32.981Z
-updated: 2024-04-08T03:09:32.981Z
+date: 2024-04-07T20:38:41.718Z
+updated: 2024-04-08T20:38:41.718Z
 tags: 
   - virtual location change
   - location tracker

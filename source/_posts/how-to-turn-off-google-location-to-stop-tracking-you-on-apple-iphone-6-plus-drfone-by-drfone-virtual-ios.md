@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Apple iPhone 6 Plus | Dr.fone
-date: 2024-04-07T03:09:32.966Z
-updated: 2024-04-08T03:09:32.966Z
+date: 2024-04-07T20:38:41.659Z
+updated: 2024-04-08T20:38:41.659Z
 tags: 
   - virtual location change
   - location tracker
