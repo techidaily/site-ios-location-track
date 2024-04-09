@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 6 | Dr.fone
-date: 2024-04-07T20:38:41.558Z
-updated: 2024-04-08T20:38:41.558Z
+date: 2024-04-08T23:42:08.038Z
+updated: 2024-04-09T23:42:08.038Z
 tags: 
   - virtual location change
   - location tracker

@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Apple iPhone 6 Plus without Them Knowing | Dr.fone
-date: 2024-04-07T20:38:41.656Z
-updated: 2024-04-08T20:38:41.656Z
+date: 2024-04-08T23:42:08.127Z
+updated: 2024-04-09T23:42:08.127Z
 tags: 
   - virtual location change
   - location tracker

@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Apple iPhone 6 Plus? | Dr.fone
-date: 2024-04-07T20:38:41.630Z
-updated: 2024-04-08T20:38:41.630Z
+date: 2024-04-08T23:42:08.074Z
+updated: 2024-04-09T23:42:08.074Z
 tags: 
   - virtual location change
   - location tracker

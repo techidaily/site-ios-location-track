@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track Apple iPhone 6 by Phone Number | Dr.fone
-date: 2024-04-07T20:38:41.565Z
-updated: 2024-04-08T20:38:41.565Z
+date: 2024-04-08T23:42:08.047Z
+updated: 2024-04-09T23:42:08.047Z
 tags: 
   - virtual location change
   - location tracker

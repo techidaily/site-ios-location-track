@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Detect and Remove Spyware on Apple iPhone 6 Plus? | Dr.fone
-date: 2024-04-07T20:38:41.669Z
-updated: 2024-04-08T20:38:41.669Z
+date: 2024-04-08T23:42:08.141Z
+updated: 2024-04-09T23:42:08.141Z
 tags: 
   - virtual location change
   - location tracker

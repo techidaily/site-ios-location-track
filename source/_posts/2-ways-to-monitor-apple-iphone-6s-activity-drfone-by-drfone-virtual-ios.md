@@ -1,7 +1,7 @@
 ---
 title: 2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone
-date: 2024-04-07T20:38:41.749Z
-updated: 2024-04-08T20:38:41.749Z
+date: 2024-04-08T23:42:08.227Z
+updated: 2024-04-09T23:42:08.227Z
 tags: 
   - virtual location change
   - location tracker

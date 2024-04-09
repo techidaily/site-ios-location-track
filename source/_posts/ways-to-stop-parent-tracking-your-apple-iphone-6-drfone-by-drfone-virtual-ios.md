@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Apple iPhone 6 | Dr.fone
-date: 2024-04-07T20:38:41.524Z
-updated: 2024-04-08T20:38:41.524Z
+date: 2024-04-08T23:42:07.996Z
+updated: 2024-04-09T23:42:07.996Z
 tags: 
   - virtual location change
   - location tracker

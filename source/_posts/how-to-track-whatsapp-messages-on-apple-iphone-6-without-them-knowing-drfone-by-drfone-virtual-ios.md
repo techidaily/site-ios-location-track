@@ -1,7 +1,7 @@
 ---
 title: How to Track WhatsApp Messages on Apple iPhone 6 Without Them Knowing? | Dr.fone
-date: 2024-04-07T20:38:41.550Z
-updated: 2024-04-08T20:38:41.550Z
+date: 2024-04-08T23:42:08.029Z
+updated: 2024-04-09T23:42:08.029Z
 tags: 
   - virtual location change
   - location tracker
