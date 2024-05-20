@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Apple iPhone 12 mini? | Dr.fone
-date: 2024-04-30T12:51:10.552Z
-updated: 2024-05-01T12:51:10.552Z
+date: 2024-05-19T02:43:47.494Z
+updated: 2024-05-20T02:43:47.494Z
 tags: 
   - virtual location change
   - location tracker
@@ -374,4 +374,5 @@ Tracking a lost phone can be fun and at the same time a daunting task. The outco
 <li><a href="https://android-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-xiaomi-redmi-k70-drfone-by-drfone-virtual-android/"><u>How to Turn Off Google Location to Stop Tracking You on Xiaomi Redmi K70 | Dr.fone</u></a></li>
 <li><a href="https://fake-location.techidaily.com/does-life360-notify-when-you-log-out-on-samsung-galaxy-a14-5g-drfone-by-drfone-virtual-android/"><u>Does Life360 Notify When You Log Out On Samsung Galaxy A14 5G? | Dr.fone</u></a></li>
 </ul></div>
+
 

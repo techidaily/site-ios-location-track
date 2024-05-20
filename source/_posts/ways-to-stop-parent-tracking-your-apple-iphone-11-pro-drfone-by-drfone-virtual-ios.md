@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Apple iPhone 11 Pro | Dr.fone
-date: 2024-04-30T12:50:35.934Z
-updated: 2024-05-01T12:50:35.934Z
+date: 2024-05-19T02:43:44.816Z
+updated: 2024-05-20T02:43:44.816Z
 tags: 
   - virtual location change
   - location tracker
@@ -369,4 +369,5 @@ AR game tricks
 <li><a href="https://ai-video-editing.techidaily.com/new-2024-approved-free-3d-intro-makers/"><u>New 2024 Approved Free 3D Intro Makers</u></a></li>
 <li><a href="https://android-transfer.techidaily.com/how-to-transfer-videos-from-realme-c67-4g-to-ipad-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Videos from Realme C67 4G to iPad | Dr.fone</u></a></li>
 </ul></div>
+
 

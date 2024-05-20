@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 Pro | Dr.fone
-date: 2024-04-30T12:51:38.780Z
-updated: 2024-05-01T12:51:38.780Z
+date: 2024-05-19T02:43:49.444Z
+updated: 2024-05-20T02:43:49.444Z
 tags: 
   - virtual location change
   - location tracker
@@ -528,4 +528,5 @@ There you go! Lost your Apple iPhone 12 Pro? We've provided you with 5 different
 <li><a href="https://unlock-android.techidaily.com/mastering-android-device-manager-the-ultimate-guide-to-unlocking-your-vivo-s18-device-by-drfone-android/"><u>Mastering Android Device Manager The Ultimate Guide to Unlocking Your Vivo S18 Device</u></a></li>
 <li><a href="https://unlock-android.techidaily.com/top-10-fingerprint-lock-apps-to-lock-your-xiaomi-redmi-note-12t-pro-phone-by-drfone-android/"><u>Top 10 Fingerprint Lock Apps to Lock Your Xiaomi Redmi Note 12T Pro Phone</u></a></li>
 </ul></div>
+
 
