@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Track Apple iPhone 8 without App | Dr.fone
-date: 2024-05-19T02:43:39.988Z
-updated: 2024-05-20T02:43:39.988Z
+date: 2024-06-30T14:32:52.197Z
+updated: 2024-07-01T14:32:52.197Z
 tags: 
   - virtual location change
   - location tracker
@@ -10,7 +10,7 @@ categories:
 description: This article describes 5 Ways to Track Apple iPhone 8 without App
 excerpt: This article describes 5 Ways to Track Apple iPhone 8 without App
 keywords: track location for iPhone,Location Track for iPhone 8,track location for iPhone 8,Location Track for iPad,track location for iPad,Location Track for iPhone
-thumbnail: https://www.lifewire.com/thmb/s_49EdazIwlAKelLWFU8LSaOlMk=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/GettyImages-585151372-a659baf0c7b441b9b7e7896716b12784.jpg
+thumbnail: https://thmb.techidaily.com/97d650cd0f6e07d2facd0c86f96f609a10afc326cf6eb9f144fb267795cd5a9a.jpg
 ---
 
 ## 5 Ways to Track Apple iPhone 8 without App
@@ -95,7 +95,7 @@ Speaking of GPS locations, here’s how to get started with tracking your Apple 
 
 Step 1. You first need to choose between one of three plans, and your login credentials will be emailed to you upon successful completion of purchase.
 
-![choose the plan and get the login credentials ](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
+![choose the plan and get the login credentials](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
 

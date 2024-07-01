@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track WhatsApp Messages on Apple iPhone 12 Pro Without Them Knowing? | Dr.fone
-date: 2024-05-19T02:43:49.856Z
-updated: 2024-05-20T02:43:49.856Z
+date: 2024-06-30T14:32:52.392Z
+updated: 2024-07-01T14:32:52.392Z
 tags: 
   - virtual location change
   - location tracker
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Apple iPhone 12 Pro Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Apple iPhone 12 Pro Without Them Knowing?
 keywords: track location for iPhone 12 Pro,Location Track for iPad,track location for iPad,Location Track for iPhone 12 Pro,Location Track for iPhone,track location for iPhone
-thumbnail: https://www.lifewire.com/thmb/gkHTDPF5tRElmHvxvKCu-VDPyhI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/should-you-buy-an-apple-tv-5248431-f35331ef36b749b9895a2c1e3705cf22.jpg
+thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
 ## How to Track WhatsApp Messages on Apple iPhone 12 Pro Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

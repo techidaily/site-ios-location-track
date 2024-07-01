@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Track WhatsApp Messages on Apple iPhone 12 mini Without Them Knowing? | Dr.fone
-date: 2024-05-19T02:43:48.197Z
-updated: 2024-05-20T02:43:48.197Z
+date: 2024-06-30T14:32:49.369Z
+updated: 2024-07-01T14:32:49.369Z
 tags: 
   - virtual location change
   - location tracker
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Track WhatsApp Messages on Apple iPhone 12 mini Without Them Knowing?
 excerpt: This article describes How to Track WhatsApp Messages on Apple iPhone 12 mini Without Them Knowing?
 keywords: Location Track for iPhone 12 mini,Location Track for iPad,track location for iPhone,track location for iPad,track location for iPhone 12 mini,Location Track for iPhone
-thumbnail: https://www.lifewire.com/thmb/6mx5ubcqWIE245JjiBlgZpvI48I=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Horserace-56ca33a85f9b5879cc4bcc6e.jpg
+thumbnail: https://thmb.techidaily.com/1501cba3c5f4c4b803b623584f546bd1f9723b8ea081222f679c45ec271effc3.jpg
 ---
 
 ## How to Track WhatsApp Messages on Apple iPhone 12 mini Without Them Knowing?
@@ -159,7 +159,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 
@@ -324,7 +324,7 @@ Since it runs in stealth mode, it allowed me to track my boyfriend’s phone wit
 
 1\. Firstly, visit KidsGuard Pro’s official website right [here](https://panel.clevguard.com/sign-up?dev_tp=android) and create your new account. You need to sign-up with your email id and set up a strong password.
 
-![track my boyfriend’s phone-sign up KidsGuard Pro ](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
+![track my boyfriend’s phone-sign up KidsGuard Pro](https://images.wondershare.com/drfone/article/2022/03/create-an-account-for-clevguard.jpg)
 
 2\. Secondly, after buying the product, you need to download the KidsGuard Pro app on your target device. Please go to the My Products and Orders Management page and click "Setup Guide" to follow the instructions carefully and complete all settings on the target device.
 

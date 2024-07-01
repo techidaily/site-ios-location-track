@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Spy on Text Messages from Computer & Apple iPhone 12 mini | Dr.fone
-date: 2024-05-19T02:43:47.973Z
-updated: 2024-05-20T02:43:47.973Z
+date: 2024-06-30T14:32:50.236Z
+updated: 2024-07-01T14:32:50.236Z
 tags: 
   - virtual location change
   - location tracker
@@ -10,7 +10,7 @@ categories:
 description: This article describes How to Spy on Text Messages from Computer & Apple iPhone 12 mini
 excerpt: This article describes How to Spy on Text Messages from Computer & Apple iPhone 12 mini
 keywords: track location for iPhone 12 mini,track location for iPhone,Location Track for iPhone,Location Track for iPad,track location for iPad,Location Track for iPhone 12 mini
-thumbnail: https://www.lifewire.com/thmb/8JZwZGtr8caBDhoilBDj6iOR2TI=/400x300/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/samsungappstore-c0194a478ba54e90a798b3bb5ff4f6d5.jpg
+thumbnail: https://thmb.techidaily.com/4615a0815eaaaa9b22c58e4b20231144a4af2f1f5af9f2c94189c8d2595dadf6.jpg
 ---
 
 ## How to Spy on Text Messages from Computer & Apple iPhone 12 mini
