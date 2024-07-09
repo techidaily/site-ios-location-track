@@ -1,7 +1,7 @@
 ---
 title: How to Spy on Text Messages from Computer & Apple iPhone 6 | Dr.fone
-date: 2024-06-08T00:44:01.622Z
-updated: 2024-06-09T00:44:01.622Z
+date: 2024-07-08T02:58:01.864Z
+updated: 2024-07-09T02:58:01.864Z
 tags: 
   - virtual location change
   - location tracker
@@ -207,7 +207,7 @@ Now, use the search box on the top left to enter your desired location. Once the
 
 ![press the move here button](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
-![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg)safe & secure
+![Safe download](https://images.wondershare.com/drfone/article/2022/05/security.svg) safe & secure
 
 ## Part 5: How To See Deleted Messages on WhatsApp?
 

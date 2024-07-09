@@ -1,7 +1,7 @@
 ---
 title: How to Turn Off Google Location to Stop Tracking You on Apple iPhone 6s Plus | Dr.fone
-date: 2024-06-08T00:44:07.541Z
-updated: 2024-06-09T00:44:07.541Z
+date: 2024-07-08T02:58:06.535Z
+updated: 2024-07-09T02:58:06.535Z
 tags: 
   - virtual location change
   - location tracker
@@ -155,7 +155,7 @@ If Timeline is previously activated on your Android device, chances are Google M
 
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
-## Part 3. Keep Your Whereabouts Private With [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)
+## Part 3. Keep Your Whereabouts Private With <u>Wondershare Dr.Fone</u>
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Android smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
 
