@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Apple iPhone 14 Pro Max | Dr.fone
-date: 2024-08-08T01:02:59.827Z
-updated: 2024-08-09T01:02:59.827Z
+date: 2024-09-04T00:00:08.211Z
+updated: 2024-09-05T00:00:08.211Z
 tags: 
   - virtual location change
   - location tracker
@@ -17,19 +17,12 @@ thumbnail: https://thmb.techidaily.com/017337439b4f792b0246468061b8e1aa8f8f36d01
 
 If you want to know about the solution that how to stop someone from spying on my cell phone then it is simple processes that you need to follow. This article has been written to make sure that you get all the information about the topic and get to implement the strategies that will garner highly positive results. In this article, the best location spoofing apps will be used to get the results. You will also get to know the proven technologies that will get the work done with ease and perfection.
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=35504869&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/1_FR-200-1.png" border="0">Glarysoft File Recovery Pro Annually -  Helps to recover your lost file/data, even permanently deleted data. 
-</a>
-<!-- affiliate ads end -->
 ## Part 1: How does the parent tracking tool work?
 
 Many ways are used by the tracking tools to make sure that the children are always monitored. Some of the features include geo-fencing, app tracking, location, movements, and remote device locking. The page contents are also analyzed rather than database filtering to make sure that the Apple iPhone 14 Pro Max devices get in remote control of the parents.
 
 The other implementations that will be applied by such applications are keyword profanity and remote content locking as well. The two-factor authentication will also get more control to the parents and will allow them to capture the activities of the child with ease. If you want to know how to prevent the police from tracking your phone then it is advised to read this article thoroughly to get the best ideas.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4726807&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, Lifetime subscription</a>
-<!-- affiliate ads end -->
 ## 1.1 Some apps that Parents use for Tracking and how these Work?
 
 - **Qustodio –** It is one of the apps that is mostly used for tracking. The devices that are configured with it are Ma, iOS, and Android.
@@ -38,8 +31,16 @@ The other implementations that will be applied by such applications are keyword 
 - **Net Nanny –** This is an application that parents use to monitor the child with web filters, screen recording, and app blocking features. It’s a bit pricy with all the features included.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
+<span id="1977006">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1977006.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1977006">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1977006.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1977006%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1977006/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1.2 Why Should We Prevent Parents from Tracking?
 
@@ -50,7 +51,10 @@ If you want to know how to stop your phone from being tracked by parents then it
 - This also raises the anxiety level in the children as they get a feeling of constantly being watched. This is also something not good for a child’s health.
 
 <!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1896607/21553" target="_top" id="1896607"><img src="//a.impactradius-go.com/display-ad/21553-1896607" border="0" alt="" width="750" height="422"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1896607/21553" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2024329/7443" target="_top" id="2024329">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024329" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024329/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Change the Settings to Get Rid of Tracking?
 
@@ -58,6 +62,12 @@ For iOS users the process is simple and it does not require any additional insta
 
 ![turn off location iPhone](https://drfone.wondershare.com/2020/turn_off_location_iPhone.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024347/7443" target="_top" id="2024347">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024347" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024347/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 You can also turn off find my friend to get the best results. To do this go to settings > Apple ID > in case of iOS 12 tap share my location > turn off share my location. If you are using an earlier version of iOS tap iCloud > share my location > turn off.
 
 In iCloud sign in > select me > deselect share my location to finish the process.
@@ -65,7 +75,10 @@ In iCloud sign in > select me > deselect share my location to finish the process
 ![turnoff find my friend iPhone](https://drfone.wondershare.com/2020/turnoff_find_my_friend_iPhone.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3DSysTools%2BGmail%2BBackup"><img src="https://www.systoolsgroup.com/box/gmail-backup.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1925489/19272" target="_top" id="1925489">
+  <img src="//a.impactradius-go.com/display-ad/19272-1925489" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925489/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Use Location Spoofer Tool to Prevent Parent from Tracking?
 
@@ -101,13 +114,16 @@ Click on move here and you will be transferred to the location that has been sel
 
 ![virtual location 5](https://images.wondershare.com/drfone/guide/virtual-location-05.png)
 
+<!-- affiliate ads begin -->
+<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1584040/17916" target="_top" id="1584040">
+  <img src="//a.impactradius-go.com/display-ad/17916-1584040" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1584040/17916" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 **Step 6: Completion of the process**
 
 The location will be locked with and the Apple iPhone 14 Pro Max device will also show the location selected on the program.
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803115/14559" target="_top" id="1803115"><img src="//a.impactradius-go.com/display-ad/14559-1803115" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803115/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
 
 ## Part 4: Install Anti-Spy Tool to Avoid Tracking
@@ -124,21 +140,33 @@ Phone Guardian is the best and the most used apps that will protect your iOS and
 
 It has both and free and paid versions to make sure that you get the best results. For most of the users, the free application will do the trick. It is the best app that is also available as a web application to restrict your parents from prying on your phone.
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/1997817/17059" target="_top" id="1997817"><img src="//a.impactradius-go.com/display-ad/17059-1997817" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1997817/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![phone guardian iPhone and android](https://drfone.wondershare.com/2020/phone_guardian_iPhone_and_android.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2130891/7443" target="_top" id="2130891">
+  <img src="//a.impactradius-go.com/display-ad/7443-2130891" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2130891/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Conclusion
 
 Dr. Fone's virtual location is the best and the most advanced program that will allow the users to overcome the problem of spoofing and tracking. It is not only easy to use but has proven to be proving with 100% reliable results. With the best and the easiest modes embedded it is a program that will get you the best results. If you want to know the best way to get your parents to refrain from tracking then this is the program that is the answer to all your questions.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1918703/19272" target="_top" id="1918703">
+  <img src="//a.impactradius-go.com/display-ad/19272-1918703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918703/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Spy on Text Messages from Computer & Apple iPhone 14 Pro Max
 
 Do you suspect that your child is communicating with the wrong individuals? While cellphones are meant to give everyone the ability to communicate, their secretive nature can also nurture society’s ills, and children, especially teenagers can fall prey to these. Yet, as a parent, it can be very hard to monitor what your child is doing on your device. That’s why we thought it wise to share with you a few ways you can spy on someone’s text messages from your device or computer.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=2201613&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.macdvdripperpro.com/images/devices-3.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2049383/7443" target="_top" id="2049383">
+  <img src="//a.impactradius-go.com/display-ad/7443-2049383" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049383/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: How to Spy on text messages from another Android phone
 
@@ -155,7 +183,16 @@ Step 3: Once set up is complete, you can go to your eyeZy dashboard on any other
 ![Spy on Text Messages from another Android phone using eyeZy](https://images.wondershare.com/drfone/article/2022/03/spy-on-text-messages-eyezy.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1495277">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Spy on text messages from another iPhone
 
@@ -172,7 +209,16 @@ Step 3: The app will automatically access all messages on the target device. It 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://laganoo.pxf.io/c/5597632/1528703/16446" target="_top" id="1528703">
+  <img src="//a.impactradius-go.com/display-ad/16446-1528703" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528703/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2024338/7443" target="_top" id="2024338">
+  <img src="//a.impactradius-go.com/display-ad/7443-2024338" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2024338/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Spy on text messages from computer
 
@@ -186,16 +232,10 @@ Step 2: Once you’ve paid for your subscription, mSpy will send you an email wi
 
 Step 3: You should be able to log in to your web-based control panel and view the messages as soon as the installation is complete.
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
 
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4728277&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/1_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## 3 Ways to Track Apple iPhone 14 Pro Max without Them Knowing
 
 Now the method to track a cell phone without them knowing has become an after one’s fancy. There are several apps that might help you in this case, with wide and advanced features. Hence, with the changes in technology, those days have gone for you with a flock of lies. There is no need to handle this synopsis as in this passage, I am going to share some of the best tracking apps and how to track a cell phone without them knowing.
@@ -210,9 +250,6 @@ Step 1: First of all you need to purchase the subscription from [www.mspy.com/](
 
 Step 2: Now access the target device, once you opt for downloading, there you will be asked to enter the unique ID you received, to authorize the access. As soon you entered the details, the monitoring process will get started.
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1496243/17238" target="_top" id="1496243"><img src="//a.impactradius-go.com/display-ad/17238-1496243" border="0" alt="" width="1000" height="1221"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1496243/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-access the target device](https://images.wondershare.com/drfone/article/2017/11/15100180578971.jpg)
 
 Step 3: After that, you will be allowed to open Control Panel. From there you can easily go for the process of tracking the target device remotely, under which you can have access to GPS locations, Messages, Call details, and lot more. That you can access from anywhere, such as your system, mobile, laptop, etc.
@@ -221,26 +258,38 @@ Step 3: After that, you will be allowed to open Control Panel. From there you ca
 
 Following the above simple steps will enable you to track a Cell Phone without them Knowing.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2082542/7443" target="_top" id="2082542">
+  <img src="//a.impactradius-go.com/display-ad/7443-2082542" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082542/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to track Android or iPhone using FlexiSPY?
 
 [FlexiSPY](https://www.flexispy.com/) is a commonly used tracking system for cell phones. It assures one of the best ways to track a cell phone without them knowing. But you need to jailbreak iPhone before installing FlexiSPY. For android devices, the root service is required for certain advanced features.
 
 After installing the Flexispy on the Apple iPhone 14 Pro Max device you want to monitor, all the relevant information you want to monitor (GPS location, calls, texts) will upload to its server without knowing. The only thing you need to do is log in to your Flexispy account and click "Location" if you would like to track a cell phone.
 
-<!-- affiliate ads begin -->
-<a href="https://tinyland.pxf.io/c/5597632/1793214/19135" target="_top" id="1793214"><img src="//a.impactradius-go.com/display-ad/19135-1793214" border="0" alt="" width="900" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793214/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-the flexispy](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-02.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1770776">
+					<video width="150" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770776.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770776">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770776.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770776%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770776/20702" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Except for viewing the Apple iPhone 14 Pro Max device location data, you can also export GPS data to use on the mapping application you like.
 
 How to Export GPS data:
 
 Step 1: Click the "Export" button on the upper right corner.
 
-<!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1095219&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-20_%281%29.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ![export gps data](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-03.jpg)
 
 Step 2: Click the "Download" button on the pop-up window that appears.
@@ -248,7 +297,10 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407"><img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://electronicx.pxf.io/c/5597632/1167086/14483" target="_top" id="1167086">
+  <img src="//a.impactradius-go.com/display-ad/14483-1167086" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://electronicx.pxf.io/i/5597632/1167086/14483" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to secretly track someone
 
@@ -258,14 +310,6 @@ Step1: Enable the option “Share my location” on the target phone. To enable 
 
 Step 2: Generally iCloud account has sharing options for all other devices. We have to ensure the sharing option is correctly viewed as the target device such as “This device”.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698827&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/dex3REpage-newmainscreenshot.png" border="0">DEX 3 RE is Easy-To-Use DJ Mixing Software for MAC and Windows Designed for Today's Versatile DJ. 
-
- Mix from your own library of music, iTunes or use the Pulselocker subsciprtion service for in-app access to over 44 million songs. Use with over 85 supported DJ controllers or mix with a keyboard and mouse.  
-
- DEX 3 RE is everything you need without the clutter - the perfect 2-deck mixing software solution for mobile DJs or hard-core hobbiests.  
- PCDJ DEX 3 RE (DJ Software for Win & MAC - Product Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
@@ -274,21 +318,36 @@ Step 4: Move to the target device, in the “Find my friends” app click the op
 
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105860/7443" target="_top" id="2105860">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105860" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105860/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
 ![track a cell phone without them knowing-click Don’t share](https://images.wondershare.com/drfone/article/2017/11/15100183459135.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
+  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 6: Now go to your device, open the “Find my friends” app and click the icon of the target device. You will get a notification, where they are now when they leave from the place etc.
 
-<!-- affiliate ads begin -->
-<a href="https://otszone.ots7.com/order/checkout.php?PRODS=4713324&QTY=1&AFFILIATE=108875&CART=1"><img src="https://green.ots7.com/screenshots/OtsAV/OtsAVTV1.90-300x188.jpg" border="0">OtsAV TV Webcaster</a>
-<!-- affiliate ads end -->
 ![track a cell phone without them knowing-get a notification](https://images.wondershare.com/drfone/article/2017/11/15100183691634.jpg)
 
 Note: If you want to hide the “Find my friends” app from the target device you can use the dock method which will be easy but the folder method is very tough.
 
 ![track a cell phone without them knowing-hide the Find my friends app](https://images.wondershare.com/drfone/article/2017/11/15100183889994.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880944/19272" target="_top" id="1880944">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880944" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880944/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: Frequently Asked Questions
 
 **1\. What is rooting? Does it have a warranty? Any rooting between Android and mSpy?**

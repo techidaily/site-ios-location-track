@@ -1,7 +1,7 @@
 ---
 title: "How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
-date: 2024-08-15T02:57:42.340Z
-updated: 2024-08-16T02:57:42.340Z
+date: 2024-09-03T23:59:51.710Z
+updated: 2024-09-04T23:59:51.710Z
 categories:
   - BestProducts
 description: "This Article Describes How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
@@ -42,16 +42,9 @@ Lifewire / Emily Isaacs
 
 4.8
 
-<!-- affiliate ads begin -->
-<a href="https://vapordna.pxf.io/c/5597632/1494880/17238" target="_top" id="1494880"><img src="//a.impactradius-go.com/display-ad/17238-1494880" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1494880/17238" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Kinesis Freestyle2 Blue
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4718728&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/ce9a6fb2becc2d235e62b125e9260102/products/vMixCallScreenshot1-large.jpg" border="0"> vMix Basic HD - Software based live production. vMix Basic HD includes 4 inputs, 3 cameras, streaming, recording, playlist. 
-This bundle includes Studio 200 for vMix from Virtualsetworks, HTTP Matrix 1.0 automation scheduler, and 4 introductory training videos from the Udemy vMix Basic to Amazing course. </a>
-<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -77,7 +70,10 @@ Lifewire / Emily Isaacs
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Design and Features: Freestyle2 breaks the mold**
 
@@ -85,6 +81,12 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
  Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac breaks free of these norms by using a split, modular design that features two keyboard halves, one for each hand, connected via a 9 or 20-inch cable depending upon the chosen model. These pieces were designed with comfort in mind. They may be used separately or connected with a pivot tether at the top of the two halves. This allows you the opportunity to customize your setup and maximize your comfort, whether that’s by placing the halves closer together or further apart.
@@ -95,6 +97,12 @@ Lifewire / Emily Isaacs
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1868499/19272" target="_top" id="1868499">
+  <img src="//a.impactradius-go.com/display-ad/19272-1868499" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1868499/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
@@ -106,7 +114,10 @@ Lifewire / Emily Isaacs
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
 <!-- affiliate ads begin -->
-<a href="https://shop.systoolsgroup.com/affiliate.php?ACCOUNT=SYSTOOBY&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.systoolsgroup.com%3FAFFILIATE%3D108875%26RESOURCE%3D%2BSysTools%2BPDF%2BUnlocker"><img src="https://www.systoolsgroup.com/box/pdf-unlocker.png" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1885932/19272" target="_top" id="1885932">
+  <img src="//a.impactradius-go.com/display-ad/19272-1885932" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885932/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Features: Efficient hotkeys once you get used to them**
 
@@ -116,13 +127,16 @@ Lifewire / Emily Isaacs
 
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2030391/7443" target="_top" id="2030391">
+  <img src="//a.impactradius-go.com/display-ad/7443-2030391" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2030391/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Price: Excellent for the features**
 
  Full-size ergonomic keyboards tend to retail anywhere from $50 to $200, depending on the features involved. Generally retailing for about $100 on Amazon, the Freestyle2 sits comfortably at the front of this curve. While $100 may seem expensive for a keyboard, consider the features involved. Its travel-friendly build, adjustable setup options, extended battery life, and ability to switch quickly and smoothly between multiple connected devices make it an excellent choice for the features.
@@ -131,9 +145,6 @@ Lifewire / Emily Isaacs
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075482/7443" target="_top" id="2075482"><img src="//a.impactradius-go.com/display-ad/7443-2075482" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075482/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Kinesis Freestyle2 Blue vs. Microsoft Sculpt Ergonomic Keyboard**
 
  Not all keyboards are created equal, and while the split, modular design offered by the Kinesis Freestyle2 Blue creates wonderful customization options, there’s something to be said for having a full keyboard. For Apple users willing to take a leap into Microsoft products, the Microsoft Sculpt Ergonomic Keyboard shines through as an excellent option.
@@ -152,6 +163,12 @@ Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  Freestyle2 Blue

@@ -1,7 +1,7 @@
 ---
 title: Solutions to Spy on Apple iPhone 15 Plus with and without jailbreak | Dr.fone
-date: 2024-08-08T00:58:35.693Z
-updated: 2024-08-09T00:58:35.693Z
+date: 2024-09-03T23:59:58.125Z
+updated: 2024-09-04T23:59:58.125Z
 tags: 
   - virtual location change
   - location tracker
@@ -20,9 +20,6 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37540879&QTY=1&AFFILIATE=108875&CART=1"><img src="https://paperscan.orpalis.com/img/content/You_prefer_to_use.png" border="0">PaperScan Professional： PaperScan Scanner Software is a powerful TWAIN & WIA scanning application centered on one idea: making document acquisition an unparalleled easy task for anyone.</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Spy on iPhone without Jailbreak
 
 The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the Apple iPhone 15 Plus device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
@@ -31,26 +28,16 @@ For the best results you want to use a monitoring program that doesn’t require
 
 Step 1: Begin by activating iCloud Backup on the target device. Go to Settings and then select “iCloud” to do this. Using mSpy will require iCloud to be activated.
 
-<!-- affiliate ads begin -->
-<a href="https://electronicx.pxf.io/c/5597632/1872456/14483" target="_top" id="1872456"><img src="//a.impactradius-go.com/display-ad/14483-1872456" border="0" alt="" width="500" height="375"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1872456/14483" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Apple iPhone 15 Plus device.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=38729081&QTY=1&AFFILIATE=108875&CART=1"><img src="https://website-prod.cache.wpscdn.com/img/wps-office-pdf-editor-1x.890dbda.png" border="0">
-WPS Office Premium ( File Recovery, Photo Scanning, Convert PDF)--Yearly</a>
-<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
 
 Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
 
 Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) control panel and add the Apple ID and password of the Apple iPhone 15 Plus device to gain access to the information you need on the Apple iPhone 15 Plus device.
 
-<!-- affiliate ads begin -->
-<a href="https://lightailing.sjv.io/c/5597632/1725213/17190" target="_top" id="1725213"><img src="//a.impactradius-go.com/display-ad/17190-1725213" border="0" alt="" width="1000" height="1000"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1725213/17190" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
@@ -59,9 +46,6 @@ Being able to spy on an iPhone without a jailbreak is not something that happens
 
 Step 1: Begin by performing a jailbreak on the target device. There are several options to help you do that like Pangu software.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068416/7443" target="_top" id="2068416"><img src="//a.impactradius-go.com/display-ad/7443-2068416" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068416/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
 
 Step 2: Once the Apple iPhone 15 Plus device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
@@ -81,7 +65,10 @@ In most cases, tracking a lost iPhone has always been made possible thanks to th
 - **Recommended location faker tool: [Dr.Fone - Virtual Location - change your mobile device GPS to any place in the world with just 1 click](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)!**
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2112008/7443" target="_top" id="2112008">
+  <img src="//a.impactradius-go.com/display-ad/7443-2112008" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2112008/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 1: Is It Possible to Track An iPhone with Just the Number?
 
@@ -117,6 +104,12 @@ Tracking a lost phone can be fun and at the same time a daunting task. The outco
 
 
 
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/798161/11305" target="_top" id="798161">
+  <img src="//a.impactradius-go.com/display-ad/11305-798161" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/798161/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How Do I Stop Someone From Tracking My Apple iPhone 15 Plus?
 
 It has now become very easy to track a Smartphone using the GPS features of the phone. This can be done by tracking the phone number based on information derived from mobile carriers and also from the GPS chip on the phone which is used by certain apps in order to function well.
@@ -135,10 +128,22 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your Apple iPhone 15 Plus with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://arkmc.pxf.io/c/5597632/352557/5172" target="_top" id="352557">
+  <img src="//a.impactradius-go.com/display-ad/5172-352557" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352557/5172" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1896546/19272" target="_top" id="1896546">
+  <img src="//a.impactradius-go.com/display-ad/19272-1896546" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1896546/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
@@ -146,7 +151,16 @@ This is a tool that you can use to change the virtual location of your device(iO
 
 
 <!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1567905/13846" target="_top" id="1567905"><img src="//a.impactradius-go.com/display-ad/13846-1567905" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1567905/13846" style="position:absolute;visibility:hidden;" border="0" />
+<span id="701707">
+					<video width="960" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/701707.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/7443-701707">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/701707.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fappsumo.8odi.net%2Fc%2F5597632%2F701707%2F7443'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/701707/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
@@ -170,9 +184,6 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 <iframe allowfullscreen="allowfullscreen" frameborder="0" src="https://www.youtube.com/embed/FfhgWxnARqo"></iframe>
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 2) Disable Significant Locations on iPhone
 
 - Start by launching "Settings" from your Home screen
@@ -185,9 +196,6 @@ In order to see how to use dr. fone to teleport your device to another location,
 
 - Finally, toggle the "Significant Locations" to the "OFF" position. The switch will turn grey, indicating that the service has been turned off.
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17729331&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 3) Turn off location tracking of specific apps
 
 You may turn off location tracking for specific apps that you feel might be used to track your position. This is how you go about turning them off.
@@ -207,11 +215,20 @@ You may turn off location tracking for specific apps that you feel might be used
 - Scroll down and go to the "Locations Services"
 - Now choose the "Share My Location" option
 
-<!-- affiliate ads begin -->
-<a href="https://parisrhonecom.sjv.io/c/5597632/1922358/21553" target="_top" id="1922358"><img src="//a.impactradius-go.com/display-ad/21553-1922358" border="0" alt="" width="1080" height="1080"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1922358/21553" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1983471">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983471.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983471">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983471.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983471%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983471/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Now toggle the button to the right to turn it into the "OFF" position
 
 ### 5) Disable location-based notifications or alerts
@@ -224,21 +241,45 @@ At the top of the screen, tap on "Location Services" as you did before
 
 Now scroll down the list and click on the "System services" option
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![select System Services option](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-5.jpg)
 
 Toggle the button on the right side of "Location-Based Alerts" into the "OFF" position
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1938136">
+					<video width="80" height="300" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1938136.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1938136">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1938136.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1938136%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1938136/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2075476/7443" target="_top" id="2075476">
+  <img src="//a.impactradius-go.com/display-ad/7443-2075476" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075476/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Android phone. This feature can be used to track your device through other apps.
 
 <!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=27889512&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/728__90.jpg" border="0"></a>
+<span id="1983539">
+					<video width="360" height="150" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983539.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983539">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983539.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983539%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983539/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
@@ -250,7 +291,10 @@ You also need to know how to stop Google from tracking your Android phone. This 
 - Here you can delete all your past activity records so nobody can track you using your location history.
 
 <!-- affiliate ads begin -->
-<a href="https://printrendy.pxf.io/c/5597632/1453719/17020" target="_top" id="1453719"><img src="//a.impactradius-go.com/display-ad/17020-1453719" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1453719/17020" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1886073/19272" target="_top" id="1886073">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886073" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886073/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 2) Turn off Android Location Tracking
 
@@ -270,7 +314,10 @@ Google Location History. With this, you can switch off the collection of your lo
 Google Location Sharing. This will turn off location sharing if you use it to connect with friends and family.
 
 <!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398457/3022" target="_top" id="398457"><img src="//a.impactradius-go.com/display-ad/3022-398457" border="0" alt="www.sentrypc.com" width="980" height="120"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398457/3022" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 3) Nord VPN
 
@@ -288,20 +335,32 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 4](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-4.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1880960/19272" target="_top" id="1880960">
+  <img src="//a.impactradius-go.com/display-ad/19272-1880960" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1880960/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - Launch Fake GPS go and the grant it the required access. Go back to "Developer Options" and then go down until you find Fake GPS Go. Toggle it to the "ON" position.
 - Now go back to "Mock Location App" and then choose Fake GPS Go. You will now be able to fake your location and stop people from tracking your device.
 
-<!-- affiliate ads begin -->
-<a href="https://versadesk.pxf.io/c/5597632/1892107/21290" target="_top" id="1892107"><img src="//a.impactradius-go.com/display-ad/21290-1892107" border="0" alt="" width="1200" height="628"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1892107/21290" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://laganoo.pxf.io/c/5597632/1657386/16446" target="_top" id="1657386">
+  <img src="//a.impactradius-go.com/display-ad/16446-1657386" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1657386/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Android device.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42296855&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/recode/Nero_Recode_Screen_2.png" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2094419/7443" target="_top" id="2094419">
+  <img src="//a.impactradius-go.com/display-ad/7443-2094419" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2094419/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ### 5) Fake GPS Free
 
@@ -315,14 +374,8 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
 - You will get a notification once you have successfully spoofed your location. You may now close the app and it will still work in the background ensuring that your location stays permanent in the new area you selected.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4576829&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/9e740b84bb48a64dde25061566299467/products/copy_1_jp_box_big.png" border="0">Jet Profiler for MySQL, Enterprise Version： Jet Profiler for MySQL is real-time query performance and diagnostics tool for the MySQL database server. Its detailed query information, graphical interface and ease of use makes this a great tool for finding performance bottlenecks in your MySQL databases. </a>
-<!-- affiliate ads end -->
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://purchase.swifdoo.com/order/checkout.php?PRODS=40002580&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8b932759a5a04ddb34bf79e3f9072e4b/products/3_Product%20box%20white-1024x1024.png" border="0">SwifDoo PDF 2-Year Plan</a>
-<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.

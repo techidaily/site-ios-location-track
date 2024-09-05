@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at OnePlus 9: Where It Falls Short Mathematically"
-date: 2024-08-15T02:57:37.627Z
-updated: 2024-08-16T02:57:37.627Z
+date: 2024-09-03T23:59:51.804Z
+updated: 2024-09-04T23:59:51.804Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Look at OnePlus 9: Where It Falls Short Mathematically"
@@ -40,9 +40,6 @@ Lifewire / Emily Isaacs
 
 4.9
 
-<!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/1678785/12108" target="_top" id="1678785"><img src="//a.impactradius-go.com/display-ad/12108-1678785" border="0" alt="" width="300" height="250"/></a>
-<!-- affiliate ads end -->
 ## LG OLED C9 65" 4K Smart TV
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/-RQ5Ui3BjE0KxHGHYE-UjNz7EY4=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_HeroSquare-b4b1522941d44a18b75a586155788477.jpg)
@@ -70,12 +67,21 @@ Lifewire / Emily Isaacs
  The LG OLED C9 (OLED65C9PUA) may not be a significant improvement over its predecessor, but it’s still our pick for the best OLED TV of 2019, combining 65 inches of near-perfect color with an ease of use that will leave you loving[LG’s interface](https://www.lifewire.com/best-tvs-to-buy-4061107) . We tested this TV for a month and here’s what we had to say.
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873313/18544" target="_top" id="1873313"><img src="//a.impactradius-go.com/display-ad/18544-1873313" border="0" alt="" width="1080" height="1263"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873313/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<span id="1484963">
+					<video width="540" height="540" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Design: Smart and sleek**
 
 [OLED TVs](https://www.lifewire.com/oled-tv-basics-1846926) are among the best money can buy, characterized by their ability to produce a wide range of colors alongside deep, rich blacks by toggling individual pixels to emit their own light. On top of this, OLED frames are thinner and lighter than their LED predecessors. It’s a powerful combination that makes for a startlingly realistic picture alongside an expanded range of placement options. In the case of the LG C9, it’s a design that’s as smart as it is sleek thanks to the inclusion of Google Assistant and Alexa.
@@ -87,15 +93,9 @@ Lifewire / Emily Isaacs
  For customers with multiple external devices, such as Blu-ray players or gaming consoles, ports are located along the TV’s left-hand side and directly on its backside. These connection options include 4[HDMI](https://www.lifewire.com/hdmi-facts-high-definition-multimedia-interface-1847337) 2.1 ports, 3[USB](https://www.lifewire.com/universal-serial-bus-usb-2626039) ports, one cable/antenna input, one LAN port, and audio connections. The HDMI 2.1 ports are especially important since consoles began emerging in 2020 that rely on HDMI 2.1 such as the Playstation 5.
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1611407/17882" target="_top" id="1611407"><img src="//a.impactradius-go.com/display-ad/17882-1611407" border="0" alt="" width="300" height="485"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1611407/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
  Due to its large size and fragile nature, consider where the LG C9 will be most secure before moving ahead with setup. It shouldn’t be placed anywhere where there’s a risk it could be knocked down or climbed on, for instance, so choose a location safely tucked away from pets and children.
@@ -110,6 +110,12 @@ Lifewire / Emily Isaacs
 
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115951/19272" target="_top" id="2115951">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115951" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115951/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Image Quality: Stunning picture**
 
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off. Even from wide viewing angles, the 4K picture maintains its excellence, with limited washing out and color loss.
@@ -121,7 +127,10 @@ Lifewire / Emily Isaacs
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4708689&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.epubor.com/images/uppic/audible-converter-interface.png" border="0">Epubor Audible Converter for Win： Download and convert Audible AAXC/AA/AAX to MP3 with 100% original quality preserved.</a>
+<a href="https://imp.i357552.net/c/5597632/1030380/11832" target="_top" id="1030380">
+  <img src="//a.impactradius-go.com/display-ad/11832-1030380" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/1030380/11832" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## **Audio: Better than expected**
 
@@ -131,6 +140,12 @@ Lifewire / Emily Isaacs
 
 Lifewire / Emily Isaacs
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1902309/19272" target="_top" id="1902309">
+  <img src="//a.impactradius-go.com/display-ad/19272-1902309" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902309/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **Software: Smooth and easy to use**
 
  As with earlier models, the LG WebOS powers the C9\. It’s a user-friendly interface that makes navigating the TV incredibly smooth, enabling you to switch between apps and features built into the[smart TV](https://www.lifewire.com/best-smart-tvs-4135681) with ease. Meanwhile, the LG Magic Remote can function as a traditional remote control, as a mouse would for a computer screen, or issue voice commands with Google Assistant and Alexa, making navigating the menus second nature. While most major streaming services are already included (Hulu, Netflix, Amazon Prime, Google Play Movies & TV, to name a few) it’s also possible to download additional apps through the LG store. The drawback to the store, however, is that the apps are somewhat limited in availability.
@@ -139,15 +154,18 @@ Lifewire / Emily Isaacs
 
  In addition to the WebOS software, the LG C9 also comes with Google Assistant as well as Amazon’s Alexa. It makes it easy to search content, switch between apps and features, or check the weather, among other things.
 
-<!-- affiliate ads begin -->
-<a href="https://cowinaudio.pxf.io/c/5597632/1116855/13794" target="_top" id="1116855"><img src="//a.impactradius-go.com/display-ad/13794-1116855" border="0" alt="" width="767" height="285"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1116855/13794" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## **Price: A premium price for a premium TV**
 
  65-inch 4K TV’s generally retail for between $800-$5,000, and this cost jumps further as screen size increases. The LG C9 is a premium 4K TV that sits at the top of this curve, offering integrated smart technologies and excellent picture with an intuitive, easy-to-use interface. As such, it comes at a premium price of $2,500 (Amazon) that exceeds the cost of many competitor models, but with so many additional features it’s worth the high price—even if it’s difficult to swallow.
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2043594/7443" target="_top" id="2043594">
+  <img src="//a.impactradius-go.com/display-ad/7443-2043594" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2043594/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
  It’s easy to see why the LG C9 is such an attractive model. Between its many bells and whistles, it offers superior quality at a premium price. For users looking for a more down-to-earth price point, QLED TV models offer great picture quality at a lower cost and are a major competitor for OLED models.
@@ -168,6 +186,12 @@ Lifewire / Emily Isaacs
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
 
+<!-- affiliate ads begin -->
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
+</a>
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Specs
 
 * Product Name  OLED C9 65" 4K Smart TV
