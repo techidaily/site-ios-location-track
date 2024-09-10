@@ -1,7 +1,7 @@
 ---
 title: In 2024, Solutions to Spy on Apple iPhone 14 Plus with and without jailbreak | Dr.fone
-date: 2024-09-04T00:00:03.115Z
-updated: 2024-09-05T00:00:03.115Z
+date: 2024-09-09T00:58:32.616Z
+updated: 2024-09-10T00:58:32.616Z
 tags: 
   - virtual location change
   - location tracker
@@ -13,6 +13,12 @@ keywords: Location Track for iPhone,Location Track for iPhone 14 Plus,Location T
 thumbnail: https://thmb.techidaily.com/65300c988d41879c46efcdc0b8a7f4ebdd53e06feae865a9a356c9f8b695aec3.jpg
 ---
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134498/18498" target="_top" id="2134498">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134498" border="0" alt="https://techidaily.com" width="720" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134498/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Solutions to Spy on Apple iPhone 14 Plus with and without jailbreak
 
 It is no secret that you can easily spy on any iPhone. Many spy or monitoring programs make it easy. All you have do is have access to the iPhone you want to spy on and have a reliable spy program. The problem is, there are some spy programs that will only work on a jailbroken device. This can be a problem when you don’t want the Apple iPhone 14 Plus device’s owner to know of your activities and the owner has no intention to jailbreak their device.
@@ -20,6 +26,12 @@ It is no secret that you can easily spy on any iPhone. Many spy or monitoring pr
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
 
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134233/18498" target="_top" id="2134233">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134233" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134233/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 1: How to Spy on iPhone without Jailbreak
 
 The majority of spy apps in the market will only work on a jailbroken device or require you to jailbreak an iPhone before you can use them. While a jailbroken device does have its advantages, it can be quite problematic when you want to spy on an iPhone without alerting the owner to your activities. To begin with, you must have the iPhone to jailbreak it, a factor that makes it easier to get caught trying to spy on the Apple iPhone 14 Plus device. Also, it is quite possible no matter how hard you try to hide the jailbreaking app that the owner will realize you have jailbroken their device.
@@ -30,10 +42,22 @@ Step 1: Begin by activating iCloud Backup on the target device. Go to Settings a
 
 ![Spy on iPhone without Jailbreak-activate iCloud Backup](https://images.wondershare.com/drfone/article/2017/10/15079744896475.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134247/18498" target="_top" id="2134247">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134247" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134247/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 2: The first step is to create an account with mSpy. You can then purchase a subscription based on the type of information you need from the target device and the duration you want to spend spying on the Apple iPhone 14 Plus device.
 
 ![Spy on iPhone without Jailbreak-create an account with mSpy](https://images.wondershare.com/drfone/article/2017/10/15079746911961.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://25home.pxf.io/c/5597632/2123466/16836" target="_top" id="2123466">
+  <img src="//a.impactradius-go.com/display-ad/16836-2123466" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2123466/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 3: Once you’ve registered and purchased the subscription, you will receive an email from mSpy with all the information you need to install the program.
 
 Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) control panel and add the Apple ID and password of the Apple iPhone 14 Plus device to gain access to the information you need on the Apple iPhone 14 Plus device.
@@ -54,22 +78,28 @@ Step 3: You can then log in to TurthSpy with your log in information and access 
 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://unicoeye.pxf.io/c/5597632/2134239/18498" target="_top" id="2134239">
+  <img src="//a.impactradius-go.com/display-ad/18498-2134239" border="0" alt="https://techidaily.com" width="721" height="90"/>
+</a>
+<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134239/18498" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Apple iPhone 14 Plus device if TruthSpy will be able to access it. Jailbreaking the
 
 device will however make it easier for the Apple iPhone 14 Plus device’s owner to find the spyware and remove it before you are able to complete your activities. It is therefore preferable to use a program like mSpy that requires no jailbreak.
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2123729/7443" target="_top" id="2123729">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123729" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123729/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## How to Track a Lost Apple iPhone 14 Plus for Free?
 
 A cell phone is a rather small device when compared to other things you may haul around on a daily basis such as a purse or wallet and even a bunch of keys. Hence, forgetting it somewhere or having it stolen is highly likely. However, with the increase in modern mobile technology, there are several apps that can help you track your lost cell phone’s whereabouts. But you’ve already paid a premium price for your cell phone, so what you really should do is learn how to track a lost phone for free?
 
 And if you haven’t done so already, you should also install apps whether paid or free that do more than GPS location tracking such as monitoring incoming and outgoing calls, text and multimedia messages. So if you’re wondering how to track your lost phone for free, we’ve got a few solutions that will help you do just that, and others that bring to the table a wide range of great features.
 
-<!-- affiliate ads begin -->
-<a href="https://jalbum-affiliate-program.sjv.io/c/5597632/1838960/17916" target="_top" id="1838960">
-  <img src="//a.impactradius-go.com/display-ad/17916-1838960" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://jalbum-affiliate-program.sjv.io/i/5597632/1838960/17916" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: How to Track lost iPhone for Free?
 
 One of the noteworthy features of iPhones is that they tend to retain great value for many years to come hence they become a preferred choice for prying thieves. Further, they can be expensive for most budgets to begin with, so losing or misplacing your Apple iPhone 14 Plus can cause a fair amount of heartache. Apple provides one of the best answers to how to track iPhones for free with its exclusive iCloud.
@@ -80,31 +110,25 @@ Step 1. You will first need to ensure that the Find My iPhone feature is enabled
 
 ![track your lost phone for free with iCloud](https://images.wondershare.com/drfone/article/2017/10/15080421681564.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2012434/19272" target="_top" id="2012434">
-  <img src="//a.impactradius-go.com/display-ad/19272-2012434" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2012434/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2. Now it’s time to hit the cloud—iCloud we mean! First things first—head to <www.iCloud.com> from any browser and login with your credentials. From the dashboard, click on Find iPhone in the second row and enter your Apple ID and password if prompted. Since you may have several Apple devices connected with the same iCloud account, click on All Devices at the top, and select the Apple iPhone 14 Plus device you wish to track from the dropdown.
 
 ![Track lost iPhone for free-click on Find iPhone and All Devices](https://images.wondershare.com/drfone/article/2017/10/15080422049397.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2052063/7443" target="_top" id="2052063">
-  <img src="//a.impactradius-go.com/display-ad/7443-2052063" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2052063/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3. That’s really all there is to it! Once you select your device, you can do one of three things—play sound, activate lost mode or erase the Apple iPhone 14 Plus device to prevent compromise of information.
 
 ![Track lost iPhone for frees-start to track](https://images.wondershare.com/drfone/article/2017/10/15080422409247.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068412/7443" target="_top" id="2068412">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068412" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068412/7443" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1328679">
+					<video width="240" height="200" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1328679.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/15852-1328679">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1328679.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fthefitville.pxf.io%2Fc%2F5597632%2F1328679%2F15852'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1328679/15852" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 2: How to Track Lost Android Mobile Location?
 
@@ -118,35 +142,41 @@ Step 2. Next, tap Find My Device, and check the box besides it. Tap the back but
 
 ![Track Lost Android Mobile Location-return to the main settings menu](https://images.wondershare.com/drfone/article/2017/10/15080423235837.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2027167/19272" target="_top" id="2027167">
-  <img src="//a.impactradius-go.com/display-ad/19272-2027167" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2027167/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 3. To turn location services on, tap locations in the settings menu, tap mode so its turns green and then select high accuracy.
 
 ![Track with Google’s ADM-turn location services on](https://images.wondershare.com/drfone/article/2017/10/15080423753576.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2115940/19272" target="_top" id="2115940">
+  <img src="//a.impactradius-go.com/display-ad/19272-2115940" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115940/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4. From the same window, tap Location History and turn it on and subsequently tap the button beside your device name to activate.
 
 ![Track with Google’s ADM-activate the Apple iPhone 14 Plus device](https://images.wondershare.com/drfone/article/2017/10/15080424126895.jpeg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2118305/7443" target="_top" id="2118305">
+  <img src="//a.impactradius-go.com/display-ad/7443-2118305" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118305/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 Step 4. When you need to locate your device, type find my device in a web browser and select what usually is the first link. Enter your email and password associated with your device account, and you will be presented with a dashboard, from where you can send an audible tone to your device even if it were on silent, lock your phone or erase it.
 
 ![Track with Google’s ADM-locate your device](https://images.wondershare.com/drfone/article/2017/10/15080424492002.jpeg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1918666/19272" target="_top" id="1918666">
-  <img src="//a.impactradius-go.com/display-ad/19272-1918666" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1918666/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1948937/19272" target="_top" id="1948937">
-  <img src="//a.impactradius-go.com/display-ad/19272-1948937" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1948937/19272" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1770526">
+					<video width="240" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1770526.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/20702-1770526">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1770526.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:150px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftokenmetrics.sjv.io%2Fc%2F5597632%2F1770526%2F20702'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1770526/20702" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 ## Part 3: How to Track Mobile Phone via Spyera?
 
@@ -156,6 +186,12 @@ Sometimes however, you will want to do a lot more than track a device such as kn
 
 ![Track Mobile Phone via Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2120861/26400?prodsku=Saturn" target="_top" id="2120861">
+  <img src="//a.impactradius-go.com/display-ad/26400-2120861" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2120861/26400?prodsku=Saturn" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 4: How to Track someone’s Phone via mSpy?
 
 [mSpy](http://mspy.go2cloud.org/SH7G6) is similar to [Spyera](https://spyera.com/) in the features it offers, and is hailed as the best parental monitoring software available. It too offers several premium features including the ability to manage calls, read emails, monitor internet use and of course track GPS location in real time. When it comes to plans, mSpy offers you three plans to choose from namely Basic, Premium and Bundle Kit.
@@ -165,10 +201,10 @@ Step 1. After you’ve selected the best plan for your needs, you will have to r
 ![Track someone’s Phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15080426397756.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2115921/19272" target="_top" id="2115921">
-  <img src="//a.impactradius-go.com/display-ad/19272-2115921" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2135417/19272" target="_top" id="2135417">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135417" border="0" alt="https://techidaily.com" width="392" height="72"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2115921/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135417/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 Step 2. Next, install and set it up on the target device, and then access the dashboard to begin tracking.
 
@@ -182,36 +218,24 @@ When it comes to finding a solution to locating your cell phone in the event it 
 
 
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="360" height="150" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Track Apple iPhone 14 Plus by Phone Number
 
 In most cases, tracking a lost iPhone has always been made possible thanks to the presence of tracking apps, and the use of the IMEI number. However, in the past few years, it has always been in the public domain and in the minds of many technocrats about the possibility of tracking an iPhone by only using its phone number (cellular number). Regardless of what has been said, tracking an iPhone using its number alone is a process that requires an in-depth understanding and application. In this article, we are going to take a look at the possibility of how to track an iPhone by phone number, as well as the use of the mSpy program to track a lost iPhone.
 
 - **Recommended location faker tool: [Dr.Fone - Virtual Location - change your mobile device GPS to any place in the world with just 1 click](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/)!**
 
-<!-- affiliate ads begin -->
-<a href="https://arkmc.pxf.io/c/5597632/352555/5172" target="_top" id="352555">
-  <img src="//a.impactradius-go.com/display-ad/5172-352555" border="0" alt="https://techidaily.com" width="720" height="90"/>
-</a>
-<img height="0" width="0" src="https://arkmc.pxf.io/i/5597632/352555/5172" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 1: Is It Possible to Track An iPhone with Just the Number?
 
 A lot of people have always asked me; is it possible to track my iPhone by phone number? Well; regardless of what people say out there, it is usually close to impossible to track your lost iPhone by primarily using only its phone number. In this case, the phone number in question is the number provided to you by your cellular provider. The moment you lose your Apple iPhone 14 Plus, the chances of the thief changing your SIM card to another SIM card are high. This obviously makes it impossible to track your Apple iPhone 14 Plus via a number that is no longer available. However, there's a leeway on how to track an iPhone by phone number though it depends on sheer chances and lack.
 
 You can only track iPhone by phone number only if the culprit with the phone doesn’t change the SIM card. This is a sheer lack of procedure when you consider the fact that people nowadays steal phones and change the Sim cards as well as the IMEI numbers. If you want to track your Apple iPhone 14 Plus in such cases, your only option would be to contact your cellular provider and ask them to perform a phone triangulation procedure or tell you if any calls were made using your number. Regardless of the type of iPhone tracking services, you might decide to use; the fact still remains that they can’t track your lost iPhone using the phone number. So don’t be duped by these companies or apps that claim to track your lost phone by using the phone number. What they can only do for you is to tell you the last position where the phone was detected, or if any calls were made and to whom. Basically, for you to trace your Apple iPhone 14 Plus, you need its IMEI number, but not the phone number.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136626/26400" target="_top" id="2136626">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136626" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136626/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 ## Part 2: How to Track iPhone Online via mSpy
 
 Since it is impossible to track iPhone via the phone number, you can employ the use of secondary software and apps to track and primarily retrieve your Apple iPhone 14 Plus from whoever has the phone. In this case, the application of [mSpy](http://mspy.go2cloud.org/SH7G6) would be highly recommended. The mSpy program is a highly versatile program that can be used to perform various functions depending on the preferences of the user. In our case at hand, you can use this program to track your Apple iPhone 14 Plus regardless of what part of the world the phone could have been taken to or located.
@@ -226,6 +250,18 @@ Your first step is to go to the [mSpy official website](http://mspy.go2cloud.org
 
 ![Purchase the App](https://images.wondershare.com/drfone/article/2016/12/14827039596334.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1424527">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1424527.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16446-1424527">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1424527.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1424527%2F16446'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1424527/16446" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 #### **Step 2:** Download and Install the App
 
 Once you have made the purchase, a download link will be sent to your designated email address provided in the first step. Just follow the steps and procedures provided by the link. You don’t have to be worried about any complex installation guides as compared to other programs since the process of installing this program is straightforward. Just make sure that you have the phone that you want to track with you since you will be required to install this program on the iPhone. As for the details, please refer to how to install mSpy on Android and iPhone.
