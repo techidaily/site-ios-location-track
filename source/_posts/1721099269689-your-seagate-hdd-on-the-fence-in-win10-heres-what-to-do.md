@@ -1,7 +1,7 @@
 ---
 title: Your Seagate HDD on the Fence in Win10? Here's What To Do!
-date: 2024-09-24T02:31:58.564Z
-updated: 2024-09-25T22:17:28.963Z
+date: 2024-09-23T19:17:54.267Z
+updated: 2024-09-30T16:37:46.215Z
 tags:
   - win11
   - win10
@@ -70,13 +70,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![](https://images.drivereasy.com/wp-content/uploads/2017/04/img_58e4afa92a309.jpg)
   
 
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134491/18498" target="_top" id="2134491">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134491" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134491/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
  6) If your Seagate external hard drive still doesn’t work after you reinstall the software and update the drivers,you should reinstall**Paragon driver**  in compatibility mode. Here is how:
 
  1) Go to**Settings > System> Apps & features** window, remove **Paragon driver** .
@@ -95,25 +88,18 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1885943/19272" target="_top" id="1885943">
-  <img src="//a.impactradius-go.com/display-ad/19272-1885943" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1885943/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1959759/19272" target="_top" id="1959759">
-  <img src="//a.impactradius-go.com/display-ad/19272-1959759" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1959759/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 3: Partition the Hard Drive**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i110150.net/c/5597632/924297/11305" target="_top" id="924297">
+  <img src="//a.impactradius-go.com/display-ad/11305-924297" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i110150.net/i/5597632/924297/11305" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
@@ -124,10 +110,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/1062450/7443" target="_top" id="1062450">
-  <img src="//a.impactradius-go.com/display-ad/7443-1062450" border="0" alt="https://techidaily.com" width="600" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/1975807/19272" target="_top" id="1975807">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975807" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/1062450/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975807/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  4) Right-click it again and click **New simple volume** .
@@ -136,13 +122,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  There you go, your Seagate external hard drive should be able to work without any problems.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144287/7443" target="_top" id="2144287">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144287" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144287/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management.**
@@ -150,16 +129,22 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
   
 
+<!-- affiliate ads begin -->
+<span id="1975562">
+					<video width="128" height="480" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1975562.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1975562">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1975562.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1975562%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1975562/22993" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
@@ -169,9 +154,23 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/add-a-letter.png)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186864/12108" target="_top" id="1186864">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186864" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186864/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  5) Assign a letter to it and click**OK.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2135360/19272" target="_top" id="2135360">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135360" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135360/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## **Method 5: Disable Fast Startup**
 
@@ -179,13 +178,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2100530/7443" target="_top" id="2100530">
-  <img src="//a.impactradius-go.com/display-ad/7443-2100530" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100530/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
@@ -195,6 +187,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934258/19272" target="_top" id="1934258">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934258" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934258/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
@@ -203,15 +202,22 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2100538/7443" target="_top" id="2100538">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100538" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100538/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://review-au.sjv.io/c/5597632/2098700/14409" target="_top" id="2098700">
-  <img src="//a.impactradius-go.com/display-ad/14409-2098700" border="0" alt="https://techidaily.com" width="160" height="90"/>
+<a href="https://aligracehair.sjv.io/c/5597632/2080312/19272" target="_top" id="2080312">
+  <img src="//a.impactradius-go.com/display-ad/19272-2080312" border="0" alt="https://techidaily.com" width="300" height="90"/>
 </a>
-<img height="0" width="0" src="https://review-au.sjv.io/i/5597632/2098700/14409" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2080312/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
@@ -229,16 +235,20 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-approaches.techidaily.com/updated-orchestrate-a-photo-symphony-for-artistic-expression/"><u>[Updated] Orchestrate a Photo Symphony for Artistic Expression</u></a></li>
-<li><a href="https://extra-skills.techidaily.com/updated-scalability-strategies-adapting-to-large-scale-meetings-with-zoom-in-windows-11/"><u>[Updated] Scalability Strategies Adapting to Large-Scale Meetings with Zoom in Windows 11</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-12-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 12 without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/-playlists-down-to-youtube-the-5-best-conversion-resources/"><u>Bring Playlists Down to YouTube The 5 Best Conversion Resources</u></a></li>
-<li><a href="https://bypass-frp.techidaily.com/easy-guide-to-honor-magic-5-lite-frp-bypass-with-best-methods-by-drfone-android/"><u>Easy Guide to Honor Magic 5 Lite FRP Bypass With Best Methods</u></a></li>
-<li><a href="https://solve-lab.techidaily.com/easy-guide-sharing-your-kobo-ebook-library-with-friends/"><u>Easy Guide: Sharing Your Kobo eBook Library With Friends</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 12 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-12-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 12 Pro without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://technical-tips.techidaily.com/resolving-normalizdll-file-absence-a-step-by-step-guide/"><u>Resolving 'Normaliz.dll' File Absence: A Step-by-Step Guide</u></a></li>
+<li><a href="https://facebook-video-recording.techidaily.com/new-social-media-mastery-how-to-make-a-post-take-off-on-fb/"><u>[New] Social Media Mastery How to Make a Post Take Off on FB</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/new-the-ultimate-method-to-locate-fb-watched-content-for-2024/"><u>[New] The Ultimate Method to Locate FB Watched Content for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/10-fake-gps-location-apps-on-android-of-your-lava-yuva-3-drfone-by-drfone-virtual/"><u>10 Fake GPS Location Apps on Android Of your Lava Yuva 3 | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/2024-approved-digital-enlightenment-a-treasury-of-arvr-quotations/"><u>2024 Approved Digital Enlightenment A Treasury of AR/VR Quotations</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-se-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone SE Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-x-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone X Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-11-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 11 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/enhancing-user-interaction-with-cookiebot-technology/"><u>Enhancing User Interaction with Cookiebot Technology</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-x-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone X by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/in-2024-essential-know-how-record-ipad-display/"><u>In 2024, Essential Know-How Record iPad Display</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 11 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-12-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 12 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-15-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 15 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://facebook.techidaily.com/tutorial-removing-fb-new-message-indicators/"><u>Tutorial: Removing Fb New Message Indicators</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/vivo-y17s-adb-format-tool-for-pc-vs-other-unlocking-tools-which-one-is-the-best-by-drfone-android/"><u>Vivo Y17s ADB Format Tool for PC vs. Other Unlocking Tools Which One is the Best?</u></a></li>
 </ul></div>
 
