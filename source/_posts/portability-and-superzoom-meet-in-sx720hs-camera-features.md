@@ -1,7 +1,7 @@
 ---
 title: Portability & Superzoom Meet in SX720HS Camera Features
-date: 2024-09-30T00:49:34.381Z
-updated: 2024-09-30T18:26:48.840Z
+date: 2024-10-05T07:57:58.571Z
+updated: 2024-10-05T23:50:34.403Z
 categories:
   - BestProducts
 description: This Article Describes Portability & Superzoom Meet in SX720HS Camera Features
@@ -64,13 +64,6 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Design:** **Flexible, foldable design**
 
  The Logitech C615 is a compact webcam. The whole device folds up into a very small package, just 2.5” wide, 1.25” tall, and 1.5” wide, so you can tuck it into a pocket. When you open it up, the flexible design is simple to position. Unfolded, the webcam has three pieces: the base, neck, and[camera](https://www.lifewire.com/best-digital-cameras-under-100-3897833) . The base is the heaviest part, which means that the camera stays upright even if you don’t perfectly balance everything. The top is made out of a soft, rubbery plastic, and the bottom has a rubbery dot that keeps the base from sliding around. The dot comes off the base to reveal a tripod post, so this camera is compatible with a standard tripod. The only problem is that the dot comes off completely when the tripod post is exposed. If you're prone to losing things, this may be an issue.
@@ -82,6 +75,13 @@ Lifewire / James Huenink
  The camera section is made of black plastic with a cropped silver plastic circle around the lens. To the left of the lens there’s an indicator light to show when the camera is on, and the microphone sits to the right of the lens. The 360 swivel not only makes the Logitech C615 easy to position, it also makes it possible to fold the camera lens in on itself to protect it on the go.
 
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/jgQ_lVlvzgmXFPpBg5nEd6pgV_c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_12_Final_Horiz-e97c48d3af6842eb88775a9d703ce2b6.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2087390/7443" target="_top" id="2087390">
+  <img src="//a.impactradius-go.com/display-ad/7443-2087390" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087390/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
  Lifewire / James Huenink
 
@@ -98,10 +98,10 @@ Lifewire / James Huenink
 ![Logitech C615 Webcam](https://www.lifewire.com/thmb/Bko9Uk1HIIMt9aNgtBf9ATCy0AA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Logitech_C615_3LW4065141_14_Final_Horiz-4f1b9fe91b8c4229b17dbbe6afb81b8c.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://wigfever.sjv.io/c/5597632/2014848/22899" target="_top" id="2014848">
-  <img src="//a.impactradius-go.com/display-ad/22899-2014848" border="0" alt="https://techidaily.com" width="320" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2144285/7443" target="_top" id="2144285">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144285" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014848/22899" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144285/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
  Lifewire / James Huenink
@@ -116,16 +116,16 @@ Lifewire / James Huenink
 
  Lifewire / James Huenink
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997657/19272" target="_top" id="1997657">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997657" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997657/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## **Price: Inexpensive HD camera**
 
  The Logitech C615 costs $70 MSRP, but you can find it for about half that cost. Even at full price, it's a solid value. The thoughtful design, image quality, and microphone clarity easily justify the price tag.
-
-<!-- affiliate ads begin -->
-<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1557742/17382" target="_top" id="1557742">
-  <img src="//a.impactradius-go.com/display-ad/17382-1557742" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1557742/17382" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **Competition: Acquits itself well against the competition**
 
@@ -144,10 +144,10 @@ Lifewire / James Huenink
  The Logitech C615 Webcam strikes the perfect balance between performance and affordability. The quality design, high definition video, and quality sound make this an excellent webcam for most tasks at a great price.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087395/7443" target="_top" id="2087395">
-  <img src="//a.impactradius-go.com/display-ad/7443-2087395" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://malaysia-healthcare-travel-council.pxf.io/c/5597632/1576477/17382" target="_top" id="1576477">
+  <img src="//a.impactradius-go.com/display-ad/17382-1576477" border="0" alt="https://techidaily.com" width="160" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087395/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://malaysia-healthcare-travel-council.pxf.io/i/5597632/1576477/17382" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## Specs
@@ -182,16 +182,21 @@ Lifewire / James Huenink
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://video-screen-grab.techidaily.com/new-in-2024-explore-extravagance-best-terrafirma-mapping/"><u>[New] In 2024, Explore Extravagance Best Terrafirma Mapping</u></a></li>
-<li><a href="https://techidaily.com/solved-cant-install-google-chrome-on-windows-11-in-s-mode/"><u>[SOLVED] | Can't Install Google Chrome on Windows 11 in S Mode</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ed-2024-approved-youtubes-top-tools-to-reduce-long-link-lengths/"><u>[Updated] 2024 Approved Youtube's Top Tools to Reduce Long Link Lengths</u></a></li>
-<li><a href="https://facebook-videos.techidaily.com/updated-in-2024-investigating-fb-video-shape-variance/"><u>[Updated] In 2024, Investigating FB Video Shape Variance</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-in-2024-navigating-instagram-copyright/"><u>[Updated] In 2024, Navigating Instagram Copyright</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/aplus-craftsmen-outstanding-instagram-highlight-pages/"><u>A+ Craftsmen Outstanding Instagram Highlight Pages</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-6s-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 6s for Free? | Dr.fone</u></a></li>
-<li><a href="https://extra-lessons.techidaily.com/in-2024-action-sequence-mastery-selecting-gopros-best-cinematic-luts/"><u>In 2024, Action Sequence Mastery Selecting GoPro's Best Cinematic LUTs</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-7-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 7 for Free? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-8-plus-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 8 Plus for Parents | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 6s | Dr.fone</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-2024-approved-discover-the-leading-video-calling-apps-of-today/"><u>[New] 2024 Approved Discover the Leading Video Calling Apps of Today</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-behind-the-scenes-mastering-screen-recordings-in-games/"><u>[New] In 2024, Behind the Scenes Mastering Screen Recordings in Games</u></a></li>
+<li><a href="https://fox-hovers.techidaily.com/new-the-complete-sphere-unveiled-in-film-tech-for-2024/"><u>[New] The Complete Sphere Unveiled in Film Tech for 2024</u></a></li>
+<li><a href="https://android-location.techidaily.com/for-people-wanting-to-mock-gps-on-lava-blaze-2-5g-devices-drfone-by-drfone-virtual/"><u>For People Wanting to Mock GPS on Lava Blaze 2 5G Devices | Dr.fone</u></a></li>
+<li><a href="https://network-issues.techidaily.com/gpu-updates-fully-applied/"><u>GPU Updates Fully Applied</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-pro-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Pro by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 7 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-15-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 15 Pro Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-7-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 7 Plus Location without Installing Software? | Dr.fone</u></a></li>
+<li><a href="https://extra-approaches.techidaily.com/in-2024-sleep-soundly-top-aspers-techniques-unveiled/"><u>In 2024, Sleep Soundly Top Asper's Techniques Unveiled</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/in-2024-step-by-step-guide-mastering-ez-grabber/"><u>In 2024, Step-by-Step Guide Mastering EZ Grabber</u></a></li>
+<li><a href="https://games-able.techidaily.com/1719167483102-lightgblade-27m2v-econogamer-monitor/"><u>LightGBlade 27M2V - EconoGamer Monitor</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/ultimate-guide-top-software-solutions-for-downloading-and-viewing-metacafe-videos-without-internet/"><u>Ultimate Guide: Top Software Solutions for Downloading and Viewing Metacafe Videos Without Internet</u></a></li>
 </ul></div>
 

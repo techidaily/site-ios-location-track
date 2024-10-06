@@ -1,7 +1,7 @@
 ---
 title: "In-Depth Look at OnePlus 9: Where It Falls Short Mathematically"
-date: 2024-09-24T00:19:05.124Z
-updated: 2024-09-30T17:49:50.287Z
+date: 2024-10-02T22:32:54.465Z
+updated: 2024-10-05T22:27:54.172Z
 categories:
   - BestProducts
 description: "This Article Describes In-Depth Look at OnePlus 9: Where It Falls Short Mathematically"
@@ -68,14 +68,14 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/Ky7KFEDgeAy-u_D_Tv7zaOPYQMI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_03-f111424cfd584bfeac329fa2932278ca.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2123748/7443" target="_top" id="2123748">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123748" border="0" alt="https://techidaily.com" width="600" height="90"/>
 </a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123748/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Design: Smart and sleek**
 
@@ -89,14 +89,14 @@ Lifewire / Emily Isaacs
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/mxKfDJGuIKYcsSIQoKfzwDbYYmg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_02-3da87ff8439343f691cf02e9234d1f04.jpg)
 
- Lifewire / Emily Isaacs
-
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082535/7443" target="_top" id="2082535">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082535" border="0" alt="https://techidaily.com" width="728" height="90"/>
+<a href="https://appsumo.8odi.net/c/5597632/2037335/7443" target="_top" id="2037335">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037335" border="0" alt="https://techidaily.com" width="728" height="90"/>
 </a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082535/7443" style="position:absolute;visibility:hidden;" border="0" />
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037335/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
+ Lifewire / Emily Isaacs
 
 ## **Setup Process: Do it yourself worthy, but you’ll need a hand**
 
@@ -112,13 +112,6 @@ Lifewire / Emily Isaacs
 
  Once the TV has been installed, LG’s WebOS guides the first-time setup process by prompting inputs for settings ranging from time zone and language up to and including any necessary user agreements. The LG C9 will complete a scan in order to identify the devices and then you’re free to customize the TV’s settings by pressing the gear button on the LG Magic Remote. The first setting we changed was the Auto Power Saving (APS) picture mode, which reduces power use by dimming the brightness of the TV. The other important setting to disable is TruMotion, which smooths motion in TV shows and movies by altering the frame rate of the programming. If your LG’s picture looks a bit too much like a soap opera, chances are you need to disable this setting.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2111982/7443" target="_top" id="2111982">
-  <img src="//a.impactradius-go.com/display-ad/7443-2111982" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2111982/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## **Image Quality: Stunning picture**
 
  The image quality on the LG C9 is, frankly, stunning thanks in large part to its excellent contrast and wide range of colors, combined with the OLED panel’s ability to turn individual pixels on and off. Even from wide viewing angles, the 4K picture maintains its excellence, with limited washing out and color loss.
@@ -130,10 +123,16 @@ Lifewire / Emily Isaacs
  These pictures are further enhanced with LG’s α9 Gen 2 intelligent processor, new to 2019’s model. It excels at drawing out detail and correcting quality discrepancies within the picture, such as banding which creates textures and strips in areas of the screen that would otherwise be smooth. This is particularly important given the large screen size and high resolution. While it’s not as bright as an LED TV since it lacks backlighting, it doesn’t need it as the TV already possesses excellent color, a change here would risk washing out the inky blacks on the screen.
 
 <!-- affiliate ads begin -->
-<a href="https://dhgate.sjv.io/c/5597632/2106655/12108" target="_top" id="2106655">
-  <img src="//a.impactradius-go.com/display-ad/12108-2106655" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/2106655/12108" style="position:absolute;visibility:hidden;" border="0" />
+<span id="1983475">
+					<video width="576" height="240" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1983475.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/22993-1983475">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1983475.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1983475%2F22993'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1983475/22993" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
 ## **Audio: Better than expected**
@@ -141,6 +140,13 @@ Lifewire / Emily Isaacs
  While OLED TVs aren’t generally known for their great sound quality, the LG C9 has a surprisingly good sound system all things considered—but a soundbar would still be recommended. Audio in TV or movies is generally good, but it struggles to regulate loud and soft noises in a scene. Streaming Lizzo’s_Cuz I Love You_ on Spotify produces a surprising depth of sound, but it’s simply not comparable to a more robust system that a soundbar or home theater system would provide.
 
 ![LG OLED C9 65-inch 4K Smart TV](https://www.lifewire.com/thmb/SZUaFESJi6OZubIeLdK1e9L9FEM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/LG-65inch-4K-TV_1LW4142020_04-c559e4cc6de64f0c8baf4470f883dd9e-4844a7694fb74eb2904f1128ba93f760.jpeg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144272/7443" target="_top" id="2144272">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144272" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144272/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Lifewire / Emily Isaacs
 
@@ -157,13 +163,6 @@ Lifewire / Emily Isaacs
  65-inch 4K TV’s generally retail for between $800-$5,000, and this cost jumps further as screen size increases. The LG C9 is a premium 4K TV that sits at the top of this curve, offering integrated smart technologies and excellent picture with an intuitive, easy-to-use interface. As such, it comes at a premium price of $2,500 (Amazon) that exceeds the cost of many competitor models, but with so many additional features it’s worth the high price—even if it’s difficult to swallow.
 
 [How to Buy a TV For Your Home in 2024](https://www.lifewire.com/best-60-inch-tvs-4580159)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2144310/7443" target="_top" id="2144310">
-  <img src="//a.impactradius-go.com/display-ad/7443-2144310" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144310/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## **LG OLED C9 65-inch vs. Samsung 65-inch Class Q60R**
 
@@ -184,6 +183,13 @@ Lifewire / Emily Isaacs
  **An excellent TV you shouldn’t hesitate to buy if you value ease of use and superb image quality.**
 
  With its excellent smart features, gorgeous 4K image quality, and an easy-to-use interface, LG has only improved on last year’s model with the LG OLED C9\. That said, these improvements aren’t significant leaps, mainly coming from processor improvements and the addition of HDMI 2.1 ports. If you’re simply looking for the best TV from last year and price isn’t a consideration, look no further. On the other hand, there are other great 65-inch 4K TV models that may not have all the extra features the C9 does, but do have comparable quality without breaking the bank.
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2151871/7443" target="_top" id="2151871">
+  <img src="//a.impactradius-go.com/display-ad/7443-2151871" border="0" alt="https://techidaily.com" width="600" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151871/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Specs
 
@@ -226,20 +232,16 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/new-are-opinions-on-goods-compensated-in-videos/"><u>[New] Are Opinions on Goods Compensated in Videos?</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/updated-the-testimonial-toolkit-for-effective-promotion/"><u>[Updated] The Testimonial Toolkit for Effective Promotion</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-13-mini-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 13 mini Activity | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/affordable-popsockets-iphone-case-with-built-in-magsafe-wallet-at-a-great-value/"><u>Affordable PopSockets iPhone Case with Built-In MagSafe Wallet at a Great Value</u></a></li>
-<li><a href="https://fox-access.techidaily.com/freedom-in-editing-the-top-free-fx-websites-for-2024/"><u>Freedom in Editing The Top Free FX Websites for 2024</u></a></li>
-<li><a href="https://win-answers.techidaily.com/how-to-fix-a-non-responsive-logitech-g-hub-on-your-pc/"><u>How to Fix a Non-Responsive Logitech G Hub on Your PC</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-xs-max-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone XS Max Activity | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-14-pro-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 14 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-oneplus-nord-3-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in OnePlus Nord 3 5G for Streaming | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-7-plus-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 7 Plus for Parents | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-6s-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 6s without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://program-issues.techidaily.com/ultimate-fix-guide-for-addressing-system-crashes-during-persona-presso-gameplay/"><u>Ultimate Fix Guide for Addressing System Crashes During Persona Presso Gameplay</u></a></li>
-<li><a href="https://article-helps.techidaily.com/visual-storytellers-complete-vsco-tutorial-for-2024/"><u>Visual Storyteller's Complete VSCO Tutorial for 2024</u></a></li>
+<li><a href="https://tiktok-video-recordings.techidaily.com/updated-accelerating-your-tiktok-content-made-simple-for-2024/"><u>[Updated] Accelerating Your TikTok Content Made Simple for 2024</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-green-screen-revolution-access-comprehensive-tutorials-from-4-leading-youtube-educators/"><u>[Updated] The Green Screen Revolution Access Comprehensive Tutorials From 4 Leading YouTube Educators</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/about-google-pixel-fold-frp-bypass-by-drfone-android/"><u>About Google Pixel Fold FRP Bypass</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-7-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 7 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/in-2024-full-tutorial-to-bypass-your-samsung-galaxy-s23plus-face-lock-by-drfone-android/"><u>In 2024, Full Tutorial to Bypass Your Samsung Galaxy S23+ Face Lock?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 14 Pro Max? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-14-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 14 Plus without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/innovate-laughter-through-adobe-creation/"><u>Innovate Laughter, Through Adobe Creation</u></a></li>
+<li><a href="https://sound-issues.techidaily.com/oculus-quest-eboot-mic-troubleshooting-quick-fixes-and-tips-to-restore-sound/"><u>Oculus Quest Eboot Mic Troubleshooting: Quick Fixes and Tips to Restore Sound</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-15-plus-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 15 Plus with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/ultimate-guide-solve-the-2024-steam-black-screen-and-loading-issues-in-just-7-easy-steps/"><u>Ultimate Guide: Solve the 2024 Steam Black Screen & Loading Issues in Just 7 Easy Steps</u></a></li>
 </ul></div>
 

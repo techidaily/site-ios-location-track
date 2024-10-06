@@ -1,7 +1,7 @@
 ---
 title: Two Ways to Track My Boyfriends Apple iPhone 12 mini without Him Knowing | Dr.fone
-date: 2024-08-20T09:14:54.017Z
-updated: 2024-08-21T09:14:54.017Z
+date: 2024-10-01T17:26:58.066Z
+updated: 2024-10-06T06:13:38.067Z
 tags: 
   - virtual location change
   - location tracker
@@ -41,6 +41,13 @@ When I wanted to learn how can I track my boyfriend’s phone, I tried various t
 
 Even though mSpy provides similar features to that of KidsGuard Pro, it only works on rooted (and jailbroken) devices. Additionally, it is comparatively more expensive than KidsGuard Pro and doesn’t truly have a full-invisible mode. Any smart user can detect the spying app, which might land you in trouble.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2006928/19272" target="_top" id="2006928">
+  <img src="//a.impactradius-go.com/display-ad/19272-2006928" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2006928/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Track My Boyfriend's Phone via KidsGuard Pro?
 
 As I wanted to learn how can I track my boyfriend’s phone, I stumbled upon an amazing tool – [KidsGuard Pro](https://www.clevguard.com/android-parental-control/). It provided a highly reliable and secure way to track a device’s location, its vital content, and so much more. Easy to download and use, KidsGuard Pro doesn’t require you to root your Android device. After installing it on the target device, you can track it from the web dashboard control panel remotely.
@@ -76,12 +83,12 @@ If you also wish to use the distance marker on Google Maps, then you might have 
 ![google maps distance radius 1](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-1.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://ancheer.sjv.io/c/5597632/1657301/17326" target="_top" id="1657301"><img src="//a.impactradius-go.com/display-ad/17326-1657301" border="0" alt="" width="1920" height="933"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1657301/17326" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2136618/26400" target="_top" id="2136618">
+  <img src="//a.impactradius-go.com/display-ad/26400-2136618" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136618/26400" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4537546&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4b0a0290ad7df100b77e86839989a75e/products/7_copy_2_2_hdpro.png" border="0">HD Video Converter Factory Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: Draw a Radius Circle on Google Maps
 
 You might already know that Google Maps provides a map of the entire world for us to navigate. Though, there are times when users like to draw a radius on Google Maps for a particular location. Presently, the native feature of Google Maps does not have a distance radius tool. Therefore, to draw a radius on Google Maps, you would have to use an application that has its own interface. One of them is Map Developers that is based on Google Maps and has simply provided a solution to draw a radius on the map.
@@ -96,6 +103,13 @@ You might already know that Google Maps provides a map of the entire world for u
 ![google maps distance radius 3](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-3.jpg)
 
 If you want, you can later delete this circle or draw multiple circles in different colors to mark them in any location of your choice.
+
+<!-- affiliate ads begin -->
+<a href="https://imp.i357552.net/c/5597632/857865/11832" target="_top" id="857865">
+  <img src="//a.impactradius-go.com/display-ad/11832-857865" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://imp.i357552.net/i/5597632/857865/11832" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 2: Determine the Distance with Radius on Google Maps
 
@@ -113,9 +127,6 @@ If you know the exact longitude and latitude of the place, then you can also tak
 
 ![google maps distance radius 5](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://newchic.sjv.io/c/5597632/1659704/14420" target="_top" id="1659704"><img src="//a.impactradius-go.com/display-ad/14420-1659704" border="0" alt="" width="728" height="90"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1659704/14420" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3: Determine the Distance between two Addresses on Google Maps
 
 This is one of the most resourceful features of Google Maps that a lot of people are not aware of. Using its native interface, you can find a straight line distance on Google Maps. That is, it won’t be the driving distance, but the exact distance between 2 places on Google Maps. If you want, you can add other spots to let Google Maps calculate distance between multiple locations as well. To learn how to measure distance between two addresses on Google Maps, follow these steps:
@@ -125,47 +136,42 @@ This is one of the most resourceful features of Google Maps that a lot of people
 ![google maps distance radius 6](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-6.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37100474&QTY=1&AFFILIATE=108875&CART=1"><img src="https://awario.com/images/pages/index/img-platform-ui-1280@1x.avif" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/2135349/19272" target="_top" id="2135349">
+  <img src="//a.impactradius-go.com/display-ad/19272-2135349" border="0" alt="https://techidaily.com" width="120" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135349/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Now, once the source location is identified, you need to right-click it to get its context menu. From the available options on the context menu, click on “Measure Distance”.
 
 ![google maps distance radius 7](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-7.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
+<a href="https://appsumo.8odi.net/c/5597632/2123736/7443" target="_top" id="2123736">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123736" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123736/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 1. Afterward, just click anywhere else on the map and it will automatically find a straight line distance in Google Maps between these two spots.
 
 ![google maps distance radius 8](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-8.jpg)
 
-<!-- affiliate ads begin -->
-<span id="1993652">
-					<video width="720" height="300" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1993652">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1993652.jpeg" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:720px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1993652%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1993652/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 1. If you want to continue, then just click anywhere else on the map and that will be considered as the next spot. Therefore, you can just click as many times as you want to let Google Maps calculate distance between multiple locations.
 
 ![google maps distance radius 9](https://images.wondershare.com/drfone/2023/virtuallocation/google-maps-distance-radius-9.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=39655089&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/wa/01_WA_728x90.jpg" border="0"></a>
+<a href="https://bluettieu.pxf.io/c/5597632/2141676/17091" target="_top" id="2141676">
+  <img src="//a.impactradius-go.com/display-ad/17091-2141676" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://bluettieu.pxf.io/i/5597632/2141676/17091" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 This technique will let you measure distance between any addresses on Google Maps. It doesn’t matter if it is your present location or not. If you want to measure distance in some other location, then just enter its name in the search bar to load it. In this way, you can measure distance anywhere in the world by sitting in your home.
 
 This brings us to the end of this extensive guide on using Google Maps distance and radius features. As you can see, I have provided a smart and user-friendly solution to draw radius distance on Google Maps. Besides that, you can also follow the above guide to measure distance between two addresses on Google Maps. In the same way, you can also let Google Maps calculate distance between multiple locations as well. Go ahead and try these Google Maps distance and radius hacks and share your experience with us in the comments below.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://godlikehost.sjv.io/c/5597632/1920054/21774" target="_top" id="1920054"><img src="//a.impactradius-go.com/display-ad/21774-1920054" border="0" alt="" width="320" height="100"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1920054/21774" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### Dr.Fone - Virtual Location
 
 1-Click Location Changer for both iOS and Android
@@ -178,14 +184,8 @@ This brings us to the end of this extensive guide on using Google Maps distance 
 
 **3981454** people have downloaded it
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 ## You Might Also Like
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Location-based apps
 
 GPS spoof for dating apps
@@ -206,14 +206,11 @@ AR game tricks
 
 [Try Now](https://tools.techidaily.com/wondershare/drfone/drfone-toolkit/)
 
-
-
 ## Solutions to Spy on Apple iPhone 12 mini with and without jailbreak
 
 It is no secret that you can easily spy on any iPhone. Many spy or monitoring programs make it easy. All you have do is have access to the iPhone you want to spy on and have a reliable spy program. The problem is, there are some spy programs that will only work on a jailbroken device. This can be a problem when you don’t want the Apple iPhone 12 mini device’s owner to know of your activities and the owner has no intention to jailbreak their device.
 
 In this article, we look at how you to spy on an iPhone without needing a jailbreak and how to spy on a jailbroken device or jailbreak a device to facilitate spying.
-
 
 ## Part 1: How to Spy on iPhone without Jailbreak
 
@@ -236,9 +233,12 @@ Step 4: You can then log in to your [mSpy](http://mspy.go2cloud.org/SH7G6) contr
 ![Spy on iPhone without Jailbreak-log in to your mSpy control panel](https://images.wondershare.com/drfone/article/2017/10/15079748088200.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698832&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/karaoki-new-searchresultspane.jpg" border="0">PCDJ Karaoki is the complete professional karaoke software designed for KJs and karaoke venues. Karaoki includes an advanced automatic singer rotation list with singer history, key control, news ticker, next singers screen, a song book exporter and printer, a jukebox background music player and many other features designed so you can host karaoke shows faster and easier! 
- PCDJ Karaoki (WINDOWS ONLY Professional Karaoke Software - 3 Activations)</a>
+<a href="https://appsumo.8odi.net/c/5597632/2100541/7443" target="_top" id="2100541">
+  <img src="//a.impactradius-go.com/display-ad/7443-2100541" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2100541/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## Part 2: How to Spy using Spyware that Requires a Jailbreak
 
 Being able to spy on an iPhone without a jailbreak is not something that happens often. This is because unlike mSpy, most monitoring software will require you jailbreak the Apple iPhone 12 mini device before you can install the software. One of those apps is TruthSpy. Like mSpy, this app will allow users to see all types of data on the target device without the owner of the Apple iPhone 12 mini device knowing they are being monitored. The only problem is, you need to have access to the Apple iPhone 12 mini device to jailbreak it. If this is what you prefer or are unable to get access to mSpy, TruthSpy will work just fine. Here’s how to use it.
@@ -247,19 +247,22 @@ Step 1: Begin by performing a jailbreak on the target device. There are several 
 
 ![Spy using Spyware with jailbreak-Pangu software](https://images.wondershare.com/drfone/article/2017/10/15074779011456.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4940312&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/333ac5d90817d69113471fbb6e531bee/sps-partnership-728x90eng.png" border="0"></a>
-<!-- affiliate ads end -->
 Step 2: Once the Apple iPhone 12 mini device is successfully jailbroken, create an account with TruthSpy, purchase a subscription and you will receive instructions on how to install the software on the jailbroken device.
 
 Step 3: You can then log in to TurthSpy with your log in information and access all types of data on the target iPhone from any bowser.
 
 ![Spy using Spyware with jailbreak-log in to TurthSpy](https://images.wondershare.com/drfone/article/2017/10/15079742762274.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2144288/7443" target="_top" id="2144288">
+  <img src="//a.impactradius-go.com/display-ad/7443-2144288" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2144288/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Both mSpy and TruthSpy will provide you with all the information you need about the target device. The only difference is, you need to jailbreak the Apple iPhone 12 mini device if TruthSpy will be able to access it. Jailbreaking the
 
 device will however make it easier for the Apple iPhone 12 mini device’s owner to find the spyware and remove it before you are able to complete your activities. It is therefore preferable to use a program like mSpy that requires no jailbreak.
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -273,11 +276,19 @@ device will however make it easier for the Apple iPhone 12 mini device’s owner
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://instagram-video-recordings.techidaily.com/new-in-2024-join-the-visual-speech-the-simple-guide-to-posting-and-uploading-gifs-on-instagram/"><u>[New] In 2024, Join the Visual Speech The Simple Guide to Posting and Uploading GIFs on Instagram</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/updated-2024-approved-pubg-voice-transformation-hacks/"><u>[Updated] 2024 Approved PUBG Voice Transformation Hacks</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/updated-tailoring-audio-alerts-setting-custom-ringtones-and-sounds-on-android-devices/"><u>[Updated] Tailoring Audio Alerts Setting Custom Ringtones & Sounds on Android Devices</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/enhance-your-online-presence-using-manycam-top-live-video-platforms-and-fake-webcams-unleashed/"><u>Enhance Your Online Presence Using ManyCam: Top Live Video Platforms and Fake Webcams Unleashed</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-se-2022-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone SE (2022) without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-13-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 13 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-14-pro-max-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 14 Pro Max Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://bypass-frp.techidaily.com/is-gsm-flasher-adb-legit-full-review-to-bypass-your-realme-11-profrp-lock-by-drfone-android/"><u>Is GSM Flasher ADB Legit? Full Review To Bypass Your Realme 11 ProFRP Lock</u></a></li>
+<li><a href="https://extra-hints.techidaily.com/master-the-art-of-visual-storytelling-with-top-text-techniques/"><u>Master the Art of Visual Storytelling with Top Text Techniques</u></a></li>
+<li><a href="https://discover-fantastic.techidaily.com/tutorial-on-capturing-and-saving-content-downloading-videos-on-the-tango-platform/"><u>Tutorial on Capturing and Saving Content: Downloading Videos on the Tango Platform</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-15-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 15 without Him Knowing | Dr.fone</u></a></li>
+</ul></div>
 

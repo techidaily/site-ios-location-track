@@ -1,7 +1,7 @@
 ---
 title: How Do I Stop Someone From Tracking My Apple iPhone 12 Pro? | Dr.fone
-date: 2024-08-20T09:13:07.819Z
-updated: 2024-08-21T09:13:07.819Z
+date: 2024-10-02T19:18:03.600Z
+updated: 2024-10-05T17:36:54.134Z
 tags: 
   - virtual location change
   - location tracker
@@ -31,18 +31,20 @@ The apps that are used by people to track mobile devices will track one of these
 
 The sections below will show you how to stop someone from tracking your Apple iPhone 12 Pro with ease.
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1884002/19272" target="_top" id="1884002">
+  <img src="//a.impactradius-go.com/display-ad/19272-1884002" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1884002/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to stop my iPhone from being tracked?
 
 If you have an iPhone, the following methods can be used to stop someone from tracking your device
 
-<!-- affiliate ads begin -->
-<a href="https://zonlipartnershipprogram.pxf.io/c/5597632/1821134/17882" target="_top" id="1821134"><img src="//a.impactradius-go.com/display-ad/17882-1821134" border="0" alt="" width="320" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1821134/17882" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### 1) Use Dr.Fone - Virtual Location(iOS/Android)
 
 This is a tool that you can use to change the virtual location of your device(iOS or Android). The tool comes with powerful features that enable you to teleport to any part of the world within an instant, and even start to move around a map as if you were physically in the area.
-
-
 
 ### Dr.Fone - Virtual Location
 
@@ -99,14 +101,8 @@ You may turn off location tracking for specific apps that you feel might be used
 
 ![Disable Share My Location on iPhone](https://images.wondershare.com/drfone/2020/disable-location-tracking-iphone-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://sentrypc.7eer.net/c/5597632/398453/3022" target="_top" id="398453"><img src="//a.impactradius-go.com/display-ad/3022-398453" border="0" alt="www.sentrypc.com" width="580" height="400"/></a><img height="0" width="0" src="https://sentrypc.7eer.net/i/5597632/398453/3022" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 - Now toggle the button to the right to turn it into the "OFF" position
 
-<!-- affiliate ads begin -->
-<a href="https://store.revouninstaller.com/order/checkout.php?PRODS=28010250&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/4282ec8de8c9be897e7aff4aa231b1a4/336__280a.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### 5) Disable location-based notifications or alerts
 
 Navigate to the "Settings" app on your Home screen
@@ -123,16 +119,10 @@ Toggle the button on the right side of "Location-Based Alerts" into the "OFF" po
 
 ![Toggle Location-Based Alerts to the “Off” position](https://images.wondershare.com/drfone/2020/iphone-disable-location-based-alerts-6.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=12653853&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/bcb41ccdc4363c6848a1d760f26c28a0/products/14_videoproc-converter-ai-box.png" border="0"></a>
-<!-- affiliate ads end -->
 ## Part 3:How to stop my android from being tracked
 
 You also need to know how to stop Google from tracking your Android phone. This feature can be used to track your device through other apps.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4615471&QTY=1&AFFILIATE=108875&CART=1"><img src="https://images.wondershare.com/affiliate-image/affiliate_banners_en/max_782x90.png" border="0"></a>
-<!-- affiliate ads end -->
 ### 1) Stop Google Tracking on Android device
 
 - Access the "settings" app on your Home screen
@@ -166,8 +156,12 @@ Nord VPN is a great tool to fake your GPS location and stop people from tracking
 ![pokemon go spoofers iphone 8](https://images.wondershare.com/drfone/article/2019/09/pokemon-go-spoofers-iphone-8.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.massmailsoftware.com/order/checkout.php?PRODS=1300375&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/dc87c13749315c7217cdc4ac692e704c/banera_for_partners-15_%281%29.jpg" border="0"></a>
+<a href="https://aligracehair.sjv.io/c/5597632/1997630/19272" target="_top" id="1997630">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997630" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997630/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ### 4) Fake GPS Go
 
 This is an app that you can download to your android device from Google Play Store. It is safe and will not affect the normal functioning of your device. Simply get it from Google Play Store, install it, and launch it. When it is up and running, you have to use the map interface to pin the new location that you want to teleport to. Anyone who may be tracking you will instantly be fooled that you are in the new location. You may also move around using the Joystick feature just as if you are on the ground in the teleport location.
@@ -183,9 +177,6 @@ This is an app that you can download to your android device from Google Play Sto
 
 ![android pokemon go spoofing 5](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-5.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4621764&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.x-mirage.com/x-mirage/img/page-home.jpg" border="0"></a>
-<!-- affiliate ads end -->
 - To actually change the virtual location of your device, launch Fake GPs Go once more and then access the map interface. Choose a location far from your actual location and then pin it as your "real" location. This will instantly show that you have moved to this new location and throw off people who are tracking your Android device.
 
 ![android pokemon go spoofing 6](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-6.jpg)
@@ -199,23 +190,22 @@ This is yet another tool that you can use to fake your GPS location and fool peo
 
 ![android pokemon go spoofing 7](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-7.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137229/26400" target="_top" id="2137229">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137229" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137229/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 - Return to your Home screen and the Launch Fake GPS free. Access the map interface and then check for a location far from your actual position. You may even zoom in and better pinpoint a new location.
 - You will get a notification once you have successfully spoofed your location. You may now close the app and it will still work in the background ensuring that your location stays permanent in the new area you selected.
 
 ![android pokemon go spoofing 8](https://images.wondershare.com/drfone/article/2019/09/android-pokemon-go-spoofing-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4729320&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f7f07e7dab09533bc71247a5b29a7373/products/2_iDeviceMessageBox.png" border="0"></a>
-<!-- affiliate ads end -->
 ## In Conclusion
 
 If you want to stop Google from tracking your location, these are the methods that you should use to turn off your GPS location on both iOS and Android. You need to know that you are safe all the time and this is a step that you should take when you feel like you are being tracked for nefarious reasons. However, you should do this with caution as the information can also be used in a beneficial manner. The best option is to turn on the GPS when you need it and then turn it off when you do not, or use an iOS spoofing tool.
 
-
-
-<!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 Pro
 
 The location services that Google provides to Android smartphones are indeed useful in many ways. For instance, you can use Google Maps to check a particular place you want to visit and obtain reliable directions to help you get there. Another thing, Google can also give you the exact location of your Android device in case you lost it somewhere. Indeed, Google’s GPS tracking feature comes in very handy whenever you need such assistance.
@@ -224,35 +214,20 @@ It’s true to say that Google's location monitoring services offer tons of bene
 
 In this article, we will discuss how Google employs location access on your mobile device. We will also provide some quick tutorials on how to turn off Google location tracking in easy steps. Continue reading below to learn more.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4742929&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/e09fdffe648a30658a9657bbed7b2388/products/boxshot(2).png" border="0">Kanto Player Professional</a>
-<!-- affiliate ads end -->
 ## Part 1. Understanding How Google Uses Location Data
 
 Location data generally helps us find reliable directions and pinpoint a particular place. But apart from that, this piece of information actually serves a bigger purpose. Google, in particular, employs location data to provide high-quality services tailored to specific preferences and necessities of the users. Each Google product relies heavily on location information and utilizes it for various reasons. To understand it better, check out the list below.
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DMovavi%2BScreen%2BRecorder%2Bbox"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/f026b149-fc7c-fd54-5f3e-1460bbb19b6b.jpg" border="0"></a>
-<!-- affiliate ads end -->
 ### It is an essential component of most Google services
 
 ![google products](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-1.JPG)
 
-<!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/1873305/18544" target="_top" id="1873305"><img src="//a.impactradius-go.com/display-ad/18544-1873305" border="0" alt="" width="1080" height="1350"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1873305/18544" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Of course, Google Maps and Weather will not work without access to location data. It is the main component that allows this kind of application to function exactly as it should. That’s why you should think twice before you turn off Google location tracking. Keep it activated on your mobile device if you’re in need of real-time weather updates or reliable coordinates.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4631056&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/997e65474a248252883b485717f7d098/products/buy-windows.png" border="0">Allavsoft Batch Download Online Videos, Music Offline to MP4, MP3, MOV, etc format </a>
-<!-- affiliate ads end -->
 ### It is used for targeted advertisements
 
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Android smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2048963/16384" target="_top" id="2048963"><img src="//a.impactradius-go.com/display-ad/16384-2048963" border="0" alt="" width="1200" height="900"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2048963/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
@@ -268,13 +243,14 @@ Google uses location data to keep your accounts safe from potential attacks and 
 ![google services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-3.JPG)
 
 <!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4572700&QTY=1&AFFILIATE=108875&CART=1"><img src="	https://www.tubedigger.com/wp-content/uploads/2020/08/tubedigger-software-new.png" border="0">TubeDigger - online video downloader from mostly any site</a>
+<a href="https://aligracehair.sjv.io/c/5597632/1886003/19272" target="_top" id="1886003">
+  <img src="//a.impactradius-go.com/display-ad/19272-1886003" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1886003/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 We all know that Google is committed to offering us new products and improving its existing services. That’s indeed beneficial to all of us, especially in today’s ever-changing world. But definitely, it’s not possible if Google doesn’t have adequate location information from the pool of its users. Why so? Simply because location data determines the latest community trends and helps specialists find the perfect basis for fresh developments. Do you want to contribute something to the advancement of Google products? If so, you can start by giving Google access to the location data on your Android smartphone.
 
-<!-- affiliate ads begin -->
-<a href="https://atezr.pxf.io/c/5597632/2018605/18496" target="_top" id="2018605"><img src="//a.impactradius-go.com/display-ad/18496-2018605" border="0" alt="" width="798" height="807"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2018605/18496" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 2. Top 4 Techniques to Turn Off Google Location Tracking on Android
 
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Android smartphone.
@@ -291,9 +267,6 @@ There’s no denying that Google uses location information to give us the best e
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.movavi.com/affiliate.php?ACCOUNT=MOVAVI&AFFILIATE=108875&PATH=https%3A%2F%2Fwww.movavi.com%3FAFFILIATE%3D108875%26RESOURCE%3DBanner%2B728x90"><img src="https://mcusercontent.com/0885a03ded3d480dca9287f12/images/2e76fe6a-3010-1b37-7846-f34ff9c6b4ca.png" border="0"></a>
-<!-- affiliate ads end -->
 **Step 4:** Lastly, click **Close** to confirm the changes.
 
 ### Method 2: Deactivate the Google App’s location access on your Android mobile device
@@ -314,16 +287,10 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![google app permissions](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-7.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 **Step 5:** Click **Location.**
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://modlily.sjv.io/c/5597632/2072819/17059" target="_top" id="2072819"><img src="//a.impactradius-go.com/display-ad/17059-2072819" border="0" alt="" width="300" height="250"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2072819/17059" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
@@ -340,6 +307,13 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2014851/22899" target="_top" id="2014851">
+  <img src="//a.impactradius-go.com/display-ad/22899-2014851" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2014851/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 **Step 3:** Click **Google Account.**
 
 ![google app account](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-11.jpg)
@@ -348,16 +322,17 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![data and privacy settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-12.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://propmoneyinc.pxf.io/c/5597632/1803116/14559" target="_top" id="1803116"><img src="//a.impactradius-go.com/display-ad/14559-1803116" border="0" alt="" width="859" height="859"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1803116/14559" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** Find and click **Timeline.**
 
 ![timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-13.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2084399/18498" target="_top" id="2084399"><img src="//a.impactradius-go.com/display-ad/18498-2084399" border="0" alt="" width="1125" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2084399/18498" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://appsumo.8odi.net/c/5597632/2123727/7443" target="_top" id="2123727">
+  <img src="//a.impactradius-go.com/display-ad/7443-2123727" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2123727/7443" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 **Step 6:** Scroll down and then tap the **Turn Off** button.
 
 ![turn off timeline settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-14.jpg)
@@ -370,19 +345,10 @@ Timeline is a special Google feature that keeps a record of your location check-
 
 ![my google activity settings](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-15.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2097467/26400?prodsku=B700" target="_top" id="2097467"><img src="//a.impactradius-go.com/display-ad/26400-2097467" border="0" alt="" width="640" height="640"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2097467/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 3:** Scroll it down and then click the **Turn Off** button.
 
 ![turn off timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-16.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://order.glarysoft.com/order/checkout.php?PRODS=4535075&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6734fa703f6633ab896eecbdfad8953a/products/GU-500_672.png" border="0">Glary Utilities PRO -  Premium all-in-one utility to clean, speed up, maintain and protect your PC</a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=33729450&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/7f687767ccf20fcea1c9dc4a5adc2326/Digisigner_banner_728_x_90_color_version.png" border="0"></a>
-<!-- affiliate ads end -->
 ### Method 4: Remove visits on Google Maps
 
 If Timeline is previously activated on your Android device, chances are Google Maps has recorded all your recent visits. Don’t worry. You can easily delete them and finally turn off Google location tracking once and for all. Here’s a short guide on how to do it in easy steps.
@@ -397,26 +363,15 @@ If Timeline is previously activated on your Android device, chances are Google M
 
 ![google maps your timeline](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-18.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087389/7443" target="_top" id="2087389"><img src="//a.impactradius-go.com/display-ad/7443-2087389" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087389/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 4:** Click **Places.** Scroll down and then click **Visited All Places** just below the map.
 
 ![google maps places](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-19.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://boody-eco-wear.pxf.io/c/5597632/1572622/13846" target="_top" id="1572622"><img src="//a.impactradius-go.com/display-ad/13846-1572622" border="0" alt="" width="1000" height="1298"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1572622/13846" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 **Step 5:** Pick a location and click the **Three-dotted menu** button next to it. From there, select **Remove All Visits.**
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095369/26400" target="_top" id="2095369"><img src="//a.impactradius-go.com/display-ad/26400-2095369" border="0" alt="" width="1024" height="512"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095369/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 3. Keep Your Whereabouts Private With <u>Wondershare Dr.Fone</u>
 
 Google surely understands that some users are uncomfortable sharing their whereabouts with the platform. That’s why you’re given the option to turn off Google location tracking on your Android smartphone. However, take note that doing so might gravely affect the functionality of some Google products. If you don’t want it to happen, there’s an alternative solution you can try. Rather than denying Google access to your location, why not change it instead and register a fake one? Yes. That can absolutely help you conceal your whereabouts without compromising the quality of Google services. Don’t worry. It’s a piece of cake. Wondershare Dr.Fone can help you a lot in this regard. It has a potent Virtual Location feature capable of modifying your whereabouts and simulating GPS movements. Do you want to try it now? Here’s a short guide for you.
-
-
 
 **Step 1:** Download Wondershare Dr.Fone from its [<u>official website.</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) Subsequently, install it on your computer.
 
@@ -440,22 +395,21 @@ Google surely understands that some users are uncomfortable sharing their wherea
 
 **NOTE:** If you want to restore your original location settings, simply disconnect your smartphone from the computer and restart it.
 
-<!-- affiliate ads begin -->
-<a href="https://bluettieu.pxf.io/c/5597632/2042323/17091" target="_top" id="2042323"><img src="//a.impactradius-go.com/display-ad/17091-2042323" border="0" alt="BLUETTI NEW LAUNCH AC180T" width="3840" height="1600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2042323/17091" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Conclusion
 
 At some point, we cannot deny that Google location services make our lives a lot more convenient. Imagine you can easily locate a particular place and get directions by simply browsing Google Maps. No need to borrow an Atlas from the library just to find a location you want to visit. However, in exchange for this convenience, you have to share location access with Google. Some users are not confident to access this privilege at the expense of their privacy. Don’t worry. That’s totally fine. If you’re one of them, this article can help you turn off Google location tracking on your Android device. Is there a more conservative approach to address this issue? Luckily, there is. Download [<u>Wondershare Dr.Fone</u>](https://tools.techidaily.com/wondershare/drfone/virtual-location-changer/) on your computer and take advantage of its Virtual Location feature. It can help modify your whereabouts and simulate GPS movements without going outdoors.
 
-
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036472/19272" target="_top" id="2036472">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036472" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036472/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## 5 Ways to Track Apple iPhone 12 Pro without App
 
 The Find My Apple iPhone 12 Pro app is a great addition to your Apple iPhone 12 Pro, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your Apple iPhone 12 Pro forever? Not really, because we are about to reveal to you 5 different ways to track your Apple iPhone 12 Pro without app, so you can hopefully find your phone in the condition it went astray.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4665597&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.pcclean.io/wp-content/uploads/2018/03/winutilities-box-130521.png" border="0">WinUtilities Pro</a>
-<!-- affiliate ads end -->
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
 Take note that this solution will not work if you haven’t activated the Find My iPhone service when you set up your device. If you have, here’s how to go about it.
@@ -468,9 +422,6 @@ If you are greeted with the two factor authentication process, which asks you to
 
 ![skip the two factor authentication process](https://images.wondershare.com/drfone/article/2017/10/15075180348414.jpg) ![head to the quick access link](https://images.wondershare.com/drfone/article/2017/10/15075180363658.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4612444&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/pt-728x90.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2. From the dashboard, locate the Find iPhone icon on the second row and click on it.
 
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
@@ -479,16 +430,10 @@ Step 3. Hover over to the All Devices dropdown menu and choose your Apple iPhone
 
 ![choose your Apple iPhone 12 Pro](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ukaidot.sjv.io/c/5597632/1793237/19578" target="_top" id="1793237"><img src="//a.impactradius-go.com/display-ad/19578-1793237" border="0" alt="" width="1200" height="1200"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793237/19578" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
 ![begin to track the phone](https://images.wondershare.com/drfone/article/2017/10/15075182429793.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4712430&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c404a5adbf90e09631678b13b05d9d7a/products/dlnow_256.png" border="0">DLNow Video Downloader</a>
-<!-- affiliate ads end -->
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
 
 ## Part 2: Solution 2 - Google to the Rescue
@@ -499,10 +444,6 @@ It’s no surprise that both Apple and the search giant are fond of gathering in
 
 ![head to the Google Timeline to track your Apple iPhone 12 Pro](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=36506229&QTY=1&AFFILIATE=108875&CART=1"><video width="100%" height="" class="rounded-t-md shadow-lg relative z-20" controls="" autoplay="" loop="" muted="" playsinline="" webkit-playinginline="">
-<source type="video/mp4" src="https://aidaform.com/images/videos/aidaform-welcome-site.mp4"><source type="video/webm" src="https://aidaform.com/images/videos/aidaform-welcome-site.webm"></video></a>
-<!-- affiliate ads end -->
 Step 2. Select the present date from the left hand panel.
 
 Step 3. Scroll to the bottom of the timeline, and select the latest location update.
@@ -518,6 +459,13 @@ This option is somewhat complex, and requires that you have the Google Photos ap
 Well, if you have the aforementioned prerequisites, head over to photos.google.com to visit your most recently uploaded photos. If you happen to notice any recent photos, click on them and check their location by clicking on the right sidebar. Again, if you do find the location using this method, it is best to contact your local authorities.
 
 ![Use Google Photos to Track your Apple iPhone 12 Pro](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2105874/7443" target="_top" id="2105874">
+  <img src="//a.impactradius-go.com/display-ad/7443-2105874" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2105874/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
@@ -541,9 +489,6 @@ One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is th
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4721564&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/c14a8df1e1b4d5297e9cb30cb34d5a00/products/copy_power-tools-48.png" border="0">Power Tools add-on for Google Sheets, 12-month subscription</a>
-<!-- affiliate ads end -->
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
 Speaking of GPS locations, here’s how to get started with tracking your Apple iPhone 12 Pro using mSpy.
@@ -552,9 +497,6 @@ Step 1. You first need to choose between one of three plans, and your login cred
 
 ![choose the plan and get the login credentials](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2087484/7443" target="_top" id="2087484"><img src="//a.impactradius-go.com/display-ad/7443-2087484" border="0" alt="" width="1200" height="600"/></a><img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2087484/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
 
 ![go to the mSpy control panel dashboard](https://images.wondershare.com/drfone/article/2017/10/15075195078932.jpg)
@@ -566,9 +508,6 @@ Step 4. The interface is highly intuitive, so all the information you need is fe
 ![view the exact whereabouts of your phone by mSpy](https://images.wondershare.com/drfone/article/2017/10/15075195819649.jpg)
 
 There you go! Lost your Apple iPhone 12 Pro? We've provided you with 5 different ways to locate it, and we hope that one of them could help you recover your device.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -582,11 +521,17 @@ There you go! Lost your Apple iPhone 12 Pro? We've provided you with 5 different
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://fox-blue.techidaily.com/updated-intensify-your-videoleap-images-through-precision-zooming-for-2024/"><u>[Updated] Intensify Your Videoleap Images Through Precision Zooming for 2024</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/updated-the-art-of-captivating-viewers-instavideo-marketing-essentials-for-2024/"><u>[Updated] The Art of Captivating Viewers InstaVideo Marketing Essentials for 2024</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/updated-the-essential-guide-to-obs-and-zoom-live-stream-setup/"><u>[Updated] The Essential Guide to OBS and Zoom Live Stream Setup</u></a></li>
+<li><a href="https://screen-sharing-recording.techidaily.com/affordable-webinar-tools-for-efficient-recording/"><u>Affordable Webinar Tools for Efficient Recording</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-xs-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone XS for Free? | Dr.fone</u></a></li>
+<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-your-motorola-razr-40-location-on-life360-without-anyone-knowing-drfone-by-drfone-virtual-android/"><u>In 2024, How to Change Your Motorola Razr 40 Location on life360 Without Anyone Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-15-pro-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 15 Pro for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-14-plus-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 14 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-13-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 13 Pro | Dr.fone</u></a></li>
+<li><a href="https://win-answers.techidaily.com/mastering-stable-playthrough-of-mass-effect-legendary-edition-avoidance-of-crashes-for-both-pc-and-xbox-users/"><u>Mastering Stable Playthrough of Mass Effect Legendary Edition: Avoidance of Crashes for Both PC and Xbox Users</u></a></li>
+</ul></div>
 
