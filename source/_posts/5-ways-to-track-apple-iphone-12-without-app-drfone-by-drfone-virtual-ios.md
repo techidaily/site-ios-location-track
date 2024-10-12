@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Track Apple iPhone 12 without App | Dr.fone
-date: 2024-08-20T09:15:50.402Z
-updated: 2024-08-21T09:15:50.402Z
+date: 2024-10-09T19:07:32.787Z
+updated: 2024-10-12T01:37:48.433Z
 tags: 
   - virtual location change
   - location tracker
@@ -67,9 +67,6 @@ Well, if you have the aforementioned prerequisites, head over to photos.google.c
 
 ![Use Google Photos to Track your Apple iPhone 12](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2095385/26400" target="_top" id="2095385"><img src="//a.impactradius-go.com/display-ad/26400-2095385" border="0" alt="" width="1024" height="1024"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2095385/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
 This method requires that you have Find My Friend enabled on both your missing iPhone and the one you’re going to use to track it. Good news is that starting from iOS 9, this feature is stock and will already be installed on the Apple iPhone 12 device.
@@ -92,9 +89,6 @@ One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is th
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://ursime.pxf.io/c/5597632/2092236/16384" target="_top" id="2092236"><img src="//a.impactradius-go.com/display-ad/16384-2092236" border="0" alt="" width="1920" height="329"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2092236/16384" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
 Speaking of GPS locations, here’s how to get started with tracking your Apple iPhone 12 using mSpy.
@@ -104,8 +98,12 @@ Step 1. You first need to choose between one of three plans, and your login cred
 ![choose the plan and get the login credentials](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://turtlebeacheu.sjv.io/c/5597632/1996818/23722" target="_top" id="1996818"><img src="//a.impactradius-go.com/display-ad/23722-1996818" border="0" alt="" width="600" height="600"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1996818/23722" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/1975836/19272" target="_top" id="1975836">
+  <img src="//a.impactradius-go.com/display-ad/19272-1975836" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1975836/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
 
 ![go to the mSpy control panel dashboard](https://images.wondershare.com/drfone/article/2017/10/15075195078932.jpg)
@@ -116,18 +114,26 @@ Step 4. The interface is highly intuitive, so all the information you need is fe
 
 ![view the exact whereabouts of your phone by mSpy](https://images.wondershare.com/drfone/article/2017/10/15075195819649.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/2036486/19272" target="_top" id="2036486">
+  <img src="//a.impactradius-go.com/display-ad/19272-2036486" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2036486/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 There you go! Lost your Apple iPhone 12? We've provided you with 5 different ways to locate it, and we hope that one of them could help you recover your device.
 
 <!-- affiliate ads begin -->
-<a href="https://twopages.pxf.io/c/5597632/2016067/18544" target="_top" id="2016067"><img src="//a.impactradius-go.com/display-ad/18544-2016067" border="0" alt="" width="1020" height="380"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2016067/18544" style="position:absolute;visibility:hidden;" border="0" />
+<a href="https://aligracehair.sjv.io/c/5597632/2047346/19272" target="_top" id="2047346">
+  <img src="//a.impactradius-go.com/display-ad/19272-2047346" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047346/19272" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
+
 ## How to Spy on Text Messages from Computer & Apple iPhone 12
 
 Do you suspect that your child is communicating with the wrong individuals? While cellphones are meant to give everyone the ability to communicate, their secretive nature can also nurture society’s ills, and children, especially teenagers can fall prey to these. Yet, as a parent, it can be very hard to monitor what your child is doing on your device. That’s why we thought it wise to share with you a few ways you can spy on someone’s text messages from your device or computer.
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=40085955&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/f702defbc67edb455949f46babab0c18/products/2_logo9.png" border="0">FX PRO (Gold Robot + Silver Robot(Basic Package))</a>
-<!-- affiliate ads end -->
 ## Part 1: How to Spy on text messages from another Android phone
 
 To spy on another android device’s text messages, you will need to install spy software on that device. One of the best monitoring programs for the task is eyeZy. It is affordable, easy to install, and above all gives you access to the target device’s text messages remotely. [EyeZy](https://www.eyezy.com/) can also provide you with a wealth of other information about the target device including call history, browsing history, and even GPS location.
@@ -156,6 +162,13 @@ Step 3: The app will automatically access all messages on the target device. It 
 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://dhgate.sjv.io/c/5597632/1186802/12108" target="_top" id="1186802">
+  <img src="//a.impactradius-go.com/display-ad/12108-1186802" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://dhgate.sjv.io/i/5597632/1186802/12108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 3: How to Spy on text messages from computer
 
 If you want to spy on someone else’s text messages on your computer, a monitoring program like [mSpy](http://mspy.go2cloud.org/SH7G6) might be a good choice. As one of the best spy apps in the business, mSpy gives you the ability to monitor any device both Android and iOS remotely from any computer. It is easy to install and will provide you with additional information about the target device including call history, browsing history, and even email tracking.
@@ -169,6 +182,13 @@ Step 2: Once you’ve paid for your subscription, mSpy will send you an email wi
 Step 3: You should be able to log in to your web-based control panel and view the messages as soon as the installation is complete.
 
 ![Spy on text messages from computer via mSpy](https://images.wondershare.com/drfone/article/2017/10/15074696134452.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934188/19272" target="_top" id="1934188">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934188" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934188/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 The above three solutions enable users to monitor more than just text messages. They give parents the ability to keep track of what their children are saying to one another or who they are talking to. While there are many applications to spy monitoring software, perhaps the most important is in ensuring the safety of our young people.
 
@@ -188,9 +208,6 @@ Step 1: Get them Spy app. Download and install mSpy from the website directly ([
 
 ![how to trace a cell phone with mSpy-install mSpy](https://images.wondershare.com/drfone/article/2017/11/15096681293188.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.incomedia.eu/order/checkout.php?PRODS=12730965&QTY=1&AFFILIATE=108875&CART=1"><img src="https://incomedia.eu/files/images/affiliates/w5/03_WBSX5_728x90_red_CTA.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2:Provide valid email addresses and receive email installation procedures.
 
 Step 3: Now install the app and wait for the completion of setup.
@@ -201,24 +218,21 @@ Step 4: Before proceeding, ensure you can access the Apple iPhone 12 device phys
 
 ![how to trace a cell phone with mSpy-access the Apple iPhone 12 device](https://images.wondershare.com/drfone/article/2017/11/15096888659365.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://coinrule.sjv.io/c/5597632/1958379/18409" target="_top" id="1958379"><img src="//a.impactradius-go.com/display-ad/18409-1958379" border="0" alt="" width="856" height="508"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1958379/18409" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Step 5: Now you can start the process of how to trace a cell phone.
 
 ![how to trace a cell phon with mSpye-start the process](https://images.wondershare.com/drfone/article/2017/11/15096887687020.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
+  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 Step 6: After completion of the installation process, mSpy will start to trace out the activities on the target device of a kid or an employee. Furthermore, you can view and manage the information directly from the web and learn how to trace a cell phone.
 
 ![how to trace a cell phone with mSpy-view and manage the information](https://images.wondershare.com/drfone/article/2017/11/15096682305397.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=37701530&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/6fe0c81e3f9438db11ebbfba6c5ce460/products/copy_cbLogo_with_text_blue.png" border="0">CalendarBudget - Monthly subscription membership to CalendarBudget via web browser or mobile app. Support included. </a>
-<!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://shop.pcdj.com/order/checkout.php?PRODS=4698998&QTY=1&AFFILIATE=108875&CART=1"> <img src="https://secure.avangate.com/images/merchant/47f4b6321e9fd8e8f7326a6adc1a7c1e/products/MacBook_Pro_lyrx-withsinger-tv.png" border="0">LYRX is an easy-to-use karaoke software with the professional features karaoke hosts need to perform with precision. LYRX is karaoke show hosting software that supports all standard karaoke file types as well as HD video formats, and it’s truly fun to use. 
-LYRX Karaoke Software MAC/WINDOWS (Includes Activation For 3 Machines)</a>
-<!-- affiliate ads end -->
 ## Part 2: How to Trace Phone Using Android Device Manager?
 
 If you ask, how to trace a mobile phone through Android, the Android device manager will help you to locate mobile in the easiest way.
@@ -227,9 +241,6 @@ Step 1: Download the android device manager and install it on your Apple iPhone 
 
 ![how to trace a cell phone-Download and install](https://images.wondershare.com/drfone/article/2017/11/15096682617611.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://estore.winxdvd.com/order/checkout.php?PRODS=4081991&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.winxdvd.com/affiliate/new-banner/wt-500x500.jpg" border="0"></a>
-<!-- affiliate ads end -->
 Step 2: Open up settings. Choose Google. Now go to Security and choose Android device manager.
 
 ![how to trace a cell phone-go to Security](https://images.wondershare.com/drfone/article/2017/11/15096890142480.jpg)
@@ -242,24 +253,19 @@ Step 4: When you move on to the android device manager, check the enable status 
 
 ![how to trace a cell phone-Log in to Gmail account](https://images.wondershare.com/drfone/article/2017/11/15096895055659.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://secure.2checkout.com/order/checkout.php?PRODS=4620780&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/07dd4d5a72f5740ef0f035f201951476/728__90banner.jpg" border="0"></a>
-<!-- affiliate ads end -->
 After doing the above settings, this tool will assist you to locate the phone.
 
 ![how to trace a cell phone-Android Device Manager](https://images.wondershare.com/drfone/article/2017/11/15096892277102.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=4729507&QTY=1&AFFILIATE=108875&CART=1"><img src="https://www.nero.com/nero-com-wAssets/img/banners/2023/TIU/Nero_TuneItUp_Screen_2.webp" border="0">/a>
-<!-- affiliate ads end -->
 ![how to trace a cell phone-assist you to locate](https://images.wondershare.com/drfone/article/2017/11/15096686348162.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://store.iobit.com/order/checkout.php?PRODS=1468905&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/184260348236f9554fe9375772ff966e/ascscan_728x90.png" border="0"></a>
+<a href="https://25home.pxf.io/c/5597632/2148647/16836" target="_top" id="2148647">
+  <img src="//a.impactradius-go.com/display-ad/16836-2148647" border="0" alt="https://techidaily.com" width="320" height="90"/>
+</a>
+<img height="0" width="0" src="https://25home.pxf.io/i/5597632/2148647/16836" style="position:absolute;visibility:hidden;" border="0" />
 <!-- affiliate ads end -->
-<!-- affiliate ads begin -->
-<a href="https://aidotcom.pxf.io/c/5597632/2086436/19576" target="_top" id="2086436"><img src="//a.impactradius-go.com/display-ad/19576-2086436" border="0" alt="" width="1500" height="400"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/2086436/19576" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
+
 ## Part 3: How to trace iPhone with Find My iPhone?
 
 Find My iPhone will allow you to trace out the lost and stolen Apple device. Besides this, you can also wipe private information so device data does not fall into the wrong person’s hand. It works on both web and the app.
@@ -274,10 +280,6 @@ Steps to Enable Find My iPhone:
 
 ![how to trace a cell phone- enable Find My iPhone option](https://images.wondershare.com/drfone/article/2017/11/15096686679806.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/mcaffbanner600x500.png" border="0"></a>
-<a href="https://shop.manycam.com/order/checkout.php?PRODS=17727588&QTY=1&AFFILIATE=108875&CART=1"><img src="https://secure.avangate.com/images/merchant/8230bea7d54bcdf99cdfe85cb07313d5/Affiliates_300x250px_valentinesday.png" border="0"></a>
-<!-- affiliate ads end -->
 What is the procedure to access Find My iPhone online?
 
 If you have a device or computer, you can trace out your missed iPhone, IPad on the web.
@@ -290,6 +292,13 @@ Step 3: After the entry of Apple ID sign in to the account and now choose the ta
 
 ![how to trace a cell phone-choose the target device](https://images.wondershare.com/drfone/article/2017/11/15096686909511.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://bluettius.sjv.io/c/5597632/2139122/17108" target="_top" id="2139122">
+  <img src="//a.impactradius-go.com/display-ad/17108-2139122" border="0" alt="https://techidaily.com" width="468" height="60"/>
+</a>
+<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139122/17108" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 Lost mode: Music will alert the person who has your Apple iPhone 12.
 
 ![how to trace a cell phone-Lost mode](https://images.wondershare.com/drfone/article/2017/11/15096687605089.jpg)
@@ -300,9 +309,6 @@ If your phone was lost, you can make use of GPS technology to track out the phon
 
 ![how to trace a cell phone-use GPS Tracker](https://images.wondershare.com/drfone/article/2017/11/15096687951412.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://store.nero.com/order/checkout.php?PRODS=42570605&QTY=1&AFFILIATE=108875&CART=1"><img src="http://cdnwww.nero.com/nero-com-wAssets/img/banners/2023/usbXcopy/Nero_USB_x_copy_Screen_2.png" border="0"></a>
-<!-- affiliate ads end -->
 The perfect real-time GPS tracker you have never used this kind of feature. It gives a battery life for two weeks and you can access it from anywhere. You can’t miss any alerts and notifications once you installed them on your Apple iPhone 12. The exact geo-fencing is wide up as the main part to trace your Apple iPhone 12.
 
 It is cost-effective and you will not interrupt in any less frequency signal. Learn to know how to trace a cell phone:
@@ -315,17 +321,11 @@ Step 3: You will get a text message to the user's phone with the location traced
 
 ![how to trace a cell phone-get a text message to the user phone](https://images.wondershare.com/drfone/article/2017/11/15096688239555.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/1853659/21526" target="_top" id="1853659"><img src="//a.impactradius-go.com/display-ad/21526-1853659" border="0" alt="" width="1920" height="750"/></a><img height="0" width="0" src="https://imp.pxf.io/i/5597632/1853659/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 Link: <https://play.google.com/store/apps/details?id=com.fsp.android.c&hl=en>
 
 Note: GPS tracks the mobile instantly as per your requirements. That will help you to locate and trace the phone of your dear ones, thus you can become ensure their safety and protection.
 
 We have solid proof that the above methods are successful. Now it’s easy to track your cell phone at any time and at any cause. These methods are user-friendly and no technical knowledge is needed to implement. Trace your Apple iPhone 12 instantly and catch black sheep consciously.
-
-
-
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -339,11 +339,20 @@ We have solid proof that the above methods are successful. Now it’s easy to tr
      data-ad-format="auto"
      data-full-width-responsive="true"></ins>
 
-
-
-
-
-
-
-
+<span class="atpl-alsoreadstyle">Also read:</span>
+<div><ul>
+<li><a href="https://article-helps.techidaily.com/new-9-command-center-of-live-gaming-streams/"><u>[New] 9 Command Center of Live Gaming Streams</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-2024-approved-maximizing-your-youtube-potential-with-content-partnerships/"><u>[Updated] 2024 Approved Maximizing Your YouTube Potential with Content Partnerships</u></a></li>
+<li><a href="https://remote-screen-capture.techidaily.com/updated-in-2024-debut-visual-capturing-analysis/"><u>[Updated] In 2024, Debut Visual Capturing Analysis</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/5-ways-to-reset-honor-v-purse-without-volume-buttons-drfone-by-drfone-reset-android-reset-android/"><u>5 Ways to Reset Honor V Purse Without Volume Buttons | Dr.fone</u></a></li>
+<li><a href="https://tech-hub.techidaily.com/7-ethical-strategies-for-ai-in-writing-and-editing/"><u>7 Ethical Strategies for AI in Writing and Editing</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/el-combat-determining-which-earns-more-from-videosdailymotion-or-youtube/"><u>Channel Combat Determining Which Earns More From Videos—Dailymotion or YouTube</u></a></li>
+<li><a href="https://extra-information.techidaily.com/convert-talk-to-text-the-costless-alternative/"><u>Convert Talk to Text The Costless Alternative</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-mirror-tecno-spark-10-pro-to-mac-drfone-by-drfone-android/"><u>How to Mirror Tecno Spark 10 Pro to Mac? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-7-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 7 Plus without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-8-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 8 without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-6s-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 6s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://fox-access.techidaily.com/vocal-volumes-the-most-emotional-songs-for-engagement/"><u>Vocal Volumes The Most Emotional Songs for Engagement</u></a></li>
+</ul></div>
 
