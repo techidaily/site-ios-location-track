@@ -1,7 +1,7 @@
 ---
 title: How to Detect and Remove Spyware on Apple iPhone 14? | Dr.fone
-date: 2024-10-05T02:48:40.998Z
-updated: 2024-10-11T18:59:37.381Z
+date: 2024-10-13T00:32:46.942Z
+updated: 2024-10-18T00:02:51.714Z
 tags: 
   - virtual location change
   - location tracker
@@ -23,6 +23,13 @@ The biggest question most iPhone users have is; can someone spy on my iPhone? Th
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your Apple iPhone 14 doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
 
+<!-- affiliate ads begin -->
+<a href="https://ephamedtechinc.pxf.io/c/5597632/2137207/26400" target="_top" id="2137207">
+  <img src="//a.impactradius-go.com/display-ad/26400-2137207" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137207/26400" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 2: How to Detect Spyware on iPhone?
 
 The most logical step to take when you suspect that someone is spying on your Apple iPhone 14 is to take steps to detect the spyware. Once you are certain there is spyware on the Apple iPhone 14 device, you are in a position to do something about it. The problem is, detecting spyware can be next to impossible because such software is designed to remain undetectable. But there are several signs that your Apple iPhone 14 is compromised. The following are just some of the signs to look out for.
@@ -32,13 +39,6 @@ The most logical step to take when you suspect that someone is spying on your Ap
 Most spyware will use up your data to work. That’s because they have to receive the information every time you send a message or make a call. Therefore, one of the ways to check for spy activity on your device is to monitor data usage. If it’s above what you would normally use, you may have spyware.
 
 ![Detect Spyware on iPhone-via Data Usage Spikes](https://images.wondershare.com/drfone/article/2017/10/15074739266945.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037346/7443" target="_top" id="2037346">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037346" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037346/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 #### **2\. The Cydia App**
 
@@ -66,6 +66,13 @@ The best thing you can do is to install anti-spyware software on your device. Th
 
 ![Remove Spyware from iPhone-Install Anti-Spyware Program](https://images.wondershare.com/drfone/article/2017/10/15079737644580.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037475/7443" target="_top" id="2037475">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037475" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 #### **2\. Update your iOS**
 
 Another great way to get rid of spyware is to update your iOS. This is particularly helpful when you notice the Cydia app on your device and you didn’t jailbreak it. An update is effective because it often comes with bug fixes that may eliminate the spyware from your system.
@@ -81,13 +88,6 @@ Restoring your Apple iPhone 14 in iTunes can also be quite effective in getting 
 ![Remove Spyware from iPhone-Restore your Device](https://images.wondershare.com/drfone/article/2017/10/15074748849333.jpg)
 
 Considering how easy it is for someone to spy on you, the best thing you can do is remain vigilant. If you notice some of the signs we’ve mentioned in Part 2 above, take the necessary steps to remove the spyware. It is also important to avoid clicking on suspicious links especially in emails from people you don’t know.
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136612/26400" target="_top" id="2136612">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136612" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136612/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Top 10 Best Spy Watches For your Apple iPhone 14
 
@@ -105,6 +105,13 @@ Please read on for the top 10 best spy watches.
 
 ![top 10 best spy watches](https://images.wondershare.com/drfone/others/spy-watch-01.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://wigfever.sjv.io/c/5597632/2005196/22899" target="_top" id="2005196">
+  <img src="//a.impactradius-go.com/display-ad/22899-2005196" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://wigfever.sjv.io/i/5597632/2005196/22899" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### Spy Gear- Field Agent Spy Watch Features
 
 1. The Field Agent Spy Watch is a real working watch delivering 8 unique gadgets in 1 incredible piece of Spy Gear!
@@ -116,13 +123,6 @@ Please read on for the top 10 best spy watches.
 ## Part 2: #9 Spy Gear Ultimate Spy Watch
 
 ![top best spy watches](https://images.wondershare.com/drfone/others/spy-watch-02.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://unicoeye.pxf.io/c/5597632/2134224/18498" target="_top" id="2134224">
-  <img src="//a.impactradius-go.com/display-ad/18498-2134224" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://unicoeye.pxf.io/i/5597632/2134224/18498" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Spy Gear Ultimate Spy Watch Features
 
@@ -152,13 +152,6 @@ While there are a lot of other spy apps out there worth browsing through, both f
 1. A mere 10-day money-back guarantee.
 
 ![best spy watches](https://images.wondershare.com/drfone/article/2016/12/14830056908803.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137221/26400" target="_top" id="2137221">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137221" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137221/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 You can learn everything you need to know about mSpy from their [FAQ page](https://www.mspy.com/faq.html).
 
@@ -215,16 +208,16 @@ You can also learn how to install mSpy from this tutorial.
 5. 8GB internal flash memory.
 6. Cost: £31.59
 
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
+  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ## Part 8: #4 Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch
 
 ![spy watch](https://images.wondershare.com/drfone/article/2016/12/14830083711664.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### Oumeiou HD 1080P 8GB Fashion Men's Waterproof Spy Watch Features
 
@@ -257,6 +250,13 @@ You can also learn how to install mSpy from this tutorial.
 
 ![best spy watches](https://images.wondershare.com/drfone/article/2016/12/14830088931525.jpg)
 
+<!-- affiliate ads begin -->
+<a href="https://appsumo.8odi.net/c/5597632/2037359/7443" target="_top" id="2037359">
+  <img src="//a.impactradius-go.com/display-ad/7443-2037359" border="0" alt="https://techidaily.com" width="728" height="90"/>
+</a>
+<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037359/7443" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ### WISEUP 16GB 1280x720P HD Mini Spy Camera Steel Wristband Watch Features
 
 1. Sleek Steel wristwatch.
@@ -267,23 +267,9 @@ You can also learn how to install mSpy from this tutorial.
 6. 16GB internal flash memory.
 7. Cost: £92.19
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1938745/19272" target="_top" id="1938745">
-  <img src="//a.impactradius-go.com/display-ad/19272-1938745" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1938745/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 11: #1 007-Watch 8GB HD 1080P Waterproof Spy Camera Watch
 
 ![buy spy watches](https://images.wondershare.com/drfone/article/2016/12/14830091436582.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1521325/16446" target="_top" id="1521325">
-  <img src="//a.impactradius-go.com/display-ad/16446-1521325" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1521325/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ### 007-Watch 8GB HD 1080P Waterproof Spy Camera Watch Features
 
@@ -341,6 +327,19 @@ You can start using Mobistealth by downloading it from the website and installin
 
 ![trace any mobile number-Mobistealth](https://images.wondershare.com/drfone/article/2017/10/15089049296308.jpg)
 
+<!-- affiliate ads begin -->
+<span id="1834903">
+					<video width="864" height="1536" style="cursor:pointer"
+           poster="//a.impactradius-go.com/display-clicktoplayimage/1834903.png"
+           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
+	   <source src="//a.impactradius-go.com/display-ad/16836-1834903">
+	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1834903.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
+	</video>
+	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2F25home.pxf.io%2Fc%2F5597632%2F1834903%2F16836'), '_blank');void(0);">Click here</a></div>
+</span>
+<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1834903/16836" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
+
 ![trace any mobile number-Mobistealth dashboard](https://images.wondershare.com/drfone/article/2017/10/15089049415025.jpg)
 
 Compatible with all major network carriers and platforms like ios, Windows, and Android, Mobistealth is a great way to keep track of mobile activities and trace any mobile number. To download it, visit: <http://www.mobistealth.com/products.php>
@@ -355,6 +354,13 @@ A powerful and undetectable monitoring software, Spyera helps you to trace a mob
 - Allows you to spy on app activities.
 
 ![trace any mobile number-Spyera](https://images.wondershare.com/drfone/article/2017/10/15089049792149.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1934254/19272" target="_top" id="1934254">
+  <img src="//a.impactradius-go.com/display-ad/19272-1934254" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1934254/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To know more features of Spyera or to buy it, visit: <https://spyera.com/>
 
@@ -382,13 +388,6 @@ All you have to do is download TiSPY from its website and install it, and you ca
 
 ![trace any mobile number-TiSPY](https://images.wondershare.com/drfone/article/2017/10/15089050617108.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2037474/7443" target="_top" id="2037474">
-  <img src="//a.impactradius-go.com/display-ad/7443-2037474" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2037474/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ![trace any mobile number-start monitoring with TiSPY](https://images.wondershare.com/drfone/article/2017/10/15089050731393.jpg)
 
 To know more about TiSPY or to download it, visit: <https://tispy.net/>
@@ -404,6 +403,13 @@ Still, looking for an app to trace mobile numbers? Try the Highster Mobile softw
 - Access to browsing history and social media apps like – Twitter, Instagram, Facebook, WhatsApp, etc.
 
 ![trace any mobile number-Highster Mobile Phone Tracker](https://images.wondershare.com/drfone/article/2017/10/15089050987861.jpg)
+
+<!-- affiliate ads begin -->
+<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
+  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
+</a>
+<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<!-- affiliate ads end -->
 
 To know more about this software, go to <https://highstermobile.com/>
 
@@ -425,24 +431,22 @@ Thus, as we see, tracing mobile numbers is often necessary, no matter how wrong 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://eaxpv-info.techidaily.com/updated-finding-the-balance-adding-videos-to-text-on-a-budget-for-2024/"><u>[Updated] Finding the Balance Adding Videos to Text on a Budget for 2024</u></a></li>
-<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-learn-the-safest-ways-to-extract-and-convert-youtube-tracks-to-mp3/"><u>[Updated] In 2024, Learn the Safest Ways to Extract and Convert YouTube Tracks to MP3</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/updated-in-2024-the-ultimate-guide-to-theta-s-features/"><u>[Updated] In 2024, The Ultimate Guide to Theta S Features</u></a></li>
-<li><a href="https://extra-guidance.techidaily.com/updated-step-by-step-guide-to-designing-impactful-imagery/"><u>[Updated] Step-by-Step Guide to Designing Impactful Imagery</u></a></li>
-<li><a href="https://instagram-video-recordings.techidaily.com/2024-approved-tapping-into-igtvs-potential-a-hashtag-guide-to-growth/"><u>2024 Approved Tapping Into IGTV's Potential A Hashtag Guide to Growth</u></a></li>
-<li><a href="https://phone-solutions.techidaily.com/does-mp4-play-on-huawei-by-aiseesoft-video-converter-play-mp4-on-android/"><u>Does MP4 play on Huawei ?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone 7 Plus? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 11 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone XS Max | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/iconic-logos-for-podcasts-standout-strategies/"><u>Iconic Logos for Podcasts Standout Strategies</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-13-pro-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 13 Pro Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://mondly-stories.techidaily.com/quick-dive-into-japans-number-system-efficiency/"><u>Quick Dive Into Japan's Number System Efficiency</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-13-mini-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 13 mini Location | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-content.techidaily.com/top-5-tools-for-capturing-facebook-live-videos-for-2024/"><u>Top 5 Tools for Capturing Facebook Live Videos for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-15-pro-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 15 Pro Max Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-13-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 13 Pro without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://extra-information.techidaily.com/ultimate-list-of-apples-best-photo-watermark-applications/"><u>Ultimate List of Apple's Best Photo Watermark Applications</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/updated-essential-techniques-for-soundless-video/"><u>[Updated] Essential Techniques for Soundless Video</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/updated-the-dual-life-of-a-professional-youtuber-and-employee/"><u>[Updated] The Dual Life of a Professional YouTuber & Employee</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/2024-approved-essential-strategies-for-capturing-your-best-moments-in-snapchat/"><u>2024 Approved Essential Strategies for Capturing Your Best Moments in Snapchat</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-se-2022-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone SE (2022) Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-12-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 12 without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/how-to-cast-oneplus-ace-2v-screen-to-pc-using-wifi-drfone-by-drfone-android/"><u>How to Cast OnePlus Ace 2V Screen to PC Using WiFi | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/how-to-change-lock-screen-wallpaper-on-motorola-moto-g13-by-drfone-android/"><u>How to Change Lock Screen Wallpaper on Motorola Moto G13</u></a></li>
+<li><a href="https://techidaily.com/how-to-transfer-data-from-apple-iphone-12-to-other-iphone-14-pro-max-devices-drfone-by-drfone-transfer-data-from-ios-transfer-data-from-ios/"><u>How To Transfer Data From Apple iPhone 12 To Other iPhone 14 Pro Max devices? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-11-pro-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 11 Pro Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-mini-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 13 mini | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/in-2024-understanding-the-criteria-for-youtube-comment-spotlighting/"><u>In 2024, Understanding the Criteria for YouTube Comment Spotlighting</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/recommendations-to-overcome-live-breakdowns-fb-for-2024/"><u>Recommendations to Overcome Live Breakdowns (FB) for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-15-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 15 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://win-able.techidaily.com/troubleshooting-the-redgfxerror-in-red-dead-redemption-2/"><u>Troubleshooting the RED_GFX_ERROR in Red Dead Redemption 2</u></a></li>
 </ul></div>
 
