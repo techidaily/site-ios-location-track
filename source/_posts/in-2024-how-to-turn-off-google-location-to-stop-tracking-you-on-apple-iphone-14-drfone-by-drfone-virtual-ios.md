@@ -1,7 +1,7 @@
 ---
 title: In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 14 | Dr.fone
-date: 2024-11-10T21:04:39.184Z
-updated: 2024-11-13T18:54:20.025Z
+date: 2024-11-24T16:09:07.336Z
+updated: 2024-12-02T00:38:59.046Z
 tags: 
   - virtual location change
   - location tracker
@@ -36,21 +36,16 @@ Of course, Google Maps and Weather will not work without access to location data
 The majority of online advertisements scattered all over the internet are run by Google. It uses location data to ensure the ads that appear on your web browser are relevant to your personal liking. For example, Google Ads will likely flash American products on your smartphones if you’re located in that particular region. Do you want to keep it that way? If so, you should not then turn off Google location tracking on your Android smartphone.
 
 <!-- affiliate ads begin -->
-<span id="1982459">
-					<video width="576" height="240" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1982459.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1982459">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1982459.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:360px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1982459%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1982459/22993" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kx-Pb0otJCs?si=Mvr49yQVesmJA8-O" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### It is used by Google to provide accurate search results
 
 ![google search results](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-2.JPG)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 The same thing goes for Google search results. This query engine uses location data to provide information relevant to the specific needs of the user. Let’s say you’re currently residing in Japan and looking for nearby coffee shops. Of course, it will be unhelpful if Google dispenses a list of coffee shops that aren’t located in your country. That’s why you shouldn’t turn off Google location tracking on your smartphone if you’re looking for precise and pertinent answers.
 
@@ -69,10 +64,7 @@ We all know that Google is committed to offering us new products and improving i
 There’s no denying that Google uses location information to give us the best experience possible. However, it doesn’t necessarily mean there is no risk at all. We cannot rule out the possibility of data breaches and disclosure of location information that is supposed to be private. If you’re worried about this kind of situation, you can prevent it from happening in a snap of a finger. Check out the four methods below on how to turn off Google location tracking on your Android smartphone.
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068407/7443" target="_top" id="2068407">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068407" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068407/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zAzTErKy6h8?si=vi5z3M9_7fW6qiAJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ### Method 1: Turn off the location services on your Android mobile device
@@ -87,7 +79,15 @@ There’s no denying that Google uses location information to give us the best e
 
 ![location services](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-4.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4:** Lastly, click **Close** to confirm the changes.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ### Method 2: Deactivate the Google App’s location access on your Android mobile device
 
@@ -111,13 +111,6 @@ Let’s say you don’t want to cut the entire location access across your smart
 
 ![location access for google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-8.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902289/19272" target="_top" id="1902289">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902289" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902289/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Step 6:** Lastly, click **Don’t Allow.** Alternatively, you may instead select **Allow Only While Using the App** or **Ask Every Time** if you wish to grant Google conditional access to your location data.
 
 ![disallow location access on google](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-9.jpg)
@@ -135,16 +128,7 @@ Timeline is a special Google feature that keeps a record of your location check-
 ![google app profile icon](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-10.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1484963">
-					<video width="864" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1484963.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/16446-1484963">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1484963.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Flaganoo.pxf.io%2Fc%2F5597632%2F1484963%2F16446'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1484963/16446" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_7AYCS7zBU0?si=7R9oIpE4hyEbtk3x" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 **Step 3:** Click **Google Account.**
@@ -184,13 +168,6 @@ If Timeline is previously activated on your Android device, chances are Google M
 **Step 2:** Click the **Profile** icon at the top-right corner of the screen.
 
 ![google maps profile](https://images.wondershare.com/drfone/article/2024/02/turn-off-google-location-tracking-17.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2137216/26400" target="_top" id="2137216">
-  <img src="//a.impactradius-go.com/display-ad/26400-2137216" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2137216/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 3:** Then click **Your Timeline.**
 
@@ -248,6 +225,10 @@ If you are still looking for apps to trace any mobile number, try using [mSpy](h
 
 ![trace any mobile number-mSpy](https://images.wondershare.com/drfone/article/2017/10/15089048789172.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/43goO8X0iX0?si=48Cqf6td2q_6T6h3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Following these easy steps, you can create a personal mSpy account and view all tracked data.
 
 - Purchase mSpy directly from the website and provide a valid email address to receive installation instructions. After the payment is done, check your email to install mSpy and set it up.
@@ -255,13 +236,6 @@ Following these easy steps, you can create a personal mSpy account and view all 
 - After completing the installation, mSpy will start to track the activities of the targeted device.
 
 ![trace any mobile number-start to trace](https://images.wondershare.com/drfone/article/2017/10/15089049011594.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1902294/19272" target="_top" id="1902294">
-  <img src="//a.impactradius-go.com/display-ad/19272-1902294" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1902294/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 The mSpy allows you to view calls, various multimedia files, read emails, monitor internet use, and control what apps and programs the target device can access. With dedicated customer support, mSpy is definitely a must-try! To download it, visit: [https://www.mspy.com/](http://mspy.go2cloud.org/SH7G6)
 
@@ -279,6 +253,10 @@ You can start using Mobistealth by downloading it from the website and installin
 
 ![trace any mobile number-Mobistealth](https://images.wondershare.com/drfone/article/2017/10/15089049296308.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MPoakxUNf9o?si=S-ppSqzHzN9VrxC7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ![trace any mobile number-Mobistealth dashboard](https://images.wondershare.com/drfone/article/2017/10/15089049415025.jpg)
 
 Compatible with all major network carriers and platforms like ios, Windows, and Android, Mobistealth is a great way to keep track of mobile activities and trace any mobile number. To download it, visit: <http://www.mobistealth.com/products.php>
@@ -295,6 +273,10 @@ A powerful and undetectable monitoring software, Spyera helps you to trace a mob
 ![trace any mobile number-Spyera](https://images.wondershare.com/drfone/article/2017/10/15089049792149.jpg)
 
 To know more features of Spyera or to buy it, visit: <https://spyera.com/>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/On0Jw2oMZf0?si=Pm-FJoEt8XWmtMbr" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 4\. FlexiSpy
 
@@ -346,25 +328,11 @@ Thus, as we see, tracing mobile numbers is often necessary, no matter how wrong 
 
 As scary as it sounds, it is actually quite possible that someone is spying on your Apple iPhone 14. These hackers and sometimes amateurs make use of sophisticated spy software to infiltrate your device and have access to your information. If you have reason to suspect that someone might have access to your Apple iPhone 14, it is important to take the steps to figure out just how they gained access to the Apple iPhone 14 device and how to eliminate the threat. This article will help you with both.
 
-<!-- affiliate ads begin -->
-<a href="https://ephamedtechinc.pxf.io/c/5597632/2136623/26400" target="_top" id="2136623">
-  <img src="//a.impactradius-go.com/display-ad/26400-2136623" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://ephamedtechinc.pxf.io/i/5597632/2136623/26400" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 1: Can Someone Spy on my iPhone?
 
 The biggest question most iPhone users have is; can someone spy on my iPhone? The truth is, it is actually quite easy to spy on an iPhone remotely thanks to the availability of many kinds of spy or monitoring programs. A hacker can also gain access to your device’s information through phishing websites. If you have ever seen those ads while browsing that tell you’ve won something spectacular even though you didn’t enter a competition, clicking on the ad often leads to a phishing website where your information could be severely compromised.
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your Apple iPhone 14 doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
-
-<!-- affiliate ads begin -->
-<a href="https://laganoo.pxf.io/c/5597632/1528688/16446" target="_top" id="1528688">
-  <img src="//a.impactradius-go.com/display-ad/16446-1528688" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://laganoo.pxf.io/i/5597632/1528688/16446" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Detect Spyware on iPhone?
 
@@ -391,6 +359,10 @@ Do you notice that your Apple iPhone 14 is warm even when you are not using it? 
 #### **4\. Background Noises**
 
 When you hear background noises during a call that have nothing to do with location, there may be active spyware on your device. This particularly happens when the spyware is there to monitor your phone calls.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/uV3vm805eX0?si=YSPcsFxBcJmoxLsU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Remove Spyware from iPhone?
 
@@ -432,19 +404,24 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-videos.techidaily.com/new-followers-and-posts-10-instagram-essentials-to-watch-for-2024/"><u>[New] Followers & Posts 10 Instagram Essentials to Watch for 2024</u></a></li>
-<li><a href="https://facebook-clips.techidaily.com/new-unraveling-the-purpose-of-facebooks-blue-messenger-emblem/"><u>[New] Unraveling the Purpose of Facebook's Blue Messenger Emblem</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-13-mini-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 13 mini Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-that.techidaily.com/1721479317627-beta-blockers-reduce-heart-rate-and-blood-pressure-by-blocking-beta-1-receptors-in-the-heart/"><u>Beta Blockers Reduce Heart Rate and Blood Pressure by Blocking Beta-1 Receptors in the Heart</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-14-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 14 Plus Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://win11-tips.techidaily.com/implementing-fixes-for-unstartable-windows-services/"><u>Implementing Fixes for Unstartable Windows Services</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-12-pro-max-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 12 Pro Max Activity | Dr.fone</u></a></li>
-<li><a href="https://fox-hovers.techidaily.com/in-2024-achieve-peak-performance-prime-methods-for-zoom-conversion-mastery/"><u>In 2024, Achieve Peak Performance Prime Methods for Zoom Conversion Mastery</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-14-pro-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 14 Pro for Free? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-best-spy-watches-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Best Spy Watches For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-15-plus-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 15 Plus for Parents | Dr.fone</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/ring-the-art-of-crafting-engaging-youtube-screen-closures-for-2024/"><u>Mastering the Art of Crafting Engaging YouTube Screen Closures for 2024</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/overcoming-the-most-common-reasons-behind-gta-n-crashes/"><u>Overcoming the Most Common Reasons Behind GTA N Crashes</u></a></li>
-<li><a href="https://win-blog.techidaily.com/superior-alternative-to-microsoft-phone-link-discover-the-top-app/"><u>Superior Alternative to Microsoft Phone Link: Discover the Top App!</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/new-mastery-guide-to-youtube-seo-title-tagging-and-description-tactics/"><u>[New] Mastery Guide to YouTube SEO Title, Tagging & Description Tactics</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/new-tips-for-adding-youtube-music-to-video/"><u>[New] Tips For Adding YouTube Music To Video</u></a></li>
+<li><a href="https://youtube-tips.techidaily.com/ed-navigating-youtubes-rules-the-safe-way/"><u>[Updated] Navigating YouTube's Rules The Safe Way</u></a></li>
+<li><a href="https://article-helps.techidaily.com/2024-approved-essential-podcast-scriptwriting-skills-demystified-examples-included/"><u>2024 Approved Essential Podcast Scriptwriting Skills Demystified (Examples Included)</u></a></li>
+<li><a href="https://extra-skills.techidaily.com/2024-approved-leading-vr-grips-top-8-essential-handsets/"><u>2024 Approved Leading VR Grips Top 8 Essential Handsets</u></a></li>
+<li><a href="https://extra-support.techidaily.com/2024-approved-proven-methods-to-excellence-in-srt-file-design/"><u>2024 Approved Proven Methods to Excellence in SRT File Design</u></a></li>
+<li><a href="https://article-files.techidaily.com/2024-approved-the-iron-throne-of-sound-best-websites-for-got-ringtone-downloads/"><u>2024 Approved The Iron Throne of Sound Best Websites for GoT Ringtone Downloads</u></a></li>
+<li><a href="https://youtube-stream.techidaily.com/2024-approved-ultra-quick-fortnite-image-design/"><u>2024 Approved Ultra-Quick Fortnite Image Design</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-solutions-to-find-your-apple-iphone-6s-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>3 Solutions to Find Your Apple iPhone 6s Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-14-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 14 Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-14-plus-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 14 Plus Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone XS Max? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/in-2024-invisible-voices-techniques-for-silent-screen-recordings/"><u>In 2024, Invisible Voices Techniques for Silent Screen Recordings</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-car-locator-apps-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Car Locator Apps for Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-telegram-spy-tools-on-apple-iphone-14-for-parents-drfone-by-drfone-virtual-ios/"><u>Top 10 Telegram Spy Tools On Apple iPhone 14 for Parents | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-7-phone-number-locators-to-track-apple-iphone-xr-location-drfone-by-drfone-virtual-ios/"><u>Top 7 Phone Number Locators To Track Apple iPhone XR Location | Dr.fone</u></a></li>
+<li><a href="https://win11-tips.techidaily.com/windows-exploration-making-and-investigating-system-reports/"><u>Windows Exploration: Making & Investigating System Reports</u></a></li>
 </ul></div>
 

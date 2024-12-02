@@ -1,7 +1,7 @@
 ---
 title: How to Track Apple iPhone 14 Location without Installing Software? | Dr.fone
-date: 2024-11-09T02:41:18.366Z
-updated: 2024-11-14T05:22:58.709Z
+date: 2024-11-29T22:18:33.275Z
+updated: 2024-12-01T17:53:23.315Z
 tags: 
   - virtual location change
   - location tracker
@@ -22,13 +22,6 @@ There are several reasons why you may want to track cell, whether to check up on
 Making it to the top of the list is none other than [Spyera](https://spyera.com/features/), a highly acclaimed piece of software that allows you to do a whole lot more than just check cell phone location. Even though this article is about how to track a cell phone location without installing software, Spyera works much better than free solutions because can keep tabs on several metrics of your cell phone including monitoring incoming calls. text and multimedia messages from WhatsApp, browser history, access calendars, and contacts, and view installed apps. One of the noteworthy features of Spyera is that it is available in a choice of two plans (monthly and annual plans) and is easy to install, works great on both Android and iOS platforms, and allows you to track cell phone location remotely.
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2135370/19272" target="_top" id="2135370">
-  <img src="//a.impactradius-go.com/display-ad/19272-2135370" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2135370/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
@@ -58,13 +51,6 @@ If you’re an Android user, Google’s Android Device Manager presently known a
 
 ![track a cell phone-use Android Device Manager](https://images.wondershare.com/drfone/article/2017/10/15082096225606.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1925544/19272" target="_top" id="1925544">
-  <img src="//a.impactradius-go.com/display-ad/19272-1925544" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1925544/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 1. As long as you have your Google account connected with your Android device (again something you will have done when you first received the phone), you can now begin tracking by heading to Find My Device on the web.
 
 Step 2. Sign in with your Google credentials, and you will be greeted with a dashboard that will show you where your cell phone is along with several other options.
@@ -75,13 +61,6 @@ Step 3. You can now do one of three things apart from viewing your cell location
 
 ![track a cell phone-view your cell location](https://images.wondershare.com/drfone/article/2017/10/15082099518488.jpeg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2068408/7443" target="_top" id="2068408">
-  <img src="//a.impactradius-go.com/display-ad/7443-2068408" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2068408/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 #### **Another Google Solution:**
 
 Google recently has implemented some of the ADM features right into the web browser, meaning you can simply as the Search Giant to locate it for you from a simple web search. Of course, you will have to be logged into your Google account for this solution to work.
@@ -89,6 +68,14 @@ Google recently has implemented some of the ADM features right into the web brow
 Step 1. Open the main Google search page and type in "find My Apple iPhone 14", and you should be presented with results showing your cell phone’s location.
 
 ![track a cell phone-type in](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hHPljBHrvkA?si=HwdfDM9rlbABSIrx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U6lCtLUeROA?si=se6OFuis9JpcTGJf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
 
@@ -100,13 +87,6 @@ Step 1. After selecting the right plan for your needs, you will have to register
 
 ![track a cell phone via mSpy-register the software](https://images.wondershare.com/drfone/article/2017/10/15082100202731.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://bluettius.sjv.io/c/5597632/2139119/17108" target="_top" id="2139119">
-  <img src="//a.impactradius-go.com/display-ad/17108-2139119" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://bluettius.sjv.io/i/5597632/2139119/17108" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 Step 2. Next, you will have to set up the app with information on your target device and that’s it! You can now access the mSpy dashboard and begin tracking your cell phone location.
 
 ![track a cell phone via mSpy-setup the app](https://images.wondershare.com/drfone/article/2017/10/15082100515661.jpg)
@@ -115,17 +95,29 @@ Step 3. You can select from several options in the left hand, two of the most no
 
 ![track a cell phone via mSpy-select from several options](https://images.wondershare.com/drfone/article/2017/10/15082100786594.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
 
 There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fvAC8jgs62o?si=xqEXZ7dpAXZ4sZ7A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 9 Best Phone Monitoring Apps for Apple iPhone 14
 
 Cell phone monitoring software is readily available these days and it must be put to good use to ensure the safety of your kids/spouse/near and dear ones/employees.
 
 The internet, social media Apps, and smartphones lure people to indulge in immoral, dangerous, and illegal activities. To keep a tab on others’ phone usage, phone monitoring Apps come in handy. Luckily for you, we have the 9 best tools listed down below that work as smartphone monitor Apps and help you spy on calls, messages, social media activities, browser history, real-time locations, and much more.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/BmegThMdrJE?si=rILo1FJb9DgnPljV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 1: mSpy
 
@@ -134,19 +126,6 @@ mSpy is a cell phone monitoring software and tracking App for Android/iPhone. It
 To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2cloud.org/SH96F)
 
 ![Phone Monitoring Apps-mSpy](https://images.wondershare.com/drfone/article/2017/10/15081775088395.jpg)
-
-<!-- affiliate ads begin -->
-<span id="1976998">
-					<video width="128" height="480" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1976998.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/22993-1976998">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1976998.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:80px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Fhomestyler.sjv.io%2Fc%2F5597632%2F1976998%2F22993'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1976998/22993" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Features:**
 
@@ -164,6 +143,10 @@ To know more and sign up on mSpy, visit [https://www.mspy.com/](http://mspy.go2c
 
 - Calls cannot be recorded for evidence.
 - The app needs to be downloaded on the target device.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bXmwwSmYqq4?si=Bb-eJfLnlpeeClyt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: Highster Mobile
 
@@ -250,13 +233,6 @@ To know more, visit <http://mobistealth.com/parental-control-software>
 
 ![Phone Monitoring Apps-MobiStealth](https://images.wondershare.com/drfone/article/2017/10/15082189186424.jpg)
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2118326/7443" target="_top" id="2118326">
-  <img src="//a.impactradius-go.com/display-ad/7443-2118326" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2118326/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 **Features:**
 
 - E-mail logging feature to track sent/received and draft emails.
@@ -273,6 +249,10 @@ To know more, visit <http://mobistealth.com/parental-control-software>
 
 - Users cannot block calls remotely.
 - Lacks demo guidelines.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 6: Mobile Spy Agent
 
@@ -299,13 +279,6 @@ Visit <http://www.mobilespyagent.com/> to know more.
 - Poor customer support.
 - Limited features and lacks online instructions.
 
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2151892/7443" target="_top" id="2151892">
-  <img src="//a.impactradius-go.com/display-ad/7443-2151892" border="0" alt="https://techidaily.com" width="600" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2151892/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## Part 7: Spyera
 
 Spyera, the cell phone monitoring software, is mostly used by parents to spy on their kids. It has options to intercept calls and snoop on children using a spy camera. It also has spying software for PC (Windows/Mac) and tablets. It enables live call listening, ambient listening, and spying on multimedia files. It allows live call recording and capturing key logs. Its alert wizard can be set up to keep the tracker informed at all times.
@@ -330,6 +303,10 @@ Visit <https://spyera.com/> and know more.
 - Expensive and not preferred by many.
 - No live customer service.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 8: Screen Time Parental Control
 
 This phone monitoring App is a unique tool to analyze screen time spent by your kids on their smartphones. Also, set time limits for kids to use their devices. It manages time spent by kids on smartphones and tabs and controls kids’ activities without actually putting restrictions on them. Kids love this software too because it has fun features and activities.
@@ -353,6 +330,10 @@ To know more, visit <https://screentimelabs.com/>
 
 - Does not support blocking websites.
 - Does not support monitoring calls/ messages etc.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 9: Norton Family Premier
 
@@ -413,10 +394,7 @@ Step 3: The app will automatically access all messages on the target device. It 
 ![Spy on text messages from another iPhone via Auto Forward](https://images.wondershare.com/drfone/article/2017/10/15074689453332.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2075475/7443" target="_top" id="2075475">
-  <img src="//a.impactradius-go.com/display-ad/7443-2075475" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2075475/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aIx71tPaWKg?si=lG5OiUe-M6eBJf5b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Spy on text messages from computer
@@ -449,22 +427,20 @@ The above three solutions enable users to monitor more than just text messages. 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-clips.techidaily.com/new-journey-to-the-core-of-instagram-finding-all-about-free-filters/"><u>[New] Journey to the Core of Instagram Finding All About Free Filters</u></a></li>
-<li><a href="https://instagram-videos.techidaily.com/updated-2024-approved-synching-sounds-with-visual-stories-on-ig/"><u>[Updated] 2024 Approved Synching Sounds with Visual Stories on IG</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://extra-resources.techidaily.com/beijing-bid-wins-2022-winter-olympics-highlights-for-2024/"><u>Beijing Bid Wins 2022 Winter Olympics Highlights for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 8 | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/how-can-we-bypass-sony-xperia-10-v-frp-by-drfone-android/"><u>How Can We Bypass Sony Xperia 10 V FRP?</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-12-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 12 Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Pro Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://blog-min.techidaily.com/how-to-transfer-contacts-from-samsung-galaxy-xcover-6-pro-tactical-edition-to-iphone-xs11-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>How to Transfer Contacts from Samsung Galaxy XCover 6 Pro Tactical Edition to iPhone XS/11 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-11-pro-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 11 Pro Activity | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-how-to-transfer-music-from-poco-x6-to-ipod-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, How to Transfer Music from Poco X6 to iPod | Dr.fone</u></a></li>
-<li><a href="https://fox-glue.techidaily.com/in-2024-the-essential-guide-to-exploring-youtube-comments/"><u>In 2024, The Essential Guide to Exploring YouTube Comments</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-15-pro-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 15 Pro for Parents | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fox-access.techidaily.com/top-essentials-for-enhanced-uav-functionality/"><u>Top Essentials for Enhanced UAV Functionality</u></a></li>
-<li><a href="https://sound-issues.techidaily.com/troubleshooting-a-non-working-blue-yeti-top-recommendations-for-success/"><u>Troubleshooting a Non-Working Blue Yeti: Top Recommendations for Success</u></a></li>
+<li><a href="https://fox-boxes.techidaily.com/new-in-2024-hear-the-game-of-thrones-in-your-phone-top-sites-listed/"><u>[New] In 2024, Hear the Game of Thrones in Your Phone - Top Sites Listed</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/ed-a-compreayers-primer-to-navigating-the-online-copyright-labyrinth/"><u>[Updated] A Compreayer's Primer to Navigating the Online Copyright Labyrinth</u></a></li>
+<li><a href="https://facebook-record-videos.techidaily.com/updated-uncover-unique-user-understanding/"><u>[Updated] Uncover Unique User Understanding</u></a></li>
+<li><a href="https://some-techniques.techidaily.com/final-30-free-and-paid-blu-ray-solutions-for-pcmac-users-for-2024/"><u>Final 30 Free & Paid Blu-Ray Solutions for PC/Mac Users for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-intercept-text-messages-on-apple-iphone-8-drfone-by-drfone-virtual-ios/"><u>How to Intercept Text Messages on Apple iPhone 8 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-12-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 12 Pro Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-2-ways-to-monitor-apple-iphone-8-activity-drfone-by-drfone-virtual-ios/"><u>In 2024, 2 Ways to Monitor Apple iPhone 8 Activity | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-7-plus-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 7 Plus without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-8-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 8 without App | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://unlock-android.techidaily.com/in-2024-how-to-remove-screen-lock-pin-on-itel-p40-like-a-pro-5-easy-ways-by-drfone-android/"><u>In 2024, How To Remove Screen Lock PIN On Itel P40 Like A Pro 5 Easy Ways</u></a></li>
+<li><a href="https://facebook-video-content.techidaily.com/in-2024-social-storytelling-revolutionized-for-no-charge/"><u>In 2024, Social Storytelling Revolutionized for No Charge</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-6s-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 6s without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/resize-windows-monitor-in-win-10/"><u>Resize Windows Monitor in WIN 10</u></a></li>
+<li><a href="https://howto.techidaily.com/what-to-do-if-your-motorola-moto-g73-5g-auto-does-not-work-drfone-by-drfone-fix-android-problems-fix-android-problems/"><u>What To Do if Your Motorola Moto G73 5G Auto Does Not Work | Dr.fone</u></a></li>
 </ul></div>
 

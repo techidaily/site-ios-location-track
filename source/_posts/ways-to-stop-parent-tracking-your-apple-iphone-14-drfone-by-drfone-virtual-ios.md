@@ -1,7 +1,7 @@
 ---
 title: Ways to stop parent tracking your Apple iPhone 14 | Dr.fone
-date: 2024-11-12T17:14:56.543Z
-updated: 2024-11-14T01:06:39.914Z
+date: 2024-11-26T19:43:46.957Z
+updated: 2024-12-02T02:10:37.055Z
 tags: 
   - virtual location change
   - location tracker
@@ -66,24 +66,25 @@ Connect iDevice to the system and click on get started to begin the process of v
 
 ![virtual location 1](https://images.wondershare.com/drfone/guide/virtual-location-01.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K7fATC_lI7o?si=UFotPJqflDRZr-mv" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 3: Locate yourself**
 
 The center on button is to be clicked to locate your device.
 
 ![virtual location 3](https://images.wondershare.com/drfone/guide/virtual-location-03.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZblaBc-v2vs?si=CKW1gJwXQT2vZJYo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Step 4: Teleportation**
 
 The third icon on the top right is to be clicked so that spoofing begins.
 
 ![virtual location 04](https://images.wondershare.com/drfone/guide/virtual-location-04.png)
-
-<!-- affiliate ads begin -->
-<a href="https://zebaoaffiliateprogram.pxf.io/c/5597632/2137973/21526" target="_top" id="2137973">
-  <img src="//a.impactradius-go.com/display-ad/21526-2137973" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://zebaoaffiliateprogram.pxf.io/i/5597632/2137973/21526" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 **Step 5: Move to the desired location**
 
@@ -96,19 +97,6 @@ Click on move here and you will be transferred to the location that has been sel
 The location will be locked with and the Apple iPhone 14 device will also show the location selected on the program.
 
 ![virtual location 6](https://images.wondershare.com/drfone/guide/virtual-location-06.png)
-
-<!-- affiliate ads begin -->
-<span id="1793213">
-					<video width="864" height="1296" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1793213.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/19135-1793213">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1793213.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:540px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ftinyland.pxf.io%2Fc%2F5597632%2F1793213%2F19135'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1793213/19135" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 ## Part 4: Install Anti-Spy Tool to Avoid Tracking
 
@@ -127,16 +115,7 @@ It has both and free and paid versions to make sure that you get the best result
 ![phone guardian iPhone and android](https://drfone.wondershare.com/2020/phone_guardian_iPhone_and_android.jpg)
 
 <!-- affiliate ads begin -->
-<span id="1495277">
-					<video width="1536" height="864" style="cursor:pointer"
-           poster="//a.impactradius-go.com/display-clicktoplayimage/1495277.png"
-           onclick="if(!this.playClicked){this.play();this.setAttribute('controls',true);this.playClicked=true;}">
-	   <source src="//a.impactradius-go.com/display-ad/17189-1495277">
-	   <img src="//a.impactradius-go.com/display-clicktoplayimage/1495277.png" style="border: none; height: 100%; width: 100%; object-fit: contain">
-	</video>
-	<div style="width:960px;text-align:center"><a href="javascript:window.open(decodeURIComponent('https%3A%2F%2Ffunwhole.sjv.io%2Fc%2F5597632%2F1495277%2F17189'), '_blank');void(0);">Click here</a></div>
-</span>
-<img height="0" width="0" src="https://imp.pxf.io/i/5597632/1495277/17189" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Conclusion
@@ -172,13 +151,14 @@ We want to introduce you to GPS CellPhone Locator. With this software, you can t
 ![track a phone via GPS CellPhone Locator](https://images.wondershare.com/drfone/article/2017/10/15077054294472.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1997690/19272" target="_top" id="1997690">
-  <img src="//a.impactradius-go.com/display-ad/19272-1997690" border="0" alt="https://techidaily.com" width="300" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1997690/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 You can try this online software to hack a device and track cell phone location by number visiting its website <http://www.gpscellphonelocator.com/>
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9sk53d1bBhY?si=yaTeDogLb3D4dYu1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Alternative - How to Track A Cell Phone Location via mSpy
 
@@ -205,10 +185,7 @@ Step 4: Now you can monitor the target mobile with your mSpy account and will ha
 ![track a cell phone location via mSpy](https://images.wondershare.com/drfone/article/2017/10/15077054622036.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2082541/7443" target="_top" id="2082541">
-  <img src="//a.impactradius-go.com/display-ad/7443-2082541" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2082541/7443" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-Bov2KfWQ_Y?si=MnVczisgeJ-sGW2r" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Now you will be able to track cell phone location by number using mSpy with these simple steps. You will receive real-time information from the target device every time you need it.
@@ -231,13 +208,6 @@ Step 3: View the historical and current GPS location from inside your online acc
 
 There are different methods of knowing where is the mobile you are looking for although it will depend on the operating system you have, and the procedures for finding someone else's phone are similar. Fortunately, the iPhone, Android, and Windows Phone provide solutions to find the location of a mobile and you can track location by phone number using some of the options we have offered in this article.
 
-<!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/2047366/19272" target="_top" id="2047366">
-  <img src="//a.impactradius-go.com/display-ad/19272-2047366" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/2047366/19272" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
-
 ## How to Track Apple iPhone 14 Location without Installing Software?
 
 There are several reasons why you may want to track cell, whether to check up on your kids to make sure they at the mall and not the pub, or to ensure your employees are indeed stuck in a traffic jam and not at the local casino. Owing to the surge in GPS and mobile technology, tracking your cell phone’s exact location is rather easy given the myriad software available. But what if you didn’t have any software installed to begin with when you lost your cell phone? So the big question that’s probably on your mind is how to track a cell phone location without installing software? And the good news is that there are several ways to track a cell phone’s mobile location without having to install software, so let’s get right to what we feel are great solutions.
@@ -247,6 +217,10 @@ There are several reasons why you may want to track cell, whether to check up on
 Making it to the top of the list is none other than [Spyera](https://spyera.com/features/), a highly acclaimed piece of software that allows you to do a whole lot more than just check cell phone location. Even though this article is about how to track a cell phone location without installing software, Spyera works much better than free solutions because can keep tabs on several metrics of your cell phone including monitoring incoming calls. text and multimedia messages from WhatsApp, browser history, access calendars, and contacts, and view installed apps. One of the noteworthy features of Spyera is that it is available in a choice of two plans (monthly and annual plans) and is easy to install, works great on both Android and iOS platforms, and allows you to track cell phone location remotely.
 
 ![track a cell phone using Spyera](https://images.wondershare.com/drfone/article/2022/03/clone-phone-number-spyera.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aknYnDfODro?si=zONIVzA9FFq0rLOD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Track A Cell Phone Location without Installing Software?
 
@@ -269,6 +243,10 @@ Step 4. Click on the Find iPhone button located in the second row.
 Step 5. From here, you will need to click the dropdown labeled All Devices and select the target device. Once you select the Apple iPhone 14 device you wish to locate, you can either erase your Apple iPhone 14, send an audible alert or lock the Apple iPhone 14 device.
 
 ![track a cell phone-select the Apple iPhone 14 device you wish to locate](https://images.wondershare.com/drfone/article/2017/10/15082095893194.jpeg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gkdZ3A1mock?si=2zeR5GtTU2VujM_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 #### **How to Track a Cell Location using Android Device Manager?**
 
@@ -295,10 +273,7 @@ Step 1. Open the main Google search page and type in "find My Apple iPhone 14", 
 ![track a cell phone-type in](https://images.wondershare.com/drfone/article/2017/10/15082098089360.jpg)
 
 <!-- affiliate ads begin -->
-<a href="https://aligracehair.sjv.io/c/5597632/1972698/19272" target="_top" id="1972698">
-  <img src="//a.impactradius-go.com/display-ad/19272-1972698" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://aligracehair.sjv.io/i/5597632/1972698/19272" style="position:absolute;visibility:hidden;" border="0" />
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aqeO4ed766s?si=AWtKHxP4hvQRd_lk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 3: How to Track a Cell Phone Location via mSpy?
@@ -319,16 +294,13 @@ Step 3. You can select from several options in the left hand, two of the most no
 
 ![track a cell phone via mSpy-select from several options](https://images.wondershare.com/drfone/article/2017/10/15082100786594.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/szUqw4TLvWs?si=srv1OeLOe579gLwj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 WhatsApp is a highly secure chat application, but mSpy backed by the latest technology also allows you to monitor its messages both incoming and outgoing. Simply click on the WhatsApp tab and you will be presented with a list of WhatsApp messages that you can further sort through by date.
 
 ![track a cell phone via mSpy-sort through WhatsApp messages by date](https://images.wondershare.com/drfone/article/2017/10/15082101238393.jpg)
-
-<!-- affiliate ads begin -->
-<a href="https://appsumo.8odi.net/c/5597632/2049378/7443" target="_top" id="2049378">
-  <img src="//a.impactradius-go.com/display-ad/7443-2049378" border="0" alt="https://techidaily.com" width="728" height="90"/>
-</a>
-<img height="0" width="0" src="https://appsumo.8odi.net/i/5597632/2049378/7443" style="position:absolute;visibility:hidden;" border="0" />
-<!-- affiliate ads end -->
 
 There are several instances such as in the excitement of getting a new phone that we may overlook the need to install software to track a cell phone. But both Google and Apple are generous enough to offer a solution to track your cell phone location without having to install any third-party software. But if you’re like to do a lot more than just track your cell phone’s location, mSpy with its expensive list of features sets the gold standard in this space.
 
@@ -346,24 +318,21 @@ There are several instances such as in the excitement of getting a new phone tha
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-record-videos.techidaily.com/new-essential-iphoneandroid-apps-for-aspiring-creators-for-2024/"><u>[New] Essential iPhone/Android Apps for Aspiring Creators for 2024</u></a></li>
-<li><a href="https://video-capture.techidaily.com/new-the-ultimate-screen-recorder-test-active-vs-top-contenders/"><u>[New] The Ultimate Screen Recorder Test Active vs Top Contenders</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-parrots-next-gen-ar-drone-evaluation/"><u>[Updated] 2024 Approved Parrot's Next-Gen AR Drone Evaluation</u></a></li>
-<li><a href="https://vimeo-videos.techidaily.com/updated-unlocking-the-secrets-of-profitability-on-vimeo-platform-for-2024/"><u>[Updated] Unlocking the Secrets of Profitability on Vimeo Platform for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-14-plus-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 14 Plus | Dr.fone</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/detailed-exploration-lightroom-app-on-the-android-platform-for-2024/"><u>Detailed Exploration Lightroom App on the Android Platform for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-13-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 13 Pro Max without App | Dr.fone</u></a></li>
-<li><a href="https://android-frp.techidaily.com/in-2024-hassle-free-ways-to-remove-frp-lock-on-asus-rog-phone-8-phones-withwithout-a-pc-by-drfone-android/"><u>In 2024, Hassle-Free Ways to Remove FRP Lock on Asus ROG Phone 8 Phones with/without a PC</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-share-location-in-messenger-on-vivo-t2-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Share Location in Messenger On Vivo T2 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-8-plus-location-without-installing-software-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 8 Plus Location without Installing Software? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-10-telegram-spy-tools-on-apple-iphone-8-for-parents-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 10 Telegram Spy Tools On Apple iPhone 8 for Parents | Dr.fone</u></a></li>
-<li><a href="https://printer-issues.techidaily.com/resolve-windows-cant-access-printer-problem-quickly-and-effectively/"><u>Resolve 'Windows Can't Access Printer' Problem Quickly & Effectively</u></a></li>
-<li><a href="https://win-blog.techidaily.com/resolved-issue-troubleshooting-and-fixes-for-the-ls-0013-launch-problem-in-fortnite/"><u>Resolved Issue: Troubleshooting and Fixes for the LS-0013 Launch Problem in Fortnite</u></a></li>
-<li><a href="https://ai-video-apps.techidaily.com/the-ultimate-guide-to-3d-video-makers-free-paid-and-everything-in-between-for-2024/"><u>The Ultimate Guide to 3D Video Makers Free, Paid, and Everything in Between for 2024</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-12-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 12 Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-14-pro-max-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 14 Pro Max Location By Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-11-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 11 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-9-apple-iphone-6-plus-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>Top 9 Apple iPhone 6 Plus Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/ways-to-stop-parent-tracking-your-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>Ways to stop parent tracking your Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/new-in-2024-expert-tips-for-crafting-viral-twitter-campaigns/"><u>[New] In 2024, Expert Tips for Crafting Viral Twitter Campaigns</u></a></li>
+<li><a href="https://fox-links.techidaily.com/new-in-2024-framing-speed-the-hyperlapse-video-methods/"><u>[New] In 2024, Framing Speed The Hyperlapse Video Methods</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-in-2024-mastering-the-art-of-pro-grade-gopro-videography/"><u>[New] In 2024, Mastering the Art of Pro-Grade Gopro Videography</u></a></li>
+<li><a href="https://fox-http.techidaily.com/updated-2024-approved-6-best-free-apps-to-compress-videos-on-android/"><u>[Updated] 2024 Approved 6 Best Free Apps to Compress Videos on Android</u></a></li>
+<li><a href="https://vp-tips.techidaily.com/1-enhanced-image-quality-with-midjourney-v5-say-goodbye-to-frustrating-mishaps/"><u>1. Enhanced Image Quality with MidJourney v5: Say Goodbye to Frustrating Mishaps</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/2024-approved-expert-ff-video-extractor-kit-efficient-file-grabbing-firefox-compatibility/"><u>2024 Approved Expert FF Video Extractor Kit Efficient File Grabbing, Firefox Compatibility</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-15-pro-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 15 Pro without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://twitter-clips.techidaily.com/complete-solution-resolving-issues-with-non-functional-beyond-the-wire-microphone/"><u>Complete Solution: Resolving Issues with Non-Functional 'Beyond the Wire' Microphone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone SE? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-15-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 15 Pro Max Location by Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 15 | Dr.fone</u></a></li>
+<li><a href="https://iphone-unlock.techidaily.com/in-2024-how-to-unlock-apple-iphone-xr-passcode-without-computer-drfone-by-drfone-ios/"><u>In 2024, How to Unlock Apple iPhone XR Passcode without Computer? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-11-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 11 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-14-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 14 Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://instagram-video-recordings.techidaily.com/the-complete-manual-for-instagram-selfies/"><u>The Complete Manual for Instagram Selfies</u></a></li>
 </ul></div>
 
