@@ -1,7 +1,7 @@
 ---
 title: 3 Ways to Track Apple iPhone 15 without Them Knowing | Dr.fone
-date: 2024-11-25T01:41:04.685Z
-updated: 2024-12-01T18:51:52.256Z
+date: 2024-12-08T17:28:59.705Z
+updated: 2024-12-09T17:18:13.540Z
 tags: 
   - virtual location change
   - location tracker
@@ -55,6 +55,10 @@ Step 2: Click the "Download" button on the pop-up window that appears.
 
 ![download gps datay](https://images.wondershare.com/drfone/article/2022/02/track-cell-phone-with-flexispy-04.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/FATJWpNYmio?si=72ugPTb3vJXz6cAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 3: How to secretly track someone
 
 If you want to track a cell phone without them knowing secretly, then one interesting solution is the “Find my friends” app introduced by Apple though primarily not for spying purposes, but you can use it to spy on someone's iPhone secretly. This app comes with the facility to get a notification when the target person arrives or leaves a place. Here, if you have access to the target device and the “Find my friends” option then it will give you the solution on how to track a cell phone without them knowing.
@@ -65,11 +69,19 @@ Step 2: Generally iCloud account has sharing options for all other devices. We h
 
 ![track a cell phone without them knowing-share my location](https://images.wondershare.com/drfone/article/2017/11/15100182891050.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3: Now swipe from bottom to end, click on the “Airdrop” option from the settings. You will have two options such as “Everyone” and “Contacts only”.
 
 Step 4: Move to the target device, in the “Find my friends” app click the option “add”. Now your contact picture will get displayed. Click on your profile photo > select the option “Share indefinitely” to track a cell phone without them knowing.
 
 ![track a cell phone without them knowing-Share indefinitely](https://images.wondershare.com/drfone/article/2017/11/15100183209840.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2En1CHbiYwA?si=jZKzTr9EIT2ShjGK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5: The target device location will be shared with you. You will get a pop-up window “Accept” it. It will again ask if you want to share location so, click on “Don’t share”.
 
@@ -103,10 +115,6 @@ We must tell you using mSpy and FlexiSPY are both one of the best methods to tra
 
 The Find My Apple iPhone 15 app is a great addition to your Apple iPhone 15, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your Apple iPhone 15 forever? Not really, because we are about to reveal to you 5 different ways to track your Apple iPhone 15 without app, so you can hopefully find your phone in the condition it went astray.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
 Take note that this solution will not work if you haven’t activated the Find My iPhone service when you set up your device. If you have, here’s how to go about it.
@@ -114,10 +122,6 @@ Take note that this solution will not work if you haven’t activated the Find M
 Step 1. Get started by heading over to iCloud, and logging in with your credentials.
 
 ![sign in to iCloud](https://drfone.wondershare.com/images/article/2017/10/icloud.com-login.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hXIq2G0nShk?si=5Z4Fwv7ZB6oKWsdd" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 If you are greeted with the two factor authentication process, which asks you to insert a code that was sent to your devices, you can simply skip it by heading to the quick access link at the bottom.
 
@@ -132,7 +136,7 @@ Step 3. Hover over to the All Devices dropdown menu and choose your Apple iPhone
 ![choose your Apple iPhone 15](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LT4sdZgUvRQ?si=SvQD5FouEzu4UHpJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YB7Ou4-iKVM?si=7Fq8iUwI8voccMLx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
@@ -140,10 +144,6 @@ Step 4. The tracking process will now begin, and you should be able to see it di
 ![begin to track the phone](https://images.wondershare.com/drfone/article/2017/10/15075182429793.jpg)
 
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MTb4xHzeQEk?si=9Sqq-gFWnHc8x3_P" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: Solution 2 - Google to the Rescue
 
@@ -159,10 +159,6 @@ Step 3. Scroll to the bottom of the timeline, and select the latest location upd
 
 Step 4. If your location is the same as your previous updates, your phone hasn’t moved so you go and get it from that location. Contrarily, if your phone has moved, you should contact authorities, and not go after the thief alone because you never know the type of person they are.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/DxUX4R6Cf7c?si=prHevNQJivSkIfUt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 3: Solution 3 - Using Google Photos to Track your Apple iPhone 15
 
 If the above Google features do not work for you, the search giant has one more service that can help aka Google Photos.
@@ -172,6 +168,10 @@ This option is somewhat complex, and requires that you have the Google Photos ap
 Well, if you have the aforementioned prerequisites, head over to photos.google.com to visit your most recently uploaded photos. If you happen to notice any recent photos, click on them and check their location by clicking on the right sidebar. Again, if you do find the location using this method, it is best to contact your local authorities.
 
 ![Use Google Photos to Track your Apple iPhone 15](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iLlpdv0cz_k?si=HwTdnMmeVJXm4GPV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
@@ -188,7 +188,7 @@ Step 3. Once the tracking iPhone’s location is shared with your device, a popu
 ![use another phone to track the missing one](https://images.wondershare.com/drfone/article/2017/10/15075192666907.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
@@ -199,6 +199,10 @@ One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is th
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
 Speaking of GPS locations, here’s how to get started with tracking your Apple iPhone 15 using mSpy.
@@ -208,7 +212,7 @@ Step 1. You first need to choose between one of three plans, and your login cred
 ![choose the plan and get the login credentials](https://images.wondershare.com/drfone/article/2017/10/15075194573263.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K4lRBnNnd9k?si=5e0MbdOz-fF6Ry_k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 2. Next open the confirmation email from your computer and click the link to go to the mSpy control panel aka dashboard.
@@ -226,10 +230,6 @@ There you go! Lost your Apple iPhone 15? We've provided you with 5 different way
 ## How to Track Apple iPhone 15 Location by Number
 
 If you need to know where is your partner, you can quickly locate him/her through a GPS facility on your cell phone. On the other hand, underestimating the worse of the things that can cause a mobile in the hand to get lost or stolen is a common mistake. These days the new technology is advancing more and more and it makes a parent's role even more challenging especially with young kids. Therefore we could say that software for tracking cellular is something essential that is why in this article, we will help you to track a cell phone location by number.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kiW7sLvL65k?si=IHSeRFsYCrfqpn2o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 1: Can I Track A Cell Phone with Just the Number?
 
@@ -281,10 +281,14 @@ Step 4: Now you can monitor the target mobile with your mSpy account and will ha
 
 ![track a cell phone location via mSpy](https://images.wondershare.com/drfone/article/2017/10/15077054622036.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/htnQWyEOCgc?si=fy86hi8_hTtbWAnw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Now you will be able to track cell phone location by number using mSpy with these simple steps. You will receive real-time information from the target device every time you need it.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Q-mXUpVQijU?si=f1MzflPJ8-bD2_iQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Un9G2_OdSRI?si=vAcGbco8DuWt4ypP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to track a cell phone with FlexiSPY
@@ -298,10 +302,6 @@ Step 1: Download FlexiSPY on your target device and then use the Activation Code
 Step 2: Log into your online account and enable GPS tracking under Control Center > Set the GPS capture settings as required.
 
 ![track a cell phone location via flexispy](https://images.wondershare.com/drfone/article/2022/02/track-a-cell-phone-location-by-number.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XVsiIO7hWOc?si=UvWnqxaI_yHwEr74" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 3: View the historical and current GPS location from inside your online account.
 
@@ -323,22 +323,17 @@ There are different methods of knowing where is the mobile you are looking for a
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://instagram-video-recordings.techidaily.com/new-sharing-youtube-content-seamlessly-in-instagram-stories-for-2024/"><u>[New] Sharing YouTube Content Seamlessly in Instagram Stories for 2024</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/updated-2024-approved-top-tools-for-efficient-video-capture-on-windows-11/"><u>[Updated] 2024 Approved Top Tools for Efficient Video Capture on Windows 11</u></a></li>
-<li><a href="https://desktop-recording.techidaily.com/updated-in-2024-delving-into-active-presenters-record-capabilities/"><u>[Updated] In 2024, Delving Into Active Presenter's Record Capabilities</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/updated-prime-video-chat-solutions-for-pcs-and-phones/"><u>[Updated] Prime Video Chat Solutions for PCs & Phones</u></a></li>
-<li><a href="https://youtube-zero.techidaily.com/approved-crown-jewels-of-online-watching-youtubes-treasures/"><u>2024 Approved Crown Jewels of Online Watching YouTube's Treasures</u></a></li>
-<li><a href="https://youtube-videos.techidaily.com/elevate-your-channels-templates-at-no-charge/"><u>Elevate Your Channels - Templates at No Charge</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-12-pro-max-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 12 Pro Max without App | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-15-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 15 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-11-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 11 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-14-plus-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 14 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone SE (2020) | Dr.fone</u></a></li>
-<li><a href="https://tech-renaissance.techidaily.com/seamless-sign-in-enabling-easy-startup-on-your-windows-computer-with-auto-login/"><u>Seamless Sign-In: Enabling Easy Startup on Your Windows Computer with Auto Login</u></a></li>
-<li><a href="https://screen-sharing-recording.techidaily.com/the-best-way-to-record-a-powerpoint-presentation/"><u>The Best Way to Record a PowerPoint Presentation</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/toms-tech-insights-expert-guides-and-reviews/"><u>Tom's Tech Insights: Expert Guides and Reviews</u></a></li>
+<li><a href="https://video-screen-grab.techidaily.com/new-farming-fiesta-with-pals-the-ultimate-agritainment-guide/"><u>[New] Farming Fiesta with Pals The Ultimate Agritainment Guide</u></a></li>
+<li><a href="https://screen-activity-recording.techidaily.com/new-in-2024-captivating-costless-visual-collaboration-games/"><u>[New] In 2024, Captivating Costless Visual Collaboration Games</u></a></li>
+<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-beyond-the-leading-films-hidden-cinema-treasures/"><u>[Updated] 2024 Approved Beyond the Leading Films Hidden Cinema Treasures</u></a></li>
+<li><a href="https://fox-info.techidaily.com/updated-beyond-imagination-vr-powered-movies-for-2024/"><u>[Updated] Beyond Imagination VR-Powered Movies for 2024</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/updated-fixing-the-full-screen-freeze-in-obs-for-2024/"><u>[Updated] Fixing the Full-Screen Freeze in OBS for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/2024-approved-how-to-sell-your-brand-through-innovative-youtuber-collaborations/"><u>2024 Approved How To Sell Your Brand Through Innovative YouTuber Collaborations</u></a></li>
+<li><a href="https://android-frp.techidaily.com/5-quick-methods-to-bypass-oppo-find-x7-ultra-frp-by-drfone-android/"><u>5 Quick Methods to Bypass Oppo Find X7 Ultra FRP</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-6-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 6 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 12? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-13-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone 13 Pro Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-pro-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 Pro Location | Dr.fone</u></a></li>
+<li><a href="https://win-howtos.techidaily.com/overcoming-the-cwindowssystem32configsystemprofiledesktop-error-message/"><u>Overcoming The C: Windows system32 config systemprofile Desktop Error Message</u></a></li>
 </ul></div>
 
