@@ -1,7 +1,7 @@
 ---
 title: 5 Ways to Track Apple iPhone 14 Pro Max without App | Dr.fone
-date: 2024-12-04T20:50:43.474Z
-updated: 2024-12-09T20:22:41.845Z
+date: 2024-12-11T18:35:16.012Z
+updated: 2024-12-15T21:16:20.330Z
 tags: 
   - virtual location change
   - location tracker
@@ -29,29 +29,25 @@ If you are greeted with the two factor authentication process, which asks you to
 
 ![skip the two factor authentication process](https://images.wondershare.com/drfone/article/2017/10/15075180348414.jpg) ![head to the quick access link](https://images.wondershare.com/drfone/article/2017/10/15075180363658.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AcAYRX0cwwA?si=DxqWU39vqksZbe1s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 2. From the dashboard, locate the Find iPhone icon on the second row and click on it.
 
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/MHafwnWSEQk?si=rejNVNpJZH2SqNLy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X4q6gyaEojM?si=ImdFm6Zsr0azykqV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 Step 3. Hover over to the All Devices dropdown menu and choose your Apple iPhone 14 Pro Max.
 
 ![choose your Apple iPhone 14 Pro Max](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pejPLJBLmXw?si=WD97jA3doqbMCkCX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
 ![begin to track the phone](https://images.wondershare.com/drfone/article/2017/10/15075182429793.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pRR3Oq03EuE?si=ZTy8-WH0AesA9zRh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
 
@@ -63,11 +59,19 @@ It’s no surprise that both Apple and the search giant are fond of gathering in
 
 ![head to the Google Timeline to track your Apple iPhone 14 Pro Max](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RAnyQ0uj9Yg?si=Es4_ulcdM_-LuDcq" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 2. Select the present date from the left hand panel.
 
 Step 3. Scroll to the bottom of the timeline, and select the latest location update.
 
 Step 4. If your location is the same as your previous updates, your phone hasn’t moved so you go and get it from that location. Contrarily, if your phone has moved, you should contact authorities, and not go after the thief alone because you never know the type of person they are.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6KXVWj6Ar1M?si=Cd_jktmoN3e9OzH3" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 3: Solution 3 - Using Google Photos to Track your Apple iPhone 14 Pro Max
 
@@ -100,6 +104,10 @@ Step 4. When you’re ready to begin tracking, open up the Find My Friends app, 
 One of the biggest reasons of using [mSpy](http://mspy.go2cloud.org/SH7G6) is that you can do much more than just track your Apple iPhone 14 Pro Max. With 25 features on tap, [mSpy](http://mspy.go2cloud.org/SH7G6) is geared towards keeping track of your Apple iPhone 14 Pro Max as well as those using it. This remotely managed software is compatible with iOS, Windows and Mac OS, and can be easily accessed from any browser.
 
 ![Use mSpy to track an iPhone](https://images.wondershare.com/drfone/article/2017/10/15075194046097.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fqBKCGAKHmA?si=OkoaI17nE5qNqTHj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 It is designed for both home and commercial use, so whether you’d like to keep track of your kid’s text messages employee emails, mSpy can truly be your best friend. Things you can keep tabs on include instant messages such as from WhatsApp, emails, multimedia messages, incoming and outgoing calls and GPS locations.
 
@@ -157,6 +165,10 @@ Their monitoring service works irrespective of the cellular carrier network or t
 - This product can't be used on an iPhone unless you jailbreak it.
 - It can show you the results you want only if the target device has got an Internet connection.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NC0rdKEQ98o?si=HYgqC8CxF_WTO5if" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 2\. Mobile Number Locator
 
 This app is entirely Android-oriented and it's as effective as it comes. It's free and requires no registration cost or anything hi-fi; but, just a set of fingers and there!
@@ -166,6 +178,10 @@ Mobile Number Locator permits you to trace the information about any mobile numb
 This app cannot trace Mobile Ported Numbers and it can only show the State Location of the caller.
 
 ![phone number locator-Mobile Number Locator](https://images.wondershare.com/drfone/article/2017/11/15099055922796.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1CdWd06fCwc?si=wzg-68q0jAksPRXp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 **Features**
 
@@ -193,10 +209,6 @@ This app will help you locate a phone based on any number in your locality. Cree
 This app allows you to track virtual phone numbers, lets you find your target phone's location, and also track the location of unknown mobile numbers. You can even conduct an email address search through this app and the whole service is entirely free!
 
 ![phone number locator-Mobile Number Tracker](https://images.wondershare.com/drfone/article/2017/11/15099056111058.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -243,10 +255,6 @@ With this, you can search and pinpoint the location of any mobile number or a fi
 
 - It doesn't work on Android versions below 4.0.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/OdlXe5RELW0?si=Iz1H1QnLQVw-Eu3e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## 5\. Truecaller
 
 This is noted as the best leading app over the globe. There must be some better features compared to the previous ones if that's the case, yes?
@@ -256,10 +264,6 @@ It is cited to be the best caller ID app and it even blocks danger-rangers, thei
 You don't have to worry about telemarketers calling you or robocalls anymore. Spammers can't make an appearance ever again and consider yourself safe for life.
 
 ![phone number locator-Truecaller](https://images.wondershare.com/drfone/article/2017/11/15099056551018.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/XIUatTFH0Zw?si=ZCtoBtIy18y2F5Vc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 **Features**
 
@@ -283,7 +287,7 @@ You don't have to worry about telemarketers calling you or robocalls anymore. Sp
 - You must supply your phone number to the makers for this app to work.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBN1gYY5hUs?si=p89CMiMzeJzU0wGu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GyfJUhsz_AY?si=x2HjoLX1B89oEPgZ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 6\. Number Locator
@@ -326,6 +330,10 @@ It's really quick in showing the results, details, and that's what makes this ap
 
 ![phone number locator-Mobile Number Tracker Pro](https://images.wondershare.com/drfone/article/2017/11/15099057098598.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zWYVKFk3yPQ?si=Yu7xsjIYgRiq8zHk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 **Features**
 
 - Its database spans more than 200 countries all over the globe.
@@ -345,6 +353,10 @@ It's really quick in showing the results, details, and that's what makes this ap
 
 Where do you think these creators of number locators gather all this personal information from? It's absolutely frightening to think of how they would get hold of our information, isn't it? But, that's a topic for another day. It's certainly helpful if one doesn't misuse this information for their own personal gain now, right?
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Nl0Z0eth1u4?si=0eecOBNfc--51AJO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## How to Detect and Remove Spyware on Apple iPhone 14 Pro Max?
 
 As scary as it sounds, it is actually quite possible that someone is spying on your Apple iPhone 14 Pro Max. These hackers and sometimes amateurs make use of sophisticated spy software to infiltrate your device and have access to your information. If you have reason to suspect that someone might have access to your Apple iPhone 14 Pro Max, it is important to take the steps to figure out just how they gained access to the Apple iPhone 14 Pro Max device and how to eliminate the threat. This article will help you with both.
@@ -354,10 +366,6 @@ As scary as it sounds, it is actually quite possible that someone is spying on y
 The biggest question most iPhone users have is; can someone spy on my iPhone? The truth is, it is actually quite easy to spy on an iPhone remotely thanks to the availability of many kinds of spy or monitoring programs. A hacker can also gain access to your device’s information through phishing websites. If you have ever seen those ads while browsing that tell you’ve won something spectacular even though you didn’t enter a competition, clicking on the ad often leads to a phishing website where your information could be severely compromised.
 
 It is important to note that this can happen to anyone partly due to the sophisticated ways that hackers can infiltrate a device. Thanks to spying software, the person spying on your Apple iPhone 14 Pro Max doesn’t even need to be a sophisticated hacker. They can be your spouse or employer.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dKjioJQaUh8?si=Ls_AeuvGsSyL5ny2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 2: How to Detect Spyware on iPhone?
 
@@ -395,10 +403,6 @@ The best thing you can do is to install anti-spyware software on your device. Th
 
 ![Remove Spyware from iPhone-Install Anti-Spyware Program](https://images.wondershare.com/drfone/article/2017/10/15079737644580.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 #### **2\. Update your iOS**
 
 Another great way to get rid of spyware is to update your iOS. This is particularly helpful when you notice the Cydia app on your device and you didn’t jailbreak it. An update is effective because it often comes with bug fixes that may eliminate the spyware from your system.
@@ -406,10 +410,6 @@ Another great way to get rid of spyware is to update your iOS. This is particula
 To do it go to Settings > General > Software Update and tap “Download and Install.”
 
 ![Remove Spyware from iPhone-Update your iOS](https://images.wondershare.com/drfone/article/2017/10/15074749074576.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GU08CQVsZz0?si=V-SvPfzRsQysMS0e" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 #### **3\. Restore your Device**
 
@@ -433,18 +433,22 @@ Considering how easy it is for someone to spy on you, the best thing you can do 
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://facebook-video-recording.techidaily.com/updated-in-2024-social-simulacrum-sculpting-constructing-playful-profiles/"><u>[Updated] In 2024, Social Simulacrum Sculpting Constructing Playful Profiles</u></a></li>
-<li><a href="https://remote-screen-capture.techidaily.com/updated-seamless-collaboration-the-top-5-video-call-recorder-choices/"><u>[Updated] Seamless Collaboration The Top 5 Video Call Recorder Choices</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/updated-simplified-blur-methods-for-perfect-iphone-pics-a-quick-guide/"><u>[Updated] Simplified Blur Methods for Perfect iPhone Pics - A Quick Guide</u></a></li>
-<li><a href="https://fox-direct.techidaily.com/2024-approved-first-step-guide-to-professional-vlogging/"><u>2024 Approved First-Step Guide to Professional Vlogging</u></a></li>
-<li><a href="https://screen-video-capture.techidaily.com/2024-approved-smart-choices-the-ultimate-list-of-educator-friendly-recording-tools/"><u>2024 Approved Smart Choices The Ultimate List of Educator-Friendly Recording Tools</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/2024-approved-youtube-fundamentals-made-simple-top-8-learning-resources/"><u>2024 Approved YouTube Fundamentals Made Simple Top 8 Learning Resources</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-best-anti-tracker-software-for-apple-iphone-14-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Best Anti Tracker Software For Apple iPhone 14 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone XR | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-apple-iphone-12-pro-max-location-by-number-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track Apple iPhone 12 Pro Max Location by Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-13-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone 13 Pro Max with and without jailbreak | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-xs-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone XS Max Location | Dr.fone</u></a></li>
-<li><a href="https://facebook.techidaily.com/unlock-facebook-with-this-simple-reset-guide/"><u>Unlock Facebook With This Simple Reset Guide</u></a></li>
+<li><a href="https://youtube-lab.techidaily.com/024-approved-mirrorless-vs-dslr-video-mastery-in-focus/"><u>[New] 2024 Approved Mirrorless vs DSLR Video Mastery in Focus</u></a></li>
+<li><a href="https://facebook-videos.techidaily.com/new-in-2024-unlock-your-fb-videos-instant-mp4-download/"><u>[New] In 2024, Unlock Your FB Videos - Instant MP4 Download</u></a></li>
+<li><a href="https://screen-recording.techidaily.com/updated-ginger-isle-strategies-for-stardew/"><u>[Updated] Ginger Isle Strategies for Stardew</u></a></li>
+<li><a href="https://games-able.techidaily.com/475plus-ultra-responsive-screen-innocn-39g1r/"><u>$475+ Ultra-Responsive Screen: InnoCN 39G1R</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/chatgpt-vs-google-bard-which-is-better/"><u>ChatGPT Vs. Google Bard: Which Is Better?</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://extra-guidance.techidaily.com/in-2024-8-useful-tools-that-allow-you-to-pixelate-face-on-photos/"><u>In 2024, 8 Useful Tools That Allow You to Pixelate Face on Photos</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-detect-and-remove-spyware-on-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Detect and Remove Spyware on Apple iPhone 6s Plus? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-5-tracking-apps-to-track-apple-iphone-8-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 5 Tracking Apps to Track Apple iPhone 8 without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-12-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 12 Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-14-pro-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 14 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://novels-ebooks.techidaily.com/95760751-9782268091372-le-retour-disrael-et-lesperance-du-monde/"><u>Le Retour d'Israël et l'Espérance du Monde | Free Book</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-12-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 12 Pro Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-7-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 7 with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-6s-plus-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 6s Plus | Dr.fone</u></a></li>
+<li><a href="https://android-unlock.techidaily.com/unlock-meizu-phone-password-without-factory-reset-full-guide-here-by-drfone-android/"><u>Unlock Meizu Phone Password Without Factory Reset Full Guide Here</u></a></li>
+<li><a href="https://some-approaches.techidaily.com/1726027642773-windows-11/"><u>Windows 11で動画に文字スーパーを追加するための簡単な手順</u></a></li>
 </ul></div>
 
