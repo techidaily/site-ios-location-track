@@ -1,7 +1,7 @@
 ---
 title: "Beyond Words: How ChatGPT Grasps Human Syntax"
-date: 2024-12-22T20:42:44.955Z
-updated: 2024-12-24T16:04:22.951Z
+date: 2024-12-28T23:52:28.876Z
+updated: 2025-01-01T19:04:17.576Z
 tags:
   - chatgpt
   - open-ai
@@ -32,7 +32,7 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
  ChatGPT will then nicely summarize the main points on the requested pages. One point of note here, there are[limitations to ChatGPT prompts and responses](https://www.makeuseof.com/do-chatgpt-responses-have-character-or-word-limit/) , especially when it comes to more complex requests. So, for larger documents, it is good policy to break the task down into smaller parts.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## 2\. Copy Text From the PDF
@@ -41,19 +41,15 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 ![Screenshot of copying text from PDF opened in Microsoft Edge](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-copying-text-from-pdf-opened-in-ms-edge-1.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_wWybMqZEM?si=0nPjCQDLS2MCaQbG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  The text can then be pasted into a ChatGPT prompt, and the desired results attained. In this case, we asked it to bullet point the main points in the text.
 
 ![Screenshot of ChatGPT summarizing copied text](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/05/screenshot-of-chatgpt-summarizing-copied-text.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jng92DT1n_Y?si=EdMRoNAFi0Q6mP7G" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  As you can see, ChatGPT will easily respond to prompts with text pasted into them. Just remember not to ask too much of it in a single request. This technique will work with most applications that can open PDFs.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## 3\. Convert the PDF Into a Text Document
 
@@ -72,24 +68,28 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 4. Word will now convert and open the file, you can use the**Save As** command to save it as a Word or text document as preferred.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C3cJe7Wgn6I?si=EckDFML-VJ_2sYz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GFHH14XlFCk?si=2HcjQbDx5eG0ZQAt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Once the conversion is complete, you can copy the text directly into ChatGPT and run prompts on it to get your desired results.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JAkb8Bv3AU4?si=2rHwnZYTzTLieKgY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## 4\. Install and Use an Extension
 
 ![chatgpt with file uploader extension](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2023/08/chatgpt-extension.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zgwn5kVI5V4?si=1j6j4OuSSndFieXU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  Unfortunately, at this time, ChatGPT does not include a way to automatically upload PDF files or any files for that matter. Sure, you can copy the text from a PDF or convert it into a text document, but is there a simpler way to go about it? Luckily, there is. One of the easiest ways to get ChatGPT to read PDFs is to just install and use an extension.
 
 [ChatGPT File Uploader](https://chrome.google.com/webstore/detail/chatgpt-file-uploader-ext/becfinhbfclcgokjlobojlnldbfillpf/related) is a free-to-install Chrome Extension that allows you to upload any file, including Word documents, Excel spreadsheets, image files, and, of course, PDFs. What makes this an excellent method is just how easy it is to use.
 
  The steps are straightforward—install the ChatGPT File Uploader to your browser, open ChatGPT, and you'll notice a shiny, new**Upload** button next to the message bar at the bottom. From there, all you have to do is hit the button and choose the PDF you want to upload.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pGHmqD53gc8?si=ymgHIB6Aa7_MoUUf" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## PDFs Don't Have to Hinder Your ChatGPT Usage
 
@@ -112,20 +112,22 @@ thumbnail: https://thmb.techidaily.com/df49fa8741560cd4a2c304321a86cf5312094c292
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://fox-direct.techidaily.com/new-in-depth-guide-to-installing-microsofts-movie-maker-for-2024/"><u>[New] In-Depth Guide to Installing Microsoft's Movie Maker for 2024</u></a></li>
-<li><a href="https://article-posts.techidaily.com/updated-mastery-of-text-effects-best-practices-in-ae-for-2024/"><u>[Updated] Mastery of Text Effects Best Practices in AE for 2024</u></a></li>
-<li><a href="https://fox-links.techidaily.com/updated-reality-beyond-exploring-vrs-contemporary-state-and-implications/"><u>[Updated] Reality Beyond Exploring VR's Contemporary State and Implications</u></a></li>
-<li><a href="https://iphone-unlock.techidaily.com/3-ways-to-unlock-apple-iphone-se-2020-without-passcode-or-face-id-drfone-by-drfone-ios/"><u>3 Ways to Unlock Apple iPhone SE (2020) without Passcode or Face ID | Dr.fone</u></a></li>
+<li><a href="https://fox-cloud.techidaily.com/new-in-2024-explore-blurring-techniques-best-app-picks/"><u>[New] In 2024, Explore Blurring Techniques Best App Picks</u></a></li>
+<li><a href="https://article-tips.techidaily.com/updated-2024-approved-aerial-drone-transformation-trial-with-first-20-free-lutts/"><u>[Updated] 2024 Approved Aerial Drone Transformation - Trial with First 20 FREE LUTTs</u></a></li>
+<li><a href="https://facebook-clips.techidaily.com/updated-connecting-for-content-roku-and-facebook-live-for-2024/"><u>[Updated] Connecting for Content Roku and Facebook LIVE for 2024</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-14-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone 14 without App | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-8-plus-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 8 Plus | Dr.fone</u></a></li>
-<li><a href="https://win11.techidaily.com/early-detection-with-top-7-possible-windows-viruses-indicators/"><u>Early Detection with Top 7 Possible Windows Viruses Indicators</u></a></li>
-<li><a href="https://techtrends.techidaily.com/expert-tips-for-hooking-up-three-screens-with-one-laptopdesktop/"><u>Expert Tips for Hooking up Three Screens with One Laptop/Desktop</u></a></li>
+<li><a href="https://buynow-help.techidaily.com/effortless-meal-times-with-arfs-auto-feeder-for-your-furry-friends/"><u>Effortless Meal Times with Arf's Auto-Feeder for Your Furry Friends</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone XS? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-6-plus-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 6 Plus? | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>How to Turn Off Google Location to Stop Tracking You on Apple iPhone 6 | Dr.fone</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-14-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 14 Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-12-pro-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 12 Pro | Dr.fone</u></a></li>
-<li><a href="https://location-social.techidaily.com/in-2024-how-to-change-apple-iphone-13-pro-location-on-skout-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Change Apple iPhone 13 Pro Location on Skout | Dr.fone</u></a></li>
-<li><a href="https://win-hot.techidaily.com/step-by-step-guide-editing-and-cropping-images-within-a-pdf-file-on-your-windows-computer/"><u>Step-by-Step Guide: Editing and Cropping Images Within a PDF File on Your Windows Computer</u></a></li>
+<li><a href="https://tech-revival.techidaily.com/maximize-your-youtube-viewership-with-expert-tips-on-downsizing-full-hd-to-4k-videos-precisely-for-upload-optimization/"><u>Maximize Your YouTube Viewership with Expert Tips on Downsizing Full HD to 4K Videos Precisely for Upload Optimization</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-passcode-no-problem-keeping-games-offline/"><u>No Passcode, No Problem: Keeping Games Offline</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/online-veilig-konverteren-van-mod-tot-avi-efficient-en-kostenloos-met-movavi/"><u>Online Veilig Konverteren Van MOD Tot Avi: Efficiënt en Kostenloos Met Movavi</u></a></li>
+<li><a href="https://facebook-video-share.techidaily.com/top-10-affordable-accessible-tools-to-transform-videos-for-2024/"><u>Top 10 Affordable, Accessible Tools to Transform Videos for 2024</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-11-pro-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 11 Pro Max Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-xs-max-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone XS Max Location | Dr.fone</u></a></li>
+<li><a href="https://fox-that.techidaily.com/troubleshooting-iphones-absence-of-vibration-solutions-in-silent-and-ring-modes/"><u>Troubleshooting iPhone's Absence of Vibration: Solutions in Silent and Ring Modes</u></a></li>
 </ul></div>
 

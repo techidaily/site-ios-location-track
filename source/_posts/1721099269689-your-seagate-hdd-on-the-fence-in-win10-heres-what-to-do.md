@@ -1,7 +1,7 @@
 ---
 title: Your Seagate HDD on the Fence in Win10? Here's What To Do!
-date: 2024-12-17T20:40:50.970Z
-updated: 2024-12-24T19:48:43.492Z
+date: 2024-12-31T21:57:43.728Z
+updated: 2025-01-01T21:29:47.383Z
 tags:
   - win11
   - win10
@@ -32,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 **[3: Partition the Hard Drive](https://versadesk.pxf.io/xyboxx)**
 **[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1dR4tF3VgyU?si=AJipgqZsNNxsRsBW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Try A Different USB Port**
 
@@ -80,24 +84,16 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aRMCbJxLuwE?si=E5sfJvoqkv1qCMWz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/tkpBmccvJ_Q?si=J7ellPL1G1l8Axi_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-yZKNLxj3po?si=-RbF6nCJEVlHWP-M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
@@ -105,10 +101,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  1) On your keyboard, press the**Windows logo key** and**S** at the same time. Type**apps: computer management** in and click **Computer Management** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aoMiYpYiFZs?si=qvYvGytDD17fvSXO" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
@@ -118,11 +110,23 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qfCSLAhd4FY?si=CUBztmilaeAwl1lw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  4) Right-click it again and click **New simple volume** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/new-simple-volume.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jf0JvOqiAXc?si=kHEHQGC_PhBv4xij" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  There you go, your Seagate external hard drive should be able to work without any problems.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DCARjc5g5VI?si=9OfovbKBrpoJeXTY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 4: Assign Driver Letter to Seagate GoFlex**
 
@@ -134,10 +138,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  2) On the left side of the pane, click**Disk Management** . If you see a drive without a letter, check to make sure that it’s your**Seagate GoFlex drive** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/FLlUft1ZxI0?si=pBd5QdHEE27qsNlN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
@@ -151,6 +151,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LI9nKlbhnw8?si=uUXFVbuEqXtFHHv0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Method 5: Disable Fast Startup**
 
  1) On your keyboard, press the**Windows logo key**  and click **Control Panel.**
@@ -158,41 +162,37 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/control-panel.jpg)
   
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) Click **Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/P6Wfzj6YNDM?si=WRZQD9zCdQ1_tW1b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/YpnYKIrpgZQ?si=94zicAHp1CH-0oso" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 4) Click   **Change what the power button does.**
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-what-the-power-button-does.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 5) Click   **Change settings that are currently unavailable** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-settings-that-are-currently-unavailable-600x456.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xtylXDY9YfA?si=VonzSiDFGCpJm2uC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/nWu29cqFjZA?si=TNZyCbPq68PQ0JIb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KKFdFHaVIJg?si=x2vLw7ty3FtHX-9T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,15 +209,14 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://snapchat-videos.techidaily.com/new-the-ultimate-tutorial-for-sharing-photos-from-phone-memory-for-2024/"><u>[New] The Ultimate Tutorial for Sharing Photos From Phone Memory for 2024</u></a></li>
-<li><a href="https://youtube-blog.techidaily.com/ed-2024-approved-finding-your-audio-voice-match-the-perfect-mic-to-your-channels-character/"><u>[Updated] 2024 Approved Finding Your Audio Voice Match the Perfect Mic to Your Channel's Character</u></a></li>
-<li><a href="https://facebook-video-files.techidaily.com/2024-approved-unplugging-from-fbs-invasive-video-commercials/"><u>2024 Approved Unplugging From FB's Invasive Video Commercials</u></a></li>
-<li><a href="https://screen-recording.techidaily.com/acclaimed-tools-the-finest-ps1-emulators-for-pc-gaming/"><u>Acclaimed Tools The Finest PS1 Emulators for PC Gaming</u></a></li>
+<li><a href="https://youtube-sure.techidaily.com/ed-in-2024-integrating-tailored-thumbnails-in-your-videos/"><u>[Updated] In 2024, Integrating Tailored Thumbnails in Your Videos</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-6s-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 6s Activity | Dr.fone</u></a></li>
+<li><a href="https://visual-screen-recording.techidaily.com/2024-approved-elite-6-urban-home-structures-in-minecraft/"><u>2024 Approved Elite 6 Urban Home Structures in Minecraft</u></a></li>
+<li><a href="https://win-online.techidaily.com/como-mover-su-sistema-operativo-de-windows-7-8-10-o-11-entre-dos-computadores/"><u>Cómo Mover Su Sistema Operativo De Windows (7, 8, 10 O 11) Entre Dos Computadores</u></a></li>
 <li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-13-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone 13 without App | Dr.fone</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-does-airplane-mode-turn-off-gps-location-on-vivo-x-fold-2-drfone-by-drfone-virtual-android/"><u>In 2024, Does Airplane Mode Turn off GPS Location On Vivo X Fold 2? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-a-lost-apple-iphone-15-plus-for-free-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track a Lost Apple iPhone 15 Plus for Free? | Dr.fone</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/in-2024-the-essentials-of-firefoxs-pip-functionality/"><u>In 2024, The Essentials of Firefox's PIP Functionality</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-pro-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 Pro Max Location | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-xs-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone XS | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-6-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Check Distance and Radius on Google Maps For your Apple iPhone 6 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/two-ways-to-track-my-boyfriends-apple-iphone-12-pro-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>Two Ways to Track My Boyfriends Apple iPhone 12 Pro without Him Knowing | Dr.fone</u></a></li>
+<li><a href="https://tech-haven.techidaily.com/understanding-current-availability-of-chatgpt/"><u>Understanding Current Availability of ChatGPT</u></a></li>
+<li><a href="https://ai-driven-video-production.techidaily.com/updated-pc-video-editing-made-easy-gopro-quik-and-its-alternatives/"><u>Updated PC Video Editing Made Easy GoPro Quik and Its Alternatives</u></a></li>
 </ul></div>
 

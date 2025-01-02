@@ -1,7 +1,7 @@
 ---
 title: "How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
-date: 2024-12-21T16:10:53.510Z
-updated: 2024-12-24T18:15:57.184Z
+date: 2025-01-01T00:34:22.681Z
+updated: 2025-01-01T18:52:30.689Z
 categories:
   - BestProducts
 description: "This Article Describes How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
@@ -46,10 +46,6 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hZsnjxeSh1U?si=hZIfzQPDNX5KtOCg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Lifewire / Emily Isaacs
 
 [View On Amazon $99](https://www.amazon.com/dp/B00NMVJYEW/?tag=lifewire-onsite-prod-20&ascsubtag=4780187%7Cnf95833ce2d2845368fd2b0eac089080a01%7CB00NMVJYEW) [View On Walmart $89](https://www.walmart.com/ip/Kinesis-KB800PB-us-Freestyle2-Ergonomic-Split-Keyboard-for-PC/41539324?slfpid=3) [View On Office Depot $113](https://www.officedepot.com/a/products/989638/Kinesis-Freestyle2-Ergonomic-Keyboard-For-PC/?cm%5Fmmc=PLA-%5F-Google-%5F-Computer%5FTablet%5FAccessories-%5F-989638&gclid=EAIaIQobChMIv7HKttKB6QIVUl8NCh2Afg94EAQYBCABEgJKIvD%5FBwE&gclsrc=aw.ds)
@@ -79,10 +75,6 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/C-YK_WPWu8Ujx1fwDLxvO6Epi-w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_05-adcddc5fc05b415dbcd82396bc0ada77.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3C51hzX46eY?si=o5qiDSkT7mXUGm3F" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  Lifewire / Emily Isaacs
 
  The Kinesis Freestyle2 Blue for Mac breaks free of these norms by using a split, modular design that features two keyboard halves, one for each hand, connected via a 9 or 20-inch cable depending upon the chosen model. These pieces were designed with comfort in mind. They may be used separately or connected with a pivot tether at the top of the two halves. This allows you the opportunity to customize your setup and maximize your comfort, whether that’s by placing the halves closer together or further apart.
@@ -94,7 +86,7 @@ Lifewire / Emily Isaacs
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/15TKQ-BOENI?si=Ri4B2AuxAdi0Bglz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Q8Feep0Rc0?si=YkPhRxXGvrRRMJtb" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Setup Process: For Apple products only**
@@ -103,12 +95,16 @@ Lifewire / Emily Isaacs
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/YezPJZzPJ8Q?si=xF1t4BQHFquzvnzE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5FWCFI3f_cs?si=Kt2Onr_E4c616tbH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Features: Efficient hotkeys once you get used to them**
@@ -120,12 +116,16 @@ Lifewire / Emily Isaacs
  Its split design is comfortable, following the natural arc of your fingers and hands as they rest upon its keys.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/rBnnLFJbvr4?si=LlHYrYlOBp7NLMec" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GBWcw6rXIdg?si=Tlue44bW-bPA4tH9" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Battery: Plenty of juice so you’re never in a bind**
 
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UJJbj1vbzs8?si=X3zd8thLJKprfuEa" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Price: Excellent for the features**
 
@@ -184,18 +184,19 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://screen-video-capture.techidaily.com/1716070159742-new-2024-approved-capture-every-detail-on-mac-free/"><u>[New] 2024 Approved Capture Every Detail on Mac - Free!</u></a></li>
-<li><a href="https://article-files.techidaily.com/new-discover-the-ultimate-list-of-best-rated-chromebook-drawers/"><u>[New] Discover the Ultimate List of Best-Rated Chromebook Drawers</u></a></li>
-<li><a href="https://some-approaches.techidaily.com/new-unlocking-the-secrets-of-effective-podcast-names-plus-50plus-inspirations/"><u>[New] Unlocking the Secrets of Effective Podcast Names, Plus 50+ Inspirations</u></a></li>
-<li><a href="https://fox-helps.techidaily.com/updated-2024-approved-navigating-past-moments-using-android-videos/"><u>[Updated] 2024 Approved Navigating Past Moments Using Android Videos</u></a></li>
-<li><a href="https://review-topics.techidaily.com/in-2024-how-to-find-ispoofer-pro-activation-key-on-vivo-y78-5g-drfone-by-drfone-virtual-android/"><u>In 2024, How to Find iSpoofer Pro Activation Key On Vivo Y78 5G? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-12-mini-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 12 mini Location | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-11-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 11 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://ai-video-tools.techidaily.com/new-in-2024-elevate-your-video-game-best-mac-video-editing-apps/"><u>New In 2024, Elevate Your Video Game Best Mac Video Editing Apps</u></a></li>
-<li><a href="https://android-pokemon-go.techidaily.com/the-most-useful-tips-for-pokemon-go-ultra-league-on-motorola-moto-e13-drfone-by-drfone-virtual-android/"><u>The Most Useful Tips for Pokemon Go Ultra League On Motorola Moto E13 | Dr.fone</u></a></li>
-<li><a href="https://driver-error.techidaily.com/toms-tech-evaluations-comprehensive-reviews-and-advice-on-electronics/"><u>Tom's Tech Evaluations: Comprehensive Reviews & Advice on Electronics</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-15-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 15 Pro | Dr.fone</u></a></li>
-<li><a href="https://techtrends.techidaily.com/ultimate-video-transcoder-for-macos-seamless-avchd-mkv-mov-and-mp4-format-conversion/"><u>Ultimate Video Transcoder for macOS: Seamless AVCHD, MKV, MOV & MP4 Format Conversion</u></a></li>
+<li><a href="https://fox-helps.techidaily.com/new-in-2024-top-drone-innovations-for-mass-movement/"><u>[New] In 2024, Top Drone Innovations for Mass Movement</u></a></li>
+<li><a href="https://fox-http.techidaily.com/new-prime-locations-for-obtaining-got-mobile-melodies-for-2024/"><u>[New] Prime Locations for Obtaining GoT Mobile Melodies for 2024</u></a></li>
+<li><a href="https://fox-direct.techidaily.com/updated-in-2024-revolutionaries-building-virtual-realms/"><u>[Updated] In 2024, Revolutionaries Building Virtual Realms</u></a></li>
+<li><a href="https://desktop-recording.techidaily.com/10-sandbox-innovations-you-shouldnt-skip/"><u>10 Sandbox Innovations You Shouldn't Skip</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-se-2020-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone SE (2020)? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-apple-iphone-7-plus-by-phone-number-drfone-by-drfone-virtual-ios/"><u>How to Track Apple iPhone 7 Plus by Phone Number | Dr.fone</u></a></li>
+<li><a href="https://extra-support.techidaily.com/in-2024-revel-in-richness-your-pcs-pathway-to-exceptional-video-quality/"><u>In 2024, Revel in Richness Your PC's Pathway to Exceptional Video Quality</u></a></li>
+<li><a href="https://win-marvelous.techidaily.com/reaktion-auf-ausfall-der-temporaren-speichereinstellungen-von-icloud-unter-ios-15-and-16-losungswege/"><u>Reaktion Auf Ausfall Der Temporären Speichereinstellungen Von iCloud Unter iOS 15 & 16: Lösungswege</u></a></li>
+<li><a href="https://buynow-reviews.techidaily.com/review-of-the-amazon-fire-tv-cube-next-level-speed-for-ultimate-streaming-experience/"><u>Review of the Amazon Fire TV Cube – Next-Level Speed for Ultimate Streaming Experience</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/solutions-to-spy-on-apple-iphone-15-pro-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>Solutions to Spy on Apple iPhone 15 Pro Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-6-plus-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 6 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-6s-plus-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone 6s Plus Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://graphic-issues.techidaily.com/windows-systems-need-amd-gpu-drivers-installed/"><u>Windows Systems Need AMD GPU Drivers Installed</u></a></li>
 </ul></div>
 
