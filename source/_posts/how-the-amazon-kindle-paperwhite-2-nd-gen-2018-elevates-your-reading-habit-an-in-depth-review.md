@@ -1,7 +1,7 @@
 ---
 title: "How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
-date: 2025-01-20T17:42:24.214Z
-updated: 2025-01-21T18:48:34.105Z
+date: 2025-01-22T16:23:55.657Z
+updated: 2025-01-28T16:16:03.250Z
 categories:
   - BestProducts
 description: "This Article Describes How the Amazon Kindle Paperwhite (2 Nd Gen, 2018) Elevates Your Reading Habit: An In-Depth Review"
@@ -42,10 +42,6 @@ Lifewire / Emily Isaacs
 
 4.8
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaGNHfAT92w?si=bvHo1iYK2JBIPtRo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Kinesis Freestyle2 Blue
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/wuNd6MsZiivoQ99Xm0JHB9iB4Rs=/450x450/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_HeroSquare-99f80025b0254cbebe67ed22575a90c5.jpg)
@@ -73,6 +69,10 @@ Lifewire / Emily Isaacs
 
 [The Best Ergonomic Keyboards of 2024](https://www.lifewire.com/best-ergonomic-keyboards-4147386)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3UyJuZYzjt0?si=W87GeyzVKVORAk7S" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Design and Features: Freestyle2 breaks the mold**
 
  For people who are tethered to their[computers](https://www.lifewire.com/computer-and-laptop-reviews-4102643) , ergonomic keyboards are a must. These keyboards tend to be large thanks to the frequently employed swoop design that opens up the keys to provide additional spacing, so fingers feel less cramped, and a wrist-friendly position that prevents[repetitive stress injuries](https://www.lifewire.com/game-play-and-streaming-4781449) while typing. These keyboards are typically space hogs, taking up large portions of any surface that they’re placed on, often forcing users to reach further for[mice](https://www.lifewire.com/best-wireless-mice-6666207) . This can lead to shoulder injuries in place of wrist injuries—a trade-off no one wants.
@@ -89,19 +89,23 @@ Lifewire / Emily Isaacs
 
  Clocking in at 2 pounds, it’s also lightweight which makes it easy to pack. Whether you’re commuting between the home and the office or you’re heading out of town for a vacation, it’s easy to break down and bring anywhere so long as there’s a flat surface to place it during use.
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPgf_wSdhS8?si=BHoH1ryaxmwk-8FV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## **Setup Process: For Apple products only**
 
  The Kinesis Freestyle2 Blue arrives with the two keyboard halves, the instructional pamphlet, and a six-foot USB charging cable. Designed for use with iPads,[iPhones](https://www.lifewire.com/iphone-and-ios-4781515) , and[Macs](https://www.lifewire.com/macs-4781332) , the setup process is quick and easy to complete. First, we flipped the switch on the right-hand side of the keyboard from the off position to the on position. Then, we flipped the keyboard over and pressed the connect button on the backside. We knew it was ready to begin pairing when the lights on the frontside began flashing blue.
 
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/XHY6Xe9cdaO1U6Uj0wDY6rROlcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_04-7fad98b589454e0388ecf48afe425e8c.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gyGoQi7hsZk?si=8OcKcPUj2wSBmVZ1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  Lifewire / Emily Isaacs
 
  From here, we followed the instructions in the provided instructional pamphlet and enabled Bluetooth on our iPad. After about a minute of scanning, the Kinesis KB800MB-BT keyboard appeared as an available device. We simply tapped to connect. From here, it prompted us to input a numeric code and press return. Once we’d done this, setup was complete.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kTHQrw8e1gk?si=gTPIa7KjhSZ0Vz97" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## **Features: Efficient hotkeys once you get used to them**
 
@@ -116,7 +120,7 @@ Lifewire / Emily Isaacs
  The battery life on the Freestyle2 is excellent. It arrives with a partial charge, so it’s important to remember to fully charge it after receiving it. Once charged, the battery life can last up to 300 plus hours of regular use. The Freestyle2 does an excellent job of letting you know when its battery is getting low—battery lights will flash red to indicate when there are about four hours of battery life remaining. This ensures you’re never left hanging.
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6nvb0775GOM?si=peBB_Mo_4zcZFuci" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/U_aNKnMTPjo?si=Og_mEt7NP3Fbsg2n" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Price: Excellent for the features**
@@ -126,7 +130,7 @@ Lifewire / Emily Isaacs
 ![Kinesis Freestyle2 Blue (Mac)](https://www.lifewire.com/thmb/vncgu0FEgBJ69UL6H8BjQ2QoGRI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/Kinesis_ErgoKeyboard_1LW4147386_03-9055476d1d974c8bbe9b1c39d479b300.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/2Iv3DjT2Fyw?si=pR_z8ZDDVGF2MvKJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0nGlyEL5K6Y?si=3KZhTTBvKcPmyS68" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  Lifewire / Emily Isaacs
@@ -148,10 +152,6 @@ Lifewire / Emily Isaacs
  **An ideal keyboard for Apple users with its compact design, portability, and long-lasting battery.**
 
  The Kinesis Freestyle2 Blue for Mac is a compact, user-friendly ergonomic keyboard that takes comfort and customization to the next level for Apple users thanks to its split, modular design. Its extended battery life of up to 300 plus hours combined with its ability to connect to multiple iOS devices at a time is a game-changer, making it well worth the splurge.
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HSFNIAYChbA?si=4TIlsUrYmY5vP2il" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Specs
 
@@ -184,21 +184,24 @@ Lifewire / Emily Isaacs
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://extra-tips.techidaily.com/2024-approved-advanced-techniques-for-360-video-editing-in-premiere/"><u>2024 Approved Advanced Techniques for 360° Video Editing in Premiere</u></a></li>
-<li><a href="https://fox-friendly.techidaily.com/2024-approved-newcomers-elite-entryway-list-for-zooids/"><u>2024 Approved Newcomers’ Elite Entryway List for Zooids</u></a></li>
-<li><a href="https://fox-info.techidaily.com/2024-approved-premier-picks-best-selling-oculus-rift-games/"><u>2024 Approved Premier Picks Best-Selling Oculus Rift Games</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-12-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 12 Pro Max without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/5-ways-to-track-apple-iphone-xs-without-app-drfone-by-drfone-virtual-ios/"><u>5 Ways to Track Apple iPhone XS without App | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/9-best-phone-monitoring-apps-for-apple-iphone-7-drfone-by-drfone-virtual-ios/"><u>9 Best Phone Monitoring Apps for Apple iPhone 7 | Dr.fone</u></a></li>
-<li><a href="https://screen-activity-recording.techidaily.com/command-and-conquer-the-pinnacle-of-strategic-sagas-in-7-total-war-games/"><u>Command & Conquer The Pinnacle of Strategic Sagas in 7 Total War Games</u></a></li>
-<li><a href="https://tech-haven.techidaily.com/guide-sending-and-receiving-imessages-on-windows-platforms-tips/"><u>Guide: Sending & Receiving iMessages on Windows Platforms - Tips</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-do-i-stop-someone-from-tracking-my-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>How Do I Stop Someone From Tracking My Apple iPhone SE (2022)? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone SE | Dr.fone</u></a></li>
-<li><a href="https://os-tips.techidaily.com/icloud-recovery-techniques-proven-strategies-for-retrieving-lost-messages/"><u>ICloud Recovery Techniques: Proven Strategies for Retrieving Lost Messages</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-intercept-text-messages-on-apple-iphone-13-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Intercept Text Messages on Apple iPhone 13 | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-se-2022-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone SE (2022) | Dr.fone</u></a></li>
-<li><a href="https://article-knowledge.techidaily.com/in-2024-step-by-step-inverting-iphone-video-order/"><u>In 2024, Step-by-Step Inverting iPhone Video Order</u></a></li>
-<li><a href="https://youtube-docs.techidaily.com/ize-fits-all-not-with-these-top-mics-for-diverse-channels/"><u>One Size Fits All? Not with These Top Mics for Diverse Channels</u></a></li>
-<li><a href="https://hardware-updates.techidaily.com/unbelievable-black-friday-aftermath-deals-on-microsoft-tablets-cyber-monday-savings-of-up-to-600-off-ms-surface-pro-8-find-your-purchase/"><u>Unbelievable Black Friday Aftermath Deals on Microsoft Tablets | Cyber Monday Savings of Up to $600 Off MS Surface Pro 8 - Find Your Purchase</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/new-2024-approved-precision-playbacks-mastering-4-methods-of-recording-on-xbox/"><u>[New] 2024 Approved Precision Playbacks Mastering 4 Methods of Recording on Xbox</u></a></li>
+<li><a href="https://digital-screen-recording.techidaily.com/new-2024-approved-premier-10-battle-royale-challenges/"><u>[New] 2024 Approved Premier 10 Battle Royale Challenges</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-troubleshoot-flaky-airdrop-links-simple-steps-to-solutions/"><u>[New] Troubleshoot Flaky AirDrop Links Simple Steps to Solutions</u></a></li>
+<li><a href="https://extra-lessons.techidaily.com/updated-5-best-360-degree-action-cameras/"><u>[Updated] 5 Best 360-Degree Action Cameras</u></a></li>
+<li><a href="https://some-guidance.techidaily.com/updated-top-tier-free-memes-for-everyday-chuckles/"><u>[Updated] Top-Tier Free Memes for Everyday Chuckles</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/3-ways-to-track-apple-iphone-13-mini-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>3 Ways to Track Apple iPhone 13 mini without Them Knowing | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 11 Pro | Dr.fone</u></a></li>
+<li><a href="https://phone-solutions.techidaily.com/easy-steps-to-recover-deleted-photos-from-smart-8-pro-by-fonelab-android-recover-photos/"><u>Easy steps to recover deleted photos from Smart 8 Pro.</u></a></li>
+<li><a href="https://fox-access.techidaily.com/face-fluidity-techniques-implementing-motion-blur-effects-for-2024/"><u>Face Fluidity Techniques Implementing Motion Blur Effects for 2024</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-spy-on-text-messages-from-computer-and-apple-iphone-xr-drfone-by-drfone-virtual-ios/"><u>How to Spy on Text Messages from Computer & Apple iPhone XR | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-12-pro-max-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 12 Pro Max Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-spy-on-text-messages-from-computer-and-apple-iphone-se-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Spy on Text Messages from Computer & Apple iPhone SE | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-turn-off-google-location-to-stop-tracking-you-on-apple-iphone-7-plus-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Turn Off Google Location to Stop Tracking You on Apple iPhone 7 Plus | Dr.fone</u></a></li>
+<li><a href="https://fox-glue.techidaily.com/in-2024-navigating-sales-for-inexpensive-gopros/"><u>In 2024, Navigating Sales for Inexpensive GoPros</u></a></li>
+<li><a href="https://screen-mirror.techidaily.com/in-2024-top-10-airplay-apps-in-samsung-galaxy-m34-5g-for-streaming-drfone-by-drfone-android/"><u>In 2024, Top 10 AirPlay Apps in Samsung Galaxy M34 5G for Streaming | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-9-apple-iphone-11-pro-monitoring-apps-for-parental-controls-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 9 Apple iPhone 11 Pro Monitoring Apps for Parental Controls | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-4-ways-to-trace-apple-iphone-6-location-drfone-by-drfone-virtual-ios/"><u>Top 4 Ways to Trace Apple iPhone 6 Location | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-5-car-locator-apps-for-apple-iphone-x-drfone-by-drfone-virtual-ios/"><u>Top 5 Car Locator Apps for Apple iPhone X | Dr.fone</u></a></li>
+<li><a href="https://common-error.techidaily.com/unmuffled-thrills-how-to-fix-lack-of-sounds-in-forza-horizon-4/"><u>Unmuffled Thrills: How to Fix Lack of Sounds in Forza Horizon 4</u></a></li>
 </ul></div>
 
