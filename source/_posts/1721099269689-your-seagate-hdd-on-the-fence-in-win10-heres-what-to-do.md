@@ -1,7 +1,7 @@
 ---
 title: Your Seagate HDD on the Fence in Win10? Here's What To Do!
-date: 2025-01-27T16:04:15.326Z
-updated: 2025-01-28T16:23:15.971Z
+date: 2025-02-03T17:43:41.999Z
+updated: 2025-02-09T17:13:19.792Z
 tags:
   - win11
   - win10
@@ -23,10 +23,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
  If you’re on Windows 10 and you have no access to your Seagate GoFlex external hard drive, you’re not alone. Many users have reported having this problem as well. No worries, here are 5 solutions for you to try.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## How can I make my external Seagate hard drive show up again?
 
  You may not need to try them all, just work your way down until you find the one that works for you.
@@ -36,6 +32,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 **[3: Partition the Hard Drive](https://versadesk.pxf.io/xyboxx)**
 **[4: Assign Driver Letter to Seagate GoFlex](https://dreoaffiliateprogram.pxf.io/k0ezjl)**
 **[5: Disable Fast Startup](https://coinrule.sjv.io/rqzonv)**
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/zmXpl6irBYk?si=BXjGpQr6PXFcqhCI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## **Method 1: Try A Different USB Port**
 
@@ -56,6 +56,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  2) Click **System** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/system-in-settings.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yDuvbv0QOYI?si=byottcEM_Rrvi4EL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
  3) Click**Apps & features** . Click**Seagate software** and click the**Uninstall** button. (In the screenshot, we uninstall **Driver Easy** only as an example.)
 
@@ -84,28 +88,16 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/properties.png)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
  4) Click the**Compatibility** tab, and tick the box for**Run this program in compatibility mode for:** . Select an older version of Windows. You might need to try a couple of times before you fix this issue.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/run-this-program-in-compatibility-mode-for.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/oP8grXxuy2o?si=uIRNhTYbecTcaC7J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  5) Click**Apply** and**OK** to save and then run the setup again.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apply-and-ok.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lCpzYpVPIZA?si=hNte-mPRIzjvqpRy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/UCqHbpxQGP4?si=XGkajFHdqyoKNAFM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cKRBWf1EDZo?si=CTNd4q450biit4eM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## **Method 3: Partition the Hard Drive**
@@ -114,6 +106,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/apps-computer-management.png)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H2cXnI9oOvM?si=3nz2sBB124ln-83T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  2) On the left side of the pane, click**Disk Management** . Right-click **Seagate Central driver** , and click **Delete Volume…** . This will**delete all** the files from your Seagate hard drive.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/disk-management.jpg)
@@ -121,10 +117,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  3) You should be able to see **Disk 1** is available. Right-click it and click **GPT (GUID Partition Table)** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/gpt-guid-partition-table.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lxv4NM-89CU?si=Uj5rOkhrwZ_6QIuW" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) Right-click it again and click **New simple volume** .
 
@@ -143,13 +135,13 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/img_57f9f9701ebe7-600x294.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/j5gTm5KxtQ0?si=onF1rBS2nEM5nLGg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
  3) Right-click it and click **Change Drive Letter and Paths…** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/change-drive-letter-and-paths.png)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/n4cc4BSqJls?si=Hkd9vwQDqeCGN7XG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
  4) If your external hard drive doesn’t have a letter, press **Add…** to add a letter for this drive.
 
@@ -159,10 +151,6 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/ok.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4YCkNXJjC3c?si=9Tn8KiqKGTZi1o7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## **Method 5: Disable Fast Startup**
 
  1) On your keyboard, press the**Windows logo key**  and click **Control Panel.**
@@ -171,16 +159,24 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
   
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zXUt81WsQpI?si=W3DKIAsa2-qbGadJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/7JBG_O3Vnh4?si=lUO0fta6YPJ50qjg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
  2) Click **Hardware and Sound** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/hardware-and-sound-600x450.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9hsPbiic0O8?si=58mZ2Cu6wicQfsUP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 3) Click **Power Options** .
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/power-options.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_1g4U13PBk0?si=xJLJtlc4hKBTBH8M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 4) Click   **Change what the power button does.**
 
@@ -193,6 +189,10 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
  6) Scroll down to the _**Shutdown** settings_ section and uncheck**Turn off fast startup (recommended)** . Click **Save changes**  . You might need to restart your computer after this change.
 
 ![](https://images.drivereasy.com/wp-content/uploads/2016/10/uncheck-turn-off-fast-startup-recommended-600x450.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f-yPCh24EsA?si=3z8FAd_lMZeAjug7" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 <ins class="adsbygoogle"
      style="display:block"
@@ -209,24 +209,18 @@ thumbnail: https://thmb.techidaily.com/e51e623bbd7f87e2ff660a6fc070fca8d466d4d3f
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://youtube-blog.techidaily.com/n-2024-boosting-views-through-imaginative-video-thumbnails/"><u>[New] In 2024, Boosting Views Through Imaginative Video Thumbnails</u></a></li>
-<li><a href="https://youtube-webster.techidaily.com/n-2024-inspiration-on-screen-top-youtube-themes-for-channels-prosperity/"><u>[New] In 2024, Inspiration on Screen Top YouTube Themes for Channels' Prosperity</u></a></li>
-<li><a href="https://extra-tips.techidaily.com/updated-android-lens-mastery-techniques-and-apps/"><u>[Updated] Android Lens Mastery Techniques & Apps</u></a></li>
-<li><a href="https://instagram-clips.techidaily.com/updated-in-2024-demystify-the-screen-time-analyze-your-posts-viewership/"><u>[Updated] In 2024, Demystify the Screen Time Analyze Your Post's Viewership</u></a></li>
-<li><a href="https://android-unlock.techidaily.com/6-proven-ways-to-unlock-samsung-galaxy-m54-5g-phone-when-you-forget-the-password-by-drfone-android/"><u>6 Proven Ways to Unlock Samsung Galaxy M54 5G Phone When You Forget the Password</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/best-anti-tracker-software-for-apple-iphone-6s-drfone-by-drfone-virtual-ios/"><u>Best Anti Tracker Software For Apple iPhone 6s | Dr.fone</u></a></li>
-<li><a href="https://buynow-info.techidaily.com/discover-the-new-faces-of-zombie-survival-7-days-to-die-game-review-on-monster-makeovers-and-endless-sandbox-exploration/"><u>Discover the New Faces of Zombie Survival: '7 Days to Die' Game Review on Monster Makeovers and Endless Sandbox Exploration</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-6s-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 6s Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-6s-plus-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone 6s Plus Current Location of a Mobile Number | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-5-ways-to-track-apple-iphone-xs-max-without-app-drfone-by-drfone-virtual-ios/"><u>In 2024, 5 Ways to Track Apple iPhone XS Max without App | Dr.fone</u></a></li>
-<li><a href="https://extra-hints.techidaily.com/in-2024-best-practices-in-converting-videos-for-twitter/"><u>In 2024, Best Practices in Converting Videos for Twitter</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-how-to-track-whatsapp-messages-on-apple-iphone-6-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, How to Track WhatsApp Messages on Apple iPhone 6 Plus Without Them Knowing? | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-7-phone-number-locators-to-track-apple-iphone-7-plus-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 7 Phone Number Locators To Track Apple iPhone 7 Plus Location | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-two-ways-to-track-my-boyfriends-apple-iphone-6-without-him-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, Two Ways to Track My Boyfriends Apple iPhone 6 without Him Knowing | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-ways-to-stop-parent-tracking-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>In 2024, Ways to stop parent tracking your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://fake-location.techidaily.com/methods-to-change-gps-location-on-sony-xperia-10-v-drfone-by-drfone-virtual-android/"><u>Methods to Change GPS Location On Sony Xperia 10 V | Dr.fone</u></a></li>
-<li><a href="https://win-solutions.techidaily.com/1722998831559-quick-fixes-for-when-your-discord-overlay-wont-start/"><u>Quick Fixes for When Your Discord Overlay Won't Start</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-5-tracking-apps-to-track-apple-iphone-se-2020-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>Top 5 Tracking Apps to Track Apple iPhone SE (2020) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://facebook-video-footage.techidaily.com/unveiling-the-best-cinematic-love-top-8-premium-wedding-videos-online-for-2024/"><u>Unveiling the Best Cinematic Love Top 8 Premium Wedding Videos Online for 2024</u></a></li>
+<li><a href="https://some-skills.techidaily.com/new-the-comprehen-word-limit-reached-continuation-in-the-next-step/"><u>[New] The Comprehen... (Word Limit Reached, Continuation in the Next Step)</u></a></li>
+<li><a href="https://instagram-video-files.techidaily.com/updated-instagrams-top-25-leaders-in-digital-influence-for-2024/"><u>[Updated] Instagram's Top 25 Leaders in Digital Influence for 2024</u></a></li>
+<li><a href="https://screen-mirroring-recording.techidaily.com/2024-approved-boosting-webcam-quality-with-ease-and-precision/"><u>2024 Approved Boosting WebCam Quality with Ease and Precision</u></a></li>
+<li><a href="https://extra-resources.techidaily.com/8-tips-to-create-attractive-instagram-unboxing-reels/"><u>8 Tips to Create Attractive Instagram Unboxing Reels</u></a></li>
+<li><a href="https://win-blog.techidaily.com/accelerated-troubleshooting-for-instant-relief-from-your-unresponsive-epic-games-launcher/"><u>Accelerated Troubleshooting for Instant Relief From Your Unresponsive Epic Games Launcher</u></a></li>
+<li><a href="https://win-amazing.techidaily.com/comment-transformer-vos-photos-au-format-dng-en-ligne-gratuitement-via-movavi-les-etapes-detaillees/"><u>Comment Transformer Vos Photos Au Format DNG en Ligne Gratuitement via Movavi : Les Étapes Détaillées</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-xs-max-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone XS Max | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-9-best-phone-monitoring-apps-for-apple-iphone-12-drfone-by-drfone-virtual-ios/"><u>In 2024, 9 Best Phone Monitoring Apps for Apple iPhone 12 | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-8-plus-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 8 Plus Location | Dr.fone</u></a></li>
+<li><a href="https://games-able.techidaily.com/no-more-loopholes-valves-new-refund-rules/"><u>No More Loopholes: Valve's New Refund Rules</u></a></li>
+<li><a href="https://data-safeguard.techidaily.com/stellars-top-advice-mastering-the-art-of-secure-data-purging-techniques/"><u>Stellar's Top Advice: Mastering the Art of Secure Data Purging Techniques</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/top-6-appsservices-to-trace-any-apple-iphone-xr-location-by-mobile-number-drfone-by-drfone-virtual-ios/"><u>Top 6 Apps/Services to Trace Any Apple iPhone XR Location By Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://snapchat-videos.techidaily.com/unleash-creativity-your-comprehensible-guide-to-sharing-animated-messages-in-snapchat/"><u>Unleash Creativity Your Comprehensible Guide to Sharing Animated Messages in Snapchat</u></a></li>
 </ul></div>
 

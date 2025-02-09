@@ -1,7 +1,7 @@
 ---
 title: In 2024, 5 Ways to Track Apple iPhone 14 Plus without App | Dr.fone
-date: 2025-01-21T16:14:11.008Z
-updated: 2025-01-28T16:22:54.614Z
+date: 2025-02-05T16:25:07.810Z
+updated: 2025-02-09T16:15:35.762Z
 tags: 
   - virtual location change
   - location tracker
@@ -17,10 +17,6 @@ thumbnail: https://thmb.techidaily.com/73182ed54b3d34ca981abeae24ed800ccc098d1b1
 
 The Find My Apple iPhone 14 Plus app is a great addition to your Apple iPhone 14 Plus, and as the name suggests helps you to not only track your phone in the event it is stolen, but also lock it so that it cannot be misused. But what if you don’ have the app installed? Does that mean that you have to bid adieu to your Apple iPhone 14 Plus forever? Not really, because we are about to reveal to you 5 different ways to track your Apple iPhone 14 Plus without app, so you can hopefully find your phone in the condition it went astray.
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/JlX-G8rBs1w?si=iIhUoWAq5x3YK9rA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 1: Solution 1 – Apple’s iCloud to the rescue
 
 Take note that this solution will not work if you haven’t activated the Find My iPhone service when you set up your device. If you have, here’s how to go about it.
@@ -30,7 +26,7 @@ Step 1. Get started by heading over to iCloud, and logging in with your credenti
 ![sign in to iCloud](https://drfone.wondershare.com/images/article/2017/10/icloud.com-login.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LlVkEwpjKKo?si=hXi-mchMaJvbnIzM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UUPt2zKtJ5k?si=LLHdsFDLzVByJsKj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 If you are greeted with the two factor authentication process, which asks you to insert a code that was sent to your devices, you can simply skip it by heading to the quick access link at the bottom.
@@ -41,6 +37,10 @@ Step 2. From the dashboard, locate the Find iPhone icon on the second row and cl
 
 ![locate the Find iPhone icon](https://images.wondershare.com/drfone/article/2017/10/15075181495657.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/XoC2TGp1PLY?si=iH9xs76NhWn4pP-E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 Step 3. Hover over to the All Devices dropdown menu and choose your Apple iPhone 14 Plus.
 
 ![choose your Apple iPhone 14 Plus](https://images.wondershare.com/drfone/article/2017/10/15075181861335.jpg)
@@ -48,6 +48,10 @@ Step 3. Hover over to the All Devices dropdown menu and choose your Apple iPhone
 Step 4. The tracking process will now begin, and you should be able to see it displayed on an interactive map if successful.
 
 ![begin to track the phone](https://images.wondershare.com/drfone/article/2017/10/15075182429793.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l4R7_qNIQvY?si=2zJOPfEcm6_3udzn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 5. Once you know the exact location of your device, you can do one of three things—activate lost mode, trigger an acoustic signal or erase all data.
 
@@ -58,6 +62,10 @@ Note that this solution will only work if you have Location Services enabled on 
 It’s no surprise that both Apple and the search giant are fond of gathering information on all sorts of things, most notably your location. Google stores this information on its Timeline, so without ado, head to the Google Timeline.
 
 ![head to the Google Timeline to track your Apple iPhone 14 Plus](https://images.wondershare.com/drfone/article/2017/10/example-trip-google-timeline.png)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LlYIdWQc-jw?si=ZQ5809CbQGEar0vg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Step 2. Select the present date from the left hand panel.
 
@@ -75,14 +83,6 @@ Well, if you have the aforementioned prerequisites, head over to photos.google.c
 
 ![Use Google Photos to Track your Apple iPhone 14 Plus](https://images.wondershare.com/drfone/article/2017/10/15075191479909.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/SgRVYjqB70s?si=My_2cDvJVdincQRu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9ECz3oZ8NrQ?si=86vkwkDJo9HQXpzt" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 ## Part 4: Solution 4. Have another iPhone? Use it to Track one that’s gone missing
 
 This method requires that you have Find My Friend enabled on both your missing iPhone and the one you’re going to use to track it. Good news is that starting from iOS 9, this feature is stock and will already be installed on the Apple iPhone 14 Plus device.
@@ -96,10 +96,6 @@ Step 2. Next enable AirDrop from the control center of your Apple iPhone 14 Plus
 Step 3. Once the tracking iPhone’s location is shared with your device, a popup will appear asking you how long you would like to share your location for, which is where you select Share Indefinitely.
 
 ![use another phone to track the missing one](https://images.wondershare.com/drfone/article/2017/10/15075192666907.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/O7ChChlyX2o?si=7pMKdN1NZig1kYek" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 Step 4. When you’re ready to begin tracking, open up the Find My Friends app, click on their contact (your contact in this case) to see its exact location in real time.
 
@@ -163,6 +159,10 @@ Step 6: After completion of the installation process, mSpy will start to trace o
 
 ![how to trace a cell phone with mSpy-view and manage the information](https://images.wondershare.com/drfone/article/2017/11/15096682305397.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/iPCr_bxZjMQ?si=ubOsoq5umPEXL9xL" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 ## Part 2: How to Trace Phone Using Android Device Manager?
 
 If you ask, how to trace a mobile phone through Android, the Android device manager will help you to locate mobile in the easiest way.
@@ -183,15 +183,15 @@ Step 4: When you move on to the android device manager, check the enable status 
 
 ![how to trace a cell phone-Log in to Gmail account](https://images.wondershare.com/drfone/article/2017/11/15096895055659.jpg)
 
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9Sj2QNA-JXI?si=V-_h73iE3VlE214k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
+
 After doing the above settings, this tool will assist you to locate the phone.
 
 ![how to trace a cell phone-Android Device Manager](https://images.wondershare.com/drfone/article/2017/11/15096892277102.jpg)
 
 ![how to trace a cell phone-assist you to locate](https://images.wondershare.com/drfone/article/2017/11/15096686348162.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RvR5PNhspKE?si=uJcMYK9v-_Xq7fAg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 ## Part 3: How to trace iPhone with Find My iPhone?
 
@@ -208,7 +208,7 @@ Steps to Enable Find My iPhone:
 ![how to trace a cell phone- enable Find My iPhone option](https://images.wondershare.com/drfone/article/2017/11/15096686679806.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LaWcXdTn5SE?si=QbxEkX-4a17J5RVs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JMgRzDANfSQ?si=NDy01ntXGGOi1Uxs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 What is the procedure to access Find My iPhone online?
@@ -228,7 +228,7 @@ Lost mode: Music will alert the person who has your Apple iPhone 14 Plus.
 ![how to trace a cell phone-Lost mode](https://images.wondershare.com/drfone/article/2017/11/15096687605089.jpg)
 
 <!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/B2MlLvGxMwI?si=q_blGjXyJrGtzT8d" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Q_69vX9wnRE?si=FtLxkpRhPORqcMeE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <!-- affiliate ads end -->
 
 ## Part 4: How to Trace out Cell Phone Using GPS Tracker?
@@ -236,10 +236,6 @@ Lost mode: Music will alert the person who has your Apple iPhone 14 Plus.
 If your phone was lost, you can make use of GPS technology to track out the phone. Install the GPS Tracker into the target phone. With the presence of a GPS App on phone, hereafter, you can trace out the call history.GPS not only gives detail about call history but also everything like messages, browsing history, location, etc. Just download and install GPS into the target phone and every detail is in your hand after the installation of GPS.
 
 ![how to trace a cell phone-use GPS Tracker](https://images.wondershare.com/drfone/article/2017/11/15096687951412.jpg)
-
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/e4Nt2xXXtmE?si=CtKwFry4b0AJXnaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
 
 The perfect real-time GPS tracker you have never used this kind of feature. It gives a battery life for two weeks and you can access it from anywhere. You can’t miss any alerts and notifications once you installed them on your Apple iPhone 14 Plus. The exact geo-fencing is wide up as the main part to trace your Apple iPhone 14 Plus.
 
@@ -252,6 +248,10 @@ Step 2: You can find out the cell phone activity at all 24\*7 and you will come 
 Step 3: You will get a text message to the user's phone with the location traced.
 
 ![how to trace a cell phone-get a text message to the user phone](https://images.wondershare.com/drfone/article/2017/11/15096688239555.jpg)
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cBCyRXC1-Tw?si=lN9P2xo0hsfyD8K6" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 Link: <https://play.google.com/store/apps/details?id=com.fsp.android.c&hl=en>
 
@@ -270,6 +270,10 @@ In most cases, tracking a lost iPhone has always been made possible thanks to th
 A lot of people have always asked me; is it possible to track my iPhone by phone number? Well; regardless of what people say out there, it is usually close to impossible to track your lost iPhone by primarily using only its phone number. In this case, the phone number in question is the number provided to you by your cellular provider. The moment you lose your Apple iPhone 14 Plus, the chances of the thief changing your SIM card to another SIM card are high. This obviously makes it impossible to track your Apple iPhone 14 Plus via a number that is no longer available. However, there's a leeway on how to track an iPhone by phone number though it depends on sheer chances and lack.
 
 You can only track iPhone by phone number only if the culprit with the phone doesn’t change the SIM card. This is a sheer lack of procedure when you consider the fact that people nowadays steal phones and change the Sim cards as well as the IMEI numbers. If you want to track your Apple iPhone 14 Plus in such cases, your only option would be to contact your cellular provider and ask them to perform a phone triangulation procedure or tell you if any calls were made using your number. Regardless of the type of iPhone tracking services, you might decide to use; the fact still remains that they can’t track your lost iPhone using the phone number. So don’t be duped by these companies or apps that claim to track your lost phone by using the phone number. What they can only do for you is to tell you the last position where the phone was detected, or if any calls were made and to whom. Basically, for you to trace your Apple iPhone 14 Plus, you need its IMEI number, but not the phone number.
+
+<!-- affiliate ads begin -->
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vFQCEZiYA08?si=xjIu5IAy77RlHWii" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<!-- affiliate ads end -->
 
 ## Part 2: How to Track iPhone Online via mSpy
 
@@ -295,10 +299,6 @@ With each and every step followed as required, your next step will be to start m
 
 ![Start Monitoring](https://images.wondershare.com/drfone/article/2016/12/14827039946916.jpg)
 
-<!-- affiliate ads begin -->
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3koT_-kvbks?si=sQV7FzPiz6GYITrE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<!-- affiliate ads end -->
-
 Tracking a lost phone can be fun and at the same time a daunting task. The outcome or the general experience of tracking a lost phone will solely depend on the methods applied in the overall process. As we have seen in this article, though many people may argue that it is possible to track an iPhone by the number it is evident that the overall process can be problematic and in most cases, impossible. The only way out of tracking and finding your phone is by using the IMEI number. Any other number used for iPhone tracking purposes will only be for gathering information for investigative reasons.
 
 <ins class="adsbygoogle"
@@ -315,16 +315,18 @@ Tracking a lost phone can be fun and at the same time a daunting task. The outco
 
 <span class="atpl-alsoreadstyle">Also read:</span>
 <div><ul>
-<li><a href="https://ios-location-track.techidaily.com/2-ways-to-monitor-apple-iphone-6-plus-activity-drfone-by-drfone-virtual-ios/"><u>2 Ways to Monitor Apple iPhone 6 Plus Activity | Dr.fone</u></a></li>
-<li><a href="https://buynow-reviews.techidaily.com/2024s-premier-karaoke-device-rankings-find-your-perfect-match/"><u>2024'S Premier Karaoke Device Rankings - Find Your Perfect Match!</u></a></li>
-<li><a href="https://techno-recovery.techidaily.com/comparing-ipad-pro-mini-vs-macbook-air-m1-2020-understanding-key-distinctions/"><u>Comparing iPad Pro Mini Vs. MacBook Air (M1, 2020): Understanding Key Distinctions</u></a></li>
-<li><a href="https://tech-savvy.techidaily.com/discover-the-best-budget-iphone-iphone-14-plus-offers-endless-power-and-more-features-techreviewz/"><u>Discover the Best Budget iPhone - iPhone 14 Plus Offers Endless Power & More Features! | TechReviewZ</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/how-to-check-distance-and-radius-on-google-maps-for-your-apple-iphone-12-pro-max-drfone-by-drfone-virtual-ios/"><u>How to Check Distance and Radius on Google Maps For your Apple iPhone 12 Pro Max | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-3-ways-to-track-apple-iphone-se-2022-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Ways to Track Apple iPhone SE (2022) without Them Knowing | Dr.fone</u></a></li>
-<li><a href="https://android-transfer.techidaily.com/in-2024-6-ways-to-transfer-contacts-from-oneplus-nord-n30-se-to-iphone-drfone-by-drfone-transfer-from-android-transfer-from-android/"><u>In 2024, 6 Ways To Transfer Contacts From OnePlus Nord N30 SE to iPhone | Dr.fone</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/in-2024-top-4-ways-to-trace-apple-iphone-13-pro-max-location-drfone-by-drfone-virtual-ios/"><u>In 2024, Top 4 Ways to Trace Apple iPhone 13 Pro Max Location | Dr.fone</u></a></li>
-<li><a href="https://sim-unlock.techidaily.com/in-2024-what-does-enter-puk-code-mean-and-why-did-the-sim-get-puk-blocked-on-honor-x50-gt-device-by-drfone-android/"><u>In 2024, What Does Enter PUK Code Mean And Why Did The Sim Get PUK Blocked On Honor X50 GT Device</u></a></li>
-<li><a href="https://video-capture.techidaily.com/savetech-reviews-insights/"><u>SaveTech Reviews Insights</u></a></li>
-<li><a href="https://ios-location-track.techidaily.com/top-10-best-spy-watches-for-your-apple-iphone-14-pro-drfone-by-drfone-virtual-ios/"><u>Top 10 Best Spy Watches For your Apple iPhone 14 Pro | Dr.fone</u></a></li>
+<li><a href="https://instagram-clips.techidaily.com/new-2024-approved-the-rotation-riddle-decoding-the-secrets-of-video-swapping-on-social-media/"><u>[New] 2024 Approved The Rotation Riddle Decoding the Secrets of Video Swapping on Social Media</u></a></li>
+<li><a href="https://fox-friendly.techidaily.com/new-2024-approved-xsplit-exclusive-direct-split-insight/"><u>[New] 2024 Approved XSplit Exclusive Direct Split Insight</u></a></li>
+<li><a href="https://facebook-video-footage.techidaily.com/new-in-2024-eradicating-youtube-content-in-a-device-friendly-way/"><u>[New] In 2024, Eradicating YouTube Content in a Device-Friendly Way</u></a></li>
+<li><a href="https://youtube-web.techidaily.com/ed-step-by-step-guide-to-perfect-gamer-channel-headers-for-2024/"><u>[Updated] Step-By-Step Guide to Perfect Gamer Channel Headers for 2024</u></a></li>
+<li><a href="https://some-knowledge.techidaily.com/comprar-e-entender-o-conversor-vhs-dvd-uma-lista-completa-dos-modelos-digitais-superiores-do-mercado/"><u>Comprar E Entender O Conversor VHS-DVD: Uma Lista Completa Dos Modelos Digitais Superiores Do Mercado</u></a></li>
+<li><a href="https://youtube-videos.techidaily.com/explore-the-best-free-youtube-video-editor-apps-for-android/"><u>Explore the Best Free YouTube Video Editor Apps for Android</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-detect-and-remove-spyware-on-apple-iphone-11-pro-drfone-by-drfone-virtual-ios/"><u>How to Detect and Remove Spyware on Apple iPhone 11 Pro? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-a-lost-apple-iphone-12-pro-max-for-free-drfone-by-drfone-virtual-ios/"><u>How to Track a Lost Apple iPhone 12 Pro Max for Free? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-15-plus-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone 15 Plus Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/how-to-track-whatsapp-messages-on-apple-iphone-se-2020-without-them-knowing-drfone-by-drfone-virtual-ios/"><u>How to Track WhatsApp Messages on Apple iPhone SE (2020) Without Them Knowing? | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-3-solutions-to-find-your-apple-iphone-xs-max-current-location-of-a-mobile-number-drfone-by-drfone-virtual-ios/"><u>In 2024, 3 Solutions to Find Your Apple iPhone XS Max Current Location of a Mobile Number | Dr.fone</u></a></li>
+<li><a href="https://ios-location-track.techidaily.com/in-2024-solutions-to-spy-on-apple-iphone-xs-max-with-and-without-jailbreak-drfone-by-drfone-virtual-ios/"><u>In 2024, Solutions to Spy on Apple iPhone XS Max with and without jailbreak | Dr.fone</u></a></li>
+<li><a href="https://driver-install.techidaily.com/resolve-uart-usb-interface-conflict/"><u>Resolve UART-USB Interface Conflict</u></a></li>
 </ul></div>
 
